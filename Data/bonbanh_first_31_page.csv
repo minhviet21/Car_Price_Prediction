@@ -1,0 +1,605 @@
+Năm sản xuất,Tình trạng,Số km đã đi,Xuất xứ,Kiểu dáng,Hộp số,Động cơ,Màu ngoại thất,Màu nội thất,Dẫn động sau
+2008,Xe đã dùng,"179,000 Km",Nhập khẩu,Hatchback,Số tay,Xăng  0.8 L,Trắng,Trắng,FWD - Dẫn động cầu trước
+2023,Xe đã dùng,"6,500 Km",Nhập khẩu,SUV,Số tự động,Dầu  2.0 L,Trắng,Đen,RFD - Dẫn động cầu sau
+2021,Xe đã dùng,"50,000 Km",Lắp ráp trong nước,Sedan,Số tay,Xăng  1.5 L,Vàng,Đen,FWD - Dẫn động cầu trước
+2015,Xe đã dùng,"65,000 Km",Nhập khẩu,SUV,Số tự động,Dầu  4.4 L,Trắng,Đen,AWD - 4 bánh toàn thời gian
+2023,Xe mới,Xe mới,Lắp ráp trong nước,SUV,Số tự động,Dầu  2.2 L,Trắng,Nâu,AWD - 4 bánh toàn thời gian
+2023,Xe mới,Xe mới,Nhập khẩu,Sedan,Số tự động,Xăng  3.0 L,Đen,Đen,RFD - Dẫn động cầu sau
+2020,Xe đã dùng,"50,000 Km",Nhập khẩu,Sedan,Số tự động,Xăng  2.5 L,Trắng,Nâu,FWD - Dẫn động cầu trước
+2009,Xe đã dùng,"170,000 Km",Nhập khẩu,Crossover,Số tự động,Dầu  2.0 L,Bạc,Đen,FWD - Dẫn động cầu trước
+2021,Xe đã dùng,"19,900 Km",Nhập khẩu,Van/Minivan,Số tự động,Hybrid  2.5 L,Đen,Nâu,AWD - 4 bánh toàn thời gian
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Xăng  1.5 L,Vàng,Đen,FWD - Dẫn động cầu trước
+2006,Xe đã dùng,"20,000 Km",Lắp ráp trong nước,Crossover,Số tay,Xăng  2.0 L,Đen,Kem,RFD - Dẫn động cầu sau
+2021,Xe đã dùng,"41,000 Km",Nhập khẩu,Sedan,Số tự động,Xăng  2.0 L,Trắng,Nâu,RFD - Dẫn động cầu sau
+2011,Xe đã dùng,"81,000 Km",Lắp ráp trong nước,Sedan,Số tay,Xăng  1.8 L,Cát,Kem,FWD - Dẫn động cầu trước
+2015,Xe đã dùng,"90,000 Km",Lắp ráp trong nước,Crossover,Số tay,Xăng  2.0 L,Bạc,Bạc,FWD - Dẫn động cầu trước
+2017,Xe đã dùng,"70,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.5 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2015,Xe đã dùng,"150,000 Km",Lắp ráp trong nước,Crossover,Số tay,Xăng  2.0 L,Bạc,Kem,RFD - Dẫn động cầu sau
+2018,Xe đã dùng,"63,000 Km",Nhập khẩu,Bán tải / Pickup,Số tự động,Dầu  2.5 L,Đen,Đỏ,RFD - Dẫn động cầu sau
+2018,Xe đã dùng,"60,000 Km",Lắp ráp trong nước,Crossover,Số tự động,Dầu  2.0 L,Trắng,Kem,FWD - Dẫn động cầu trước
+2022,Xe đã dùng,20 Km,Lắp ráp trong nước,SUV,Số tự động,Xăng  2.0 L,Đen,Nâu,AWD - 4 bánh toàn thời gian
+2021,Xe đã dùng,"38,000 Km",Nhập khẩu,SUV,Số tự động,Dầu  2.0 L,Đen,Đen,4WD - Dẫn động 4 bánh
+2021,Xe đã dùng,"19,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.4 L,Đỏ,Đen,FWD - Dẫn động cầu trước
+2015,Xe đã dùng,"60,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  2.7 L,Đen,Kem,FWD - Dẫn động cầu trước
+2019,Xe đã dùng,"35,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  2.0 L,Ghi,Đen,AWD - 4 bánh toàn thời gian
+2018,Xe đã dùng,"60,000 Km",Nhập khẩu,SUV,Số tự động,Dầu  2.0 L,Đen,Đen,4WD - Dẫn động 4 bánh
+2021,Xe đã dùng,"40,000 Km",Lắp ráp trong nước,SUV,Số tự động,Dầu  2.8 L,Trắng,Đen,4WD - Dẫn động 4 bánh
+2018,Xe đã dùng,400 Km,Lắp ráp trong nước,Sedan,Số tay,Xăng  1.4 L,Đen,Ghi,FWD - Dẫn động cầu trước
+2019,Xe đã dùng,"50,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  1.5 L,Đen,Đen,FWD - Dẫn động cầu trước
+2011,Xe đã dùng,"60,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  3.5 L,Đen,Ghi,AWD - 4 bánh toàn thời gian
+2012,Xe đã dùng,"140,000 Km",Lắp ráp trong nước,Crossover,Số tay,Xăng  2.0 L,Bạc,Ghi,RFD - Dẫn động cầu sau
+2021,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Xăng  2.0 L,Trắng,Nâu,AWD - 4 bánh toàn thời gian
+2020,Xe đã dùng,"20,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  3.0 L,Xám,Nâu,AWD - 4 bánh toàn thời gian
+2015,Xe đã dùng,"35,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  5.0 L,Trắng,Kem,AWD - 4 bánh toàn thời gian
+2023,Xe mới,Xe mới,Lắp ráp trong nước,SUV,Số tự động,Xăng  1.5 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2020,Xe đã dùng,"3,800 Km",Nhập khẩu,SUV,Số tự động,Xăng  1.5 L,Đen,Đen,FWD - Dẫn động cầu trước
+2020,Xe đã dùng,"60,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.4 L,Trắng,Kem,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Xăng  3.0 L,Trắng,Nâu,AWD - 4 bánh toàn thời gian
+2020,Xe đã dùng,"41,000 Km",Nhập khẩu,Bán tải / Pickup,Số tự động,Dầu  2.0 L,Xanh,Đen,4WD - Dẫn động 4 bánh
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Xăng  1.8 L,Xanh,Đen,FWD - Dẫn động cầu trước
+2015,Xe đã dùng,"98,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  2.0 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2022,Xe đã dùng,"10,000 Km",Lắp ráp trong nước,Hatchback,Số tự động,Xăng  1.25 L,Đỏ,Kem,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Xăng  1.5 L,Trắng,Xám,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,SUV,Số tự động,Xăng  1.5 L,Đen,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.5 L,Cát,Xám,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,SUV,Số tự động,Điện,Xám,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Xăng  1.5 L,Trắng,-,FWD - Dẫn động cầu trước
+2020,Xe đã dùng,"27,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  2.0 L,Trắng,Nâu,AWD - 4 bánh toàn thời gian
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Sedan,Số tự động,Xăng  2.0 L,Đỏ,Đen,FWD - Dẫn động cầu trước
+2007,Xe đã dùng,"80,000 Km",Lắp ráp trong nước,SUV,Số tự động,Xăng  2.4 L,Bạc,Kem,FWD - Dẫn động cầu trước
+2021,Xe đã dùng,"29,000 Km",Lắp ráp trong nước,Crossover,Số tự động,Xăng  2.0 L,Đen,Ghi,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Bán tải / Pickup,Số tự động,Dầu  2.0 L,Đỏ,Đen,4WD - Dẫn động 4 bánh
+2023,Xe mới,Xe mới,Nhập khẩu,Bán tải / Pickup,Số tự động,Dầu  2.0 L,Xám,Đen,4WD - Dẫn động 4 bánh
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Crossover,Số tự động,Xăng  1.5 L,Xanh,Đen,FWD - Dẫn động cầu trước
+2022,Xe đã dùng,"16,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  1.5 L,Đen,Ghi,FWD - Dẫn động cầu trước
+2016,Xe đã dùng,"50,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  2.5 L,Đen,Đen,FWD - Dẫn động cầu trước
+2020,Xe đã dùng,"19,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  2.0 L,Trắng,Nâu,AWD - 4 bánh toàn thời gian
+2004,Xe đã dùng,"60,000 Km",Lắp ráp trong nước,Sedan,Số tay,Xăng  1.8 L,Đen,Ghi,FWD - Dẫn động cầu trước
+2020,Xe đã dùng,"19,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  2.0 L,Xanh,Đen,FWD - Dẫn động cầu trước
+2009,Xe đã dùng,"60,080 Km",Nhập khẩu,SUV,Số tự động,Xăng  4.2 L,Xám,Nâu,AWD - 4 bánh toàn thời gian
+2020,Xe đã dùng,"20,000 Km",Lắp ráp trong nước,Hatchback,Số tự động,Xăng  1.25 L,Trắng,Kem,FWD - Dẫn động cầu trước
+2009,Xe đã dùng,"16,000 Km",Nhập khẩu,Hatchback,Số tay,Xăng  1.1 L,Bạc,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.6 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2022,Xe mới,Xe mới,Nhập khẩu,Sedan,Số tự động,Xăng  3.0 L,Xanh,Đen,RFD - Dẫn động cầu sau
+2022,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Xăng  3.0 L,Đen,Kem,AWD - 4 bánh toàn thời gian
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Xăng  4.0 L,Trắng,Đỏ,AWD - 4 bánh toàn thời gian
+2014,Xe đã dùng,"150,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  3.0 L,Trắng,Đen,RFD - Dẫn động cầu sau
+2023,Xe mới,Xe mới,Nhập khẩu,Sedan,Số tự động,Xăng  3.0 L,Đen,Nâu,RFD - Dẫn động cầu sau
+2022,Xe đã dùng,"46,661 Km",Lắp ráp trong nước,SUV,Số tự động,Xăng  2.0 L,Trắng,Kem,AWD - 4 bánh toàn thời gian
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Sedan,Số tự động,Xăng  2.0 L,Trắng,-,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Nhập khẩu,Sedan,Số tự động,Xăng  1.5 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.5 L,Đỏ,-,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Hybrid  1.5 L,Xanh,Nhiều màu,FWD - Dẫn động cầu trước
+2019,Xe đã dùng,"70,000 Km",Lắp ráp trong nước,SUV,Số tự động,Dầu  2.2 L,Đen,Nâu,AWD - 4 bánh toàn thời gian
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.5 L,Đen,Đen,FWD - Dẫn động cầu trước
+2022,Xe đã dùng,"23,000 Km",Lắp ráp trong nước,SUV,Số tự động,Xăng,Xanh,Trắng,-
+2020,Xe đã dùng,"40,000 Km",Lắp ráp trong nước,SUV,Số tay,Dầu  2.4 L,Trắng,Nâu,RFD - Dẫn động cầu sau
+2014,Xe đã dùng,"130,000 Km",Lắp ráp trong nước,SUV,Số tự động,Xăng  2.7 L,Bạc,Kem,RFD - Dẫn động cầu sau
+2022,Xe đã dùng,"24,000 Km",Nhập khẩu,Crossover,Số tự động,Xăng  1.5 L,Đen,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Nhập khẩu,Sedan,Số tự động,Hybrid  2.5 L,Trắng,Kem,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Nhập khẩu,Sedan,Số tự động,Hybrid  2.5 L,Đen,Đen,FWD - Dẫn động cầu trước
+2019,Xe đã dùng,"63,000 Km",Lắp ráp trong nước,SUV,Số tự động,Xăng  2.5 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,SUV,Số tay,Xăng  1.5 L,Đen,Đen,FWD - Dẫn động cầu trước
+2004,Xe đã dùng,"270,000 Km",Lắp ráp trong nước,SUV,Số tay,Xăng  1.8 L,Xanh,Xám,RFD - Dẫn động cầu sau
+2008,Xe đã dùng,"8,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  5.7 L,Ghi,-,AWD - 4 bánh toàn thời gian
+2018,Xe đã dùng,"41,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  2.0 L,Đen,Đen,AWD - 4 bánh toàn thời gian
+2022,Xe đã dùng,0 Km,Lắp ráp trong nước,Sedan,Số tay,Xăng  1.5 L,Cát,Đen,FWD - Dẫn động cầu trước
+2019,Xe đã dùng,"80,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  2.7 L,Đen,Đen,RFD - Dẫn động cầu sau
+2019,Xe đã dùng,"50,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng,Trắng,Nâu,-
+2023,Xe mới,Xe mới,Nhập khẩu,Hatchback,Số tự động,Xăng  1.5 L,Đỏ,Màu khác,FWD - Dẫn động cầu trước
+2020,Xe đã dùng,"45,000 Km",Lắp ráp trong nước,Crossover,Số tự động,Xăng  2.0 L,Đỏ,Đen,FWD - Dẫn động cầu trước
+2023,Xe đã dùng,"12,000 Km",Nhập khẩu,SUV,Số tự động,Dầu  2.0 L,Trắng,Kem,4WD - Dẫn động 4 bánh
+2008,Xe đã dùng,"78,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  5.7 L,Xám,Nâu,4WD - Dẫn động 4 bánh
+2020,Xe đã dùng,"15,000 Km",Nhập khẩu,Sedan,Số tự động,Xăng  1.5 L,Đỏ,Đen,FWD - Dẫn động cầu trước
+2010,Xe đã dùng,"12,000 Km",Lắp ráp trong nước,SUV,Số tự động,Xăng  2.3 L,Cát,Đen,4WD - Dẫn động 4 bánh
+2023,Xe mới,Xe mới,Lắp ráp trong nước,SUV,Số tự động,Xăng,Trắng,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Bán tải / Pickup,Số tự động,Dầu  2.0 L,Cam,Đen,RFD - Dẫn động cầu sau
+2018,Xe đã dùng,"47,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  2.0 L,Đen,Kem,FWD - Dẫn động cầu trước
+2018,Xe đã dùng,"80,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Hybrid  1.5 L,Đen,Kem,RFD - Dẫn động cầu sau
+2015,Xe đã dùng,"120,000 Km",Lắp ráp trong nước,Sedan,Số tay,Xăng  1.5 L,Vàng,Kem,FWD - Dẫn động cầu trước
+2019,Xe đã dùng,"30,000 Km",Lắp ráp trong nước,SUV,Số tự động,Xăng  1.5 L,Nâu,Đen,FWD - Dẫn động cầu trước
+2016,Xe đã dùng,"23,000 Km",Nhập khẩu,Sedan,Số tự động,Xăng  2.0 L,Xanh,Kem,RFD - Dẫn động cầu sau
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Van/Minivan,Số tự động,Dầu  2.2 L,Đỏ,Nhiều màu,FWD - Dẫn động cầu trước
+2021,Xe đã dùng,"50,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.5 L,Nâu,-,FWD - Dẫn động cầu trước
+2021,Xe đã dùng,"5,100 Km",Lắp ráp trong nước,Crossover,Số tự động,Xăng  2.0 L,Màu khác,Màu khác,FWD - Dẫn động cầu trước
+2020,Xe đã dùng,"91,000 Km",Lắp ráp trong nước,SUV,Số tự động,Dầu  2.4 L,Trắng,Đen,RFD - Dẫn động cầu sau
+2020,Xe đã dùng,"58,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  2.0 L,Vàng,Nâu,AWD - 4 bánh toàn thời gian
+2022,Xe đã dùng,"35,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.4 L,Đỏ,Kem,FWD - Dẫn động cầu trước
+2022,Xe mới,Xe mới,Nhập khẩu,Sedan,Số tự động,Xăng  1.5 L,Đỏ,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Van/Minivan,Số tự động,Dầu  2.2 L,Trắng,Kem,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Hybrid  1.5 L,Đỏ,Đen,FWD - Dẫn động cầu trước
+2014,Xe đã dùng,"15,000 Km",Lắp ráp trong nước,Crossover,Số tay,Xăng  2.0 L,Bạc,Kem,RFD - Dẫn động cầu sau
+2015,Xe đã dùng,"14,000 Km",Lắp ráp trong nước,Sedan,Số tay,Xăng  1.5 L,Đen,Kem,FWD - Dẫn động cầu trước
+2019,Xe đã dùng,"60,000 Km",Lắp ráp trong nước,SUV,Số tự động,Xăng  2.0 L,Trắng,Đen,AWD - 4 bánh toàn thời gian
+2019,Xe đã dùng,"80,000 Km",Nhập khẩu,Bán tải / Pickup,Số tự động,Dầu  2.4 L,Trắng,Đen,4WD - Dẫn động 4 bánh
+2016,Xe đã dùng,"15,000 Km",Nhập khẩu,Sedan,Số tay,Xăng  1.4 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2022,Xe đã dùng,"9,000 Km",Nhập khẩu,SUV,Số tự động,Hybrid  1.8 L,Trắng,Nâu,FWD - Dẫn động cầu trước
+2020,Xe đã dùng,0 Km,Lắp ráp trong nước,SUV,Số tự động,Xăng  1.6 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2023,Xe đã dùng,0 Km,Lắp ráp trong nước,Sedan,Số tự động,Xăng  2.0 L,Trắng,Nâu,RFD - Dẫn động cầu sau
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Xăng  1.0 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2014,Xe đã dùng,"70,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  2.7 L,Cát,Nâu,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,SUV,Số tự động,Xăng  2.0 L,Trắng,Nâu,AWD - 4 bánh toàn thời gian
+2015,Xe đã dùng,"78,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  2.0 L,Màu khác,Kem,AWD - 4 bánh toàn thời gian
+2016,Xe đã dùng,0 Km,Nhập khẩu,SUV,Số tự động,Xăng  5.7 L,Trắng,Đỏ,AWD - 4 bánh toàn thời gian
+2019,Xe đã dùng,"82,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  1.5 L,Trắng,Kem,FWD - Dẫn động cầu trước
+2021,Xe đã dùng,0 Km,Nhập khẩu,Van/Minivan,Số tự động,Xăng  3.5 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2022,Xe đã dùng,"23,000 Km",Lắp ráp trong nước,Crossover,Số tự động,Điện  0.1 L,Xanh,Đen,FWD - Dẫn động cầu trước
+2011,Xe đã dùng,"86,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.8 L,Bạc,Đen,RFD - Dẫn động cầu sau
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Xăng  3.4 L,Đen,Đen,AWD - 4 bánh toàn thời gian
+2018,Xe đã dùng,"73,000 Km",Lắp ráp trong nước,SUV,Số tự động,Xăng  1.5 L,Đen,Đen,FWD - Dẫn động cầu trước
+2012,Xe đã dùng,"65,000 Km",Nhập khẩu,Van/Minivan,Số tự động,Xăng  2.7 L,Vàng,Kem,FWD - Dẫn động cầu trước
+2017,Xe đã dùng,"55,000 Km",Lắp ráp trong nước,SUV,Số tự động,Xăng  2.0 L,Bạc,Đen,FWD - Dẫn động cầu trước
+2021,Xe đã dùng,"29,010 Km",Nhập khẩu,Bán tải / Pickup,Số tự động,Dầu  2.2 L,Xanh,Đen,RFD - Dẫn động cầu sau
+2019,Xe đã dùng,"50,000 Km",Nhập khẩu,SUV,Số tự động,Dầu  2.0 L,Nâu,Đen,RFD - Dẫn động cầu sau
+2017,Xe đã dùng,"20,000 Km",Lắp ráp trong nước,SUV,Số tự động,Xăng  2.0 L,Đen,Nâu,AWD - 4 bánh toàn thời gian
+2013,Xe đã dùng,"58,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  2.0 L,Đỏ,Nhiều màu,AWD - 4 bánh toàn thời gian
+2010,Xe đã dùng,"89,000 Km",Nhập khẩu,Sedan,Số tự động,Xăng  2.4 L,Đen,Đen,FWD - Dẫn động cầu trước
+2019,Xe đã dùng,"50,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  2.0 L,Đen,Nâu,RFD - Dẫn động cầu sau
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Xăng  3.4 L,Trắng,Kem,AWD - 4 bánh toàn thời gian
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Xăng  2.4 L,Cát,Nâu,AWD - 4 bánh toàn thời gian
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Bán tải / Pickup,Số tự động,Dầu  2.0 L,Trắng,Đen,RFD - Dẫn động cầu sau
+2023,Xe mới,Xe mới,Lắp ráp trong nước,SUV,Số tự động,Xăng  1.5 L,Nâu,Ghi,FWD - Dẫn động cầu trước
+2015,Xe đã dùng,"60,000 Km",Lắp ráp trong nước,SUV,Số tự động,Xăng  1.5 L,Trắng,Ghi,FWD - Dẫn động cầu trước
+2021,Xe đã dùng,"25,000 Km",Nhập khẩu,Van/Minivan,Số tự động,Xăng  3.5 L,Đen,Đen,FWD - Dẫn động cầu trước
+2020,Xe đã dùng,"39,300 Km",Lắp ráp trong nước,Sedan,Số tay,Xăng  1.4 L,Màu khác,Màu khác,FWD - Dẫn động cầu trước
+2017,Xe đã dùng,"50,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  2.0 L,Đỏ,Đen,AWD - 4 bánh toàn thời gian
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Crossover,Số tự động,Xăng  1.4 L,Xanh,Đen,FWD - Dẫn động cầu trước
+2012,Xe đã dùng,"60,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  2.0 L,Đen,Kem,AWD - 4 bánh toàn thời gian
+2022,Xe đã dùng,"5,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  2.0 L,Đỏ,Đen,RFD - Dẫn động cầu sau
+2017,Xe đã dùng,"62,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.5 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2017,Xe đã dùng,"46,000 Km",Nhập khẩu,Hatchback,Số tự động,Xăng  1.5 L,Đỏ,Nâu,FWD - Dẫn động cầu trước
+2021,Xe đã dùng,"10,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  3.0 L,Xanh,Đen,AWD - 4 bánh toàn thời gian
+2017,Xe đã dùng,"110,000 Km",Nhập khẩu,Bán tải / Pickup,Số tự động,Dầu  2.5 L,Cam,Kem,4WD - Dẫn động 4 bánh
+2016,Xe đã dùng,"78,000 Km",Nhập khẩu,Bán tải / Pickup,Số tự động,Dầu  3.2 L,Cam,Nhiều màu,4WD - Dẫn động 4 bánh
+2019,Xe đã dùng,"50,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  2.0 L,Xanh,Nâu,AWD - 4 bánh toàn thời gian
+2012,Xe đã dùng,"82,000 Km",Nhập khẩu,Sedan,Số tự động,Xăng  2.0 L,Trắng,Đỏ,RFD - Dẫn động cầu sau
+2023,Xe mới,Xe mới,Lắp ráp trong nước,SUV,Số tự động,Xăng  1.5 L,Đen,Đen,FWD - Dẫn động cầu trước
+2016,Xe đã dùng,"140,000 Km",Lắp ráp trong nước,SUV,Số tự động,Xăng  2.4 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2019,Xe đã dùng,"56,000 Km",Nhập khẩu,SUV,Số tự động,Dầu  2.0 L,Đỏ,Đen,4WD - Dẫn động 4 bánh
+2015,Xe đã dùng,"108,520 Km",Nhập khẩu,Bán tải / Pickup,Số tay,Dầu  2.2 L,Nâu,Đen,4WD - Dẫn động 4 bánh
+2022,Xe đã dùng,"12,000 Km",Lắp ráp trong nước,Crossover,Số tự động,Xăng  2.0 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2018,Xe đã dùng,"60,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.6 L,Trắng,Kem,FWD - Dẫn động cầu trước
+2018,Xe đã dùng,"38,000 Km",Lắp ráp trong nước,SUV,Số tự động,Xăng  1.0 L,Đen,Đen,FWD - Dẫn động cầu trước
+2019,Xe đã dùng,"12,000 Km",Lắp ráp trong nước,SUV,Số tự động,Xăng  2.0 L,Xanh,Nâu,AWD - 4 bánh toàn thời gian
+2017,Xe đã dùng,"32,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  3.0 L,Trắng,Nâu,AWD - 4 bánh toàn thời gian
+2015,Xe đã dùng,"59,000 Km",Nhập khẩu,Hatchback,Số tự động,Xăng  1.3 L,Trắng,Nhiều màu,FWD - Dẫn động cầu trước
+2016,Xe đã dùng,"50,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.8 L,Trắng,Xám,FWD - Dẫn động cầu trước
+2012,Xe đã dùng,"135,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.8 L,Ghi,Kem,FWD - Dẫn động cầu trước
+2022,Xe đã dùng,"6,000 Km",Lắp ráp trong nước,Van/Minivan,Số tự động,Dầu  2.2 L,Đỏ,Nâu,FWD - Dẫn động cầu trước
+2022,Xe đã dùng,"20,000 Km",Lắp ráp trong nước,SUV,Số tự động,Xăng  2.0 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2016,Xe đã dùng,"75,000 Km",Lắp ráp trong nước,SUV,Số tự động,Xăng  2.0 L,Đen,Kem,AWD - 4 bánh toàn thời gian
+2022,Xe đã dùng,"35,000 Km",Nhập khẩu,SUV,Số tự động,Dầu  2.0 L,Đen,Đen,RFD - Dẫn động cầu sau
+2021,Xe đã dùng,"35,000 Km",Lắp ráp trong nước,Crossover,Số tự động,Dầu  2.0 L,Đỏ,Kem,FWD - Dẫn động cầu trước
+2019,Xe đã dùng,"71,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  2.0 L,Đen,Nhiều màu,FWD - Dẫn động cầu trước
+2021,Xe đã dùng,"21,000 Km",Lắp ráp trong nước,SUV,Số tự động,Dầu  2.2 L,Trắng,Kem,FWD - Dẫn động cầu trước
+2020,Xe đã dùng,"20,000 Km",Lắp ráp trong nước,Hatchback,Số tự động,Xăng  2.0 L,Đỏ,Đỏ,FWD - Dẫn động cầu trước
+2021,Xe đã dùng,"20,000 Km",Lắp ráp trong nước,Crossover,Số tự động,Xăng  1.2 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2018,Xe đã dùng,"61,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  3.5 L,Xanh,Nâu,AWD - 4 bánh toàn thời gian
+2020,Xe đã dùng,0 Km,Lắp ráp trong nước,Crossover,Số tự động,Xăng  1.6 L,Đỏ,Đen,FWD - Dẫn động cầu trước
+2018,Xe đã dùng,"39,000 Km",Nhập khẩu,Crossover,Số tự động,Xăng  1.4 L,Xanh,Đen,FWD - Dẫn động cầu trước
+2022,Xe đã dùng,"10,000 Km",Lắp ráp trong nước,SUV,Số tự động,Xăng  2.0 L,Trắng,Ghi,FWD - Dẫn động cầu trước
+2018,Xe đã dùng,"55,000 Km",Lắp ráp trong nước,Crossover,Số tự động,Xăng  2.0 L,Nâu,Kem,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Xăng  1.5 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2021,Xe đã dùng,"17,000 Km",Nhập khẩu,Van/Minivan,Số tự động,Hybrid  2.5 L,Trắng,Nâu,FWD - Dẫn động cầu trước
+2015,Xe đã dùng,"75,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  5.7 L,Trắng,Nâu,AWD - 4 bánh toàn thời gian
+2020,Xe đã dùng,"52,000 Km",Nhập khẩu,Sedan,Số tự động,Xăng  2.5 L,Trắng,Nâu,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Bán tải / Pickup,Số tự động,Dầu  2.0 L,Trắng,Đen,4WD - Dẫn động 4 bánh
+2022,Xe mới,Xe mới,Lắp ráp trong nước,SUV,Số tự động,Hybrid  1.6 L,Trắng,Nâu,AWD - 4 bánh toàn thời gian
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Van/Minivan,Số tự động,Dầu  2.2 L,Trắng,Kem,FWD - Dẫn động cầu trước
+2021,Xe đã dùng,"25,000 Km",Lắp ráp trong nước,SUV,Số tự động,Xăng,Đen,Đen,-
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Xăng  1.5 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2022,Xe mới,Xe mới,Nhập khẩu,Sedan,Số tự động,Xăng  1.2 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2015,Xe đã dùng,"68,209 Km",Lắp ráp trong nước,Hatchback,Số tự động,Xăng  1.4 L,Đỏ,Nâu,FWD - Dẫn động cầu trước
+2009,Xe đã dùng,0 Km,Nhập khẩu,SUV,Số tự động,Xăng  3.5 L,Bạc,Đen,FWD - Dẫn động cầu trước
+2016,Xe đã dùng,"96,000 Km",Nhập khẩu,Crossover,Số tự động,Xăng  1.6 L,Bạc,Đen,AWD - 4 bánh toàn thời gian
+2014,Xe đã dùng,"130,000 Km",Lắp ráp trong nước,SUV,Số tự động,Xăng  2.0 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.5 L,Đen,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Bán tải / Pickup,Số tự động,Dầu  2.0 L,Đen,Đen,RFD - Dẫn động cầu sau
+2013,Xe đã dùng,"1,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.8 L,Xanh,Kem,RFD - Dẫn động cầu sau
+2016,Xe đã dùng,"57,600 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  2.0 L,Trắng,Đen,RFD - Dẫn động cầu sau
+2021,Xe đã dùng,"50,000 Km",Nhập khẩu,Sedan,Số tự động,Xăng  2.5 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Bán tải / Pickup,Số tự động,Dầu  2.0 L,Đỏ,Đen,RFD - Dẫn động cầu sau
+2009,Xe đã dùng,"165,000 Km",Lắp ráp trong nước,Crossover,Số tay,Xăng  2.0 L,Bạc,Kem,RFD - Dẫn động cầu sau
+2023,Xe mới,Xe mới,Nhập khẩu,Bán tải / Pickup,Số tự động,Dầu  2.4 L,Đen,Nhiều màu,4WD - Dẫn động 4 bánh
+2021,Xe đã dùng,"38,000 Km",Nhập khẩu,Sedan,Số tự động,Xăng  2.0 L,Trắng,Kem,FWD - Dẫn động cầu trước
+2015,Xe đã dùng,"118,869 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.5 L,Nâu,Kem,FWD - Dẫn động cầu trước
+2014,Xe đã dùng,"74,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  2.4 L,Trắng,Đen,4WD - Dẫn động 4 bánh
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Xăng  1.5 L,Trắng,-,FWD - Dẫn động cầu trước
+2018,Xe đã dùng,"95,000 Km",Lắp ráp trong nước,Sedan,Số tay,Xăng  1.25 L,Bạc,Nhiều màu,FWD - Dẫn động cầu trước
+2019,Xe đã dùng,"65,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  2.0 L,Trắng,Nâu,RFD - Dẫn động cầu sau
+2021,Xe đã dùng,"73,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.5 L,Đỏ,Đen,FWD - Dẫn động cầu trước
+2019,Xe đã dùng,"60,000 Km",Nhập khẩu,Bán tải / Pickup,Số tự động,Dầu  2.5 L,Đồng,Tím,RFD - Dẫn động cầu sau
+2021,Xe đã dùng,"40,000 Km",Nhập khẩu,SUV,Số tự động,Dầu  2.0 L,Trắng,Đen,4WD - Dẫn động 4 bánh
+2017,Xe đã dùng,"67,500 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.5 L,Đỏ,Kem,FWD - Dẫn động cầu trước
+2018,Xe đã dùng,"50,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  2.3 L,Đỏ,Đen,AWD - 4 bánh toàn thời gian
+2022,Xe mới,Xe mới,Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.5 L,Đen,Đen,RFD - Dẫn động cầu sau
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Sedan,Số tự động,Xăng  2.0 L,Đỏ,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,SUV,Số tự động,Điện,Xám,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,SUV,Số tự động,Xăng  1.5 L,Đen,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Nhập khẩu,Sedan,Số tự động,Xăng  2.5 L,Xanh,Nâu,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Bán tải / Pickup,Số tự động,Dầu  2.0 L,Đen,Đen,RFD - Dẫn động cầu sau
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Van/Minivan,Số tay,Dầu  2.2 L,Bạc,Nhiều màu,RFD - Dẫn động cầu sau
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Xăng  1.5 L,Cam,Ghi,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Nhập khẩu,Bán tải / Pickup,Số tự động,Dầu  2.0 L,Trắng,Đen,4WD - Dẫn động 4 bánh
+2023,Xe mới,Xe mới,Nhập khẩu,Bán tải / Pickup,Số tự động,Dầu  2.4 L,Trắng,Nhiều màu,RFD - Dẫn động cầu sau
+2022,Xe đã dùng,1 Km,Nhập khẩu,SUV,Số tự động,Xăng  1.8 L,Trắng,Nâu,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Van/Minivan,Số tự động,Dầu  2.2 L,Đen,Nâu,FWD - Dẫn động cầu trước
+2020,Xe đã dùng,"18,254 Km",Nhập khẩu,Hatchback,Số tự động,Xăng  1.2 L,Đỏ,Kem,FWD - Dẫn động cầu trước
+2017,Xe đã dùng,"70,000 Km",Nhập khẩu,Bán tải / Pickup,Số tay,Dầu  2.2 L,Đen,Kem,RFD - Dẫn động cầu sau
+2022,Xe đã dùng,"15,000 Km",Lắp ráp trong nước,Bán tải / Pickup,Số tự động,Dầu  2.0 L,Đỏ,Đen,RFD - Dẫn động cầu sau
+2017,Xe đã dùng,"80,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  2.7 L,Đen,Kem,4WD - Dẫn động 4 bánh
+2015,Xe đã dùng,"96,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  3.5 L,Trắng,Nâu,AWD - 4 bánh toàn thời gian
+2023,Xe đã dùng,"17,000 Km",Nhập khẩu,SUV,Số tự động,Dầu  2.0 L,Đen,Nâu,4WD - Dẫn động 4 bánh
+2022,Xe đã dùng,"5,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.5 L,Đen,Nâu,RFD - Dẫn động cầu sau
+2021,Xe đã dùng,0 Km,Nhập khẩu,Sedan,Số tự động,Xăng  2.0 L,Trắng,Đen,AWD - 4 bánh toàn thời gian
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Dầu  2.0 L,Trắng,Kem,4WD - Dẫn động 4 bánh
+2016,Xe đã dùng,"33,000 Km",Lắp ráp trong nước,Hatchback,Số tự động,Xăng  1.4 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2020,Xe đã dùng,"15,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.5 L,Cát,Ghi,FWD - Dẫn động cầu trước
+2020,Xe đã dùng,"28,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  1.8 L,Đen,Nâu,FWD - Dẫn động cầu trước
+2018,Xe đã dùng,"66,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  1.5 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2022,Xe đã dùng,"9,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.6 L,Trắng,Ghi,FWD - Dẫn động cầu trước
+2021,Xe đã dùng,"15,000 Km",Nhập khẩu,Hatchback,Số tự động,Xăng  1.2 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2021,Xe đã dùng,"20,000 Km",Lắp ráp trong nước,Hatchback,Số tự động,Xăng  1.25 L,Đỏ,-,FWD - Dẫn động cầu trước
+2020,Xe đã dùng,"22,000 Km",Lắp ráp trong nước,Crossover,Số tự động,Xăng  2.0 L,Đỏ,Đen,FWD - Dẫn động cầu trước
+2022,Xe đã dùng,"2,500 Km",Lắp ráp trong nước,Bán tải / Pickup,Số tự động,Dầu  2.0 L,-,-,4WD - Dẫn động 4 bánh
+2022,Xe đã dùng,"9,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  2.0 L,Trắng,Nâu,AWD - 4 bánh toàn thời gian
+2022,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Xăng  2.0 L,Đen,Nâu,AWD - 4 bánh toàn thời gian
+2020,Xe đã dùng,"46,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  1.5 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Xăng  2.0 L,Trắng,Đen,AWD - 4 bánh toàn thời gian
+2022,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Xăng  2.0 L,Xanh,Đen,AWD - 4 bánh toàn thời gian
+2020,Xe đã dùng,"63,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.5 L,Đỏ,Kem,FWD - Dẫn động cầu trước
+2019,Xe đã dùng,"53,000 Km",Lắp ráp trong nước,Sedan,Số tay,Xăng  1.25 L,Trắng,Kem,FWD - Dẫn động cầu trước
+2022,Xe mới,Xe mới,Nhập khẩu,Sedan,Số tự động,Xăng  1.2 L,Trắng,Màu khác,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Hatchback,Số tay,Xăng  1.25 L,Trắng,-,FWD - Dẫn động cầu trước
+2023,Xe đã dùng,"6,000 Km",Lắp ráp trong nước,SUV,Số tự động,Điện  0.2 L,Đen,Kem,AWD - 4 bánh toàn thời gian
+2022,Xe đã dùng,"40,000 Km",Lắp ráp trong nước,Crossover,Số tự động,Xăng  1.6 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2018,Xe đã dùng,"61,000 Km",Lắp ráp trong nước,SUV,Số tự động,Xăng  2.5 L,Xanh,Đen,FWD - Dẫn động cầu trước
+2018,Xe đã dùng,0 Km,Lắp ráp trong nước,Hatchback,Số tay,Xăng  1.2 L,Đỏ,Xám,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Dầu  2.0 L,Đỏ,Nâu,4WD - Dẫn động 4 bánh
+2017,Xe đã dùng,"52,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  2.0 L,Xanh,Nâu,RFD - Dẫn động cầu sau
+2020,Xe đã dùng,0 Km,Lắp ráp trong nước,Crossover,Số tự động,Xăng  2.0 L,Xanh,Đen,FWD - Dẫn động cầu trước
+2009,Xe đã dùng,0 Km,Nhập khẩu,Hatchback,Số tự động,Xăng  2.0 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2020,Xe đã dùng,"25,000 Km",Lắp ráp trong nước,Van/Minivan,Số tự động,Dầu  2.2 L,Đen,Nâu,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Xăng  1.8 L,Đen,Đen,FWD - Dẫn động cầu trước
+2021,Xe đã dùng,0 Km,Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.6 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Xăng  1.5 L,Nâu,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,SUV,Số tự động,Xăng  1.5 L,Trắng,Kem,FWD - Dẫn động cầu trước
+2015,Xe đã dùng,"40,000 Km",Nhập khẩu,Hatchback,Số tự động,Xăng  1.2 L,Trắng,Kem,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Nhập khẩu,Sedan,Số tự động,Xăng  2.0 L,Trắng,-,FWD - Dẫn động cầu trước
+2019,Xe đã dùng,0 Km,Nhập khẩu,Hatchback,Số tay,Xăng  1.2 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2017,Xe đã dùng,"100,000 Km",Lắp ráp trong nước,Hatchback,Số tay,Xăng  1.25 L,Trắng,Trắng,FWD - Dẫn động cầu trước
+2019,Xe đã dùng,"73,102 Km",Lắp ráp trong nước,SUV,Số tự động,Xăng  2.5 L,Đỏ,Đen,FWD - Dẫn động cầu trước
+2010,Xe đã dùng,"89,000 Km",Lắp ráp trong nước,SUV,Số tự động,Xăng  2.3 L,Ghi,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Xăng  1.5 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.5 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2017,Xe đã dùng,"45,000 Km",Nhập khẩu,Sedan,Số tự động,Xăng  2.0 L,Trắng,Nâu,RFD - Dẫn động cầu sau
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.5 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,SUV,Số tự động,Xăng  1.5 L,Trắng,Nhiều màu,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Nhập khẩu,Sedan,Số tự động,Xăng  2.0 L,Đen,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Xăng  1.5 L,Cam,Đen,FWD - Dẫn động cầu trước
+2017,Xe đã dùng,"60,000 Km",Lắp ráp trong nước,Crossover,Số tự động,Xăng  2.0 L,Trắng,Kem,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Xăng  3.4 L,Trắng,Kem,AWD - 4 bánh toàn thời gian
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Xăng  1.0 L,Đỏ,Đen,FWD - Dẫn động cầu trước
+2018,Xe đã dùng,"60,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.6 L,Đỏ,Kem,FWD - Dẫn động cầu trước
+2009,Xe đã dùng,"150,000 Km",Nhập khẩu,Hatchback,Số tự động,Xăng  1.0 L,Xám,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,SUV,Số tự động,Dầu  2.2 L,Đỏ,Nâu,AWD - 4 bánh toàn thời gian
+2020,Xe đã dùng,"20,000 Km",Nhập khẩu,Sedan,Số tự động,Xăng  2.0 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2010,Xe đã dùng,"110,000 Km",Nhập khẩu,Sedan,Số tự động,Xăng  2.0 L,Đen,Đen,FWD - Dẫn động cầu trước
+2011,Xe đã dùng,"98,000 Km",Lắp ráp trong nước,Hatchback,Số tự động,Xăng  1.8 L,Hồng,Đen,FWD - Dẫn động cầu trước
+2016,Xe đã dùng,"70,000 Km",Lắp ráp trong nước,Crossover,Số tay,Xăng  2.0 L,Bạc,Ghi,RFD - Dẫn động cầu sau
+2021,Xe đã dùng,0 Km,Nhập khẩu,Van/Minivan,Số tự động,Hybrid  2.5 L,Trắng,-,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Nhập khẩu,Crossover,Số tự động,Xăng  1.5 L,Xanh,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Nhập khẩu,Convertible/Cabriolet,Số tự động,Xăng  2.0 L,Tím,Nâu,RFD - Dẫn động cầu sau
+2019,Xe đã dùng,0 Km,Lắp ráp trong nước,Sedan,Số tay,Xăng  1.6 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2015,Xe đã dùng,"90,000 Km",Lắp ráp trong nước,SUV,Số tự động,Xăng  2.7 L,Trắng,-,RFD - Dẫn động cầu sau
+1996,Xe đã dùng,"320,000 Km",Nhập khẩu,Sedan,Số tay,Xăng  2.4 L,Xanh,Đỏ,RFD - Dẫn động cầu sau
+2021,Xe đã dùng,"14,000 Km",Lắp ráp trong nước,Crossover,Số tự động,Xăng  1.4 L,Đen,Kem,FWD - Dẫn động cầu trước
+2010,Xe đã dùng,"60,000 Km",Nhập khẩu,Crossover,Số tự động,Xăng  3.5 L,Trắng,Kem,AWD - 4 bánh toàn thời gian
+2017,Xe đã dùng,"80,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  5.7 L,Đen,Nâu,AWD - 4 bánh toàn thời gian
+2015,Xe đã dùng,"79,999 Km",Lắp ráp trong nước,SUV,Số tự động,Xăng  1.5 L,Xám,Xám,FWD - Dẫn động cầu trước
+2019,Xe đã dùng,"63,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.5 L,Trắng,Kem,FWD - Dẫn động cầu trước
+2022,Xe đã dùng,"15,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  1.5 L,Cam,Đen,FWD - Dẫn động cầu trước
+2018,Xe đã dùng,"65,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  1.5 L,Đen,Nhiều màu,FWD - Dẫn động cầu trước
+2020,Xe đã dùng,"25,000 Km",Lắp ráp trong nước,SUV,Số tự động,Xăng  1.5 L,Trắng,Ghi,FWD - Dẫn động cầu trước
+2019,Xe đã dùng,"12,000 Km",Nhập khẩu,Bán tải / Pickup,Số tự động,Xăng  3.5 L,Trắng,Nâu,4WD - Dẫn động 4 bánh
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.5 L,Xanh,Đen,FWD - Dẫn động cầu trước
+2020,Xe đã dùng,"34,566 Km",Nhập khẩu,SUV,Số tự động,Xăng  5.7 L,Ghi,Nâu,AWD - 4 bánh toàn thời gian
+2022,Xe đã dùng,"22,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  2.0 L,Đỏ,Đen,FWD - Dẫn động cầu trước
+2017,Xe đã dùng,0 Km,Nhập khẩu,Bán tải / Pickup,Số tự động,Dầu  3.2 L,Cam,Đen,4WD - Dẫn động 4 bánh
+2021,Xe đã dùng,"28,000 Km",Lắp ráp trong nước,Crossover,Số tự động,Xăng  2.0 L,Đỏ,Kem,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,SUV,Số tay,Xăng  1.5 L,Trắng,Đen,RFD - Dẫn động cầu sau
+2022,Xe đã dùng,"17,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.5 L,Trắng,Kem,FWD - Dẫn động cầu trước
+2018,Xe đã dùng,"35,000 Km",Lắp ráp trong nước,SUV,Số tự động,Xăng  2.0 L,Đen,Nâu,AWD - 4 bánh toàn thời gian
+2016,Xe đã dùng,"32,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  3.6 L,Nâu,Kem,AWD - 4 bánh toàn thời gian
+2013,Xe đã dùng,"60,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  2.0 L,Đen,Kem,AWD - 4 bánh toàn thời gian
+2019,Xe đã dùng,"43,000 Km",Lắp ráp trong nước,SUV,Số tự động,Xăng  2.0 L,Trắng,Trắng,AWD - 4 bánh toàn thời gian
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Xăng  1.5 L,Đỏ,-,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Bán tải / Pickup,Số tự động,Dầu  2.0 L,Trắng,Đen,4WD - Dẫn động 4 bánh
+2022,Xe đã dùng,0 Km,Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.5 L,Đen,Kem,FWD - Dẫn động cầu trước
+2017,Xe đã dùng,0 Km,Lắp ráp trong nước,SUV,Số tự động,Xăng  2.0 L,Bạc,Kem,FWD - Dẫn động cầu trước
+2020,Xe đã dùng,"26,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  3.0 L,Xám,Nâu,AWD - 4 bánh toàn thời gian
+2015,Xe đã dùng,"37,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  5.0 L,Trắng,Kem,AWD - 4 bánh toàn thời gian
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Bán tải / Pickup,Số tự động,Dầu  2.0 L,Đỏ,Đen,4WD - Dẫn động 4 bánh
+2021,Xe đã dùng,"50,000 Km",Lắp ráp trong nước,SUV,Số tự động,Xăng  2.5 L,Trắng,Nâu,FWD - Dẫn động cầu trước
+2021,Xe đã dùng,"52,000 Km",Nhập khẩu,Bán tải / Pickup,Số tự động,Dầu  2.5 L,Đen,Đen,4WD - Dẫn động 4 bánh
+2015,Xe đã dùng,"78,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  2.0 L,Xanh,Nâu,AWD - 4 bánh toàn thời gian
+2022,Xe đã dùng,"30,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.4 L,Trắng,Màu khác,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Nhập khẩu,Bán tải / Pickup,Số tự động,Dầu  2.0 L,Trắng,Đen,4WD - Dẫn động 4 bánh
+2016,Xe đã dùng,"65,000 Km",Lắp ráp trong nước,Van/Minivan,Số tự động,Xăng  3.3 L,Cát,Kem,FWD - Dẫn động cầu trước
+2022,Xe đã dùng,"16,000 Km",Lắp ráp trong nước,Crossover,Số tự động,Xăng  1.6 L,Trắng,Nâu,AWD - 4 bánh toàn thời gian
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Dầu  2.0 L,Bạc,Đen,RFD - Dẫn động cầu sau
+2012,Xe đã dùng,"65,000 Km",Nhập khẩu,Van/Minivan,Số tự động,Xăng  2.7 L,Vàng,Kem,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Bán tải / Pickup,Số tự động,Dầu  2.0 L,Xám,Đen,4WD - Dẫn động 4 bánh
+2017,Xe đã dùng,"55,000 Km",Lắp ráp trong nước,SUV,Số tự động,Xăng  2.0 L,Bạc,Đen,FWD - Dẫn động cầu trước
+2015,Xe đã dùng,0 Km,Lắp ráp trong nước,SUV,Số tự động,Xăng  1.5 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2017,Xe đã dùng,"46,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  3.0 L,Trắng,Kem,RFD - Dẫn động cầu sau
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Xăng  1.5 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2018,Xe đã dùng,"50,000 Km",Lắp ráp trong nước,SUV,Số tự động,Xăng  2.0 L,Đen,Kem,FWD - Dẫn động cầu trước
+2018,Xe đã dùng,"30,000 Km",Lắp ráp trong nước,Hatchback,Số tự động,Xăng  1.25 L,Xanh,Nhiều màu,FWD - Dẫn động cầu trước
+2017,Xe đã dùng,0 Km,Lắp ráp trong nước,SUV,Số tự động,Xăng  2.5 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Nhập khẩu,Bán tải / Pickup,Số tự động,Dầu  2.3 L,Đen,Đen,4WD - Dẫn động 4 bánh
+2021,Xe đã dùng,"30,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.6 L,Đỏ,Kem,FWD - Dẫn động cầu trước
+2010,Xe đã dùng,"100,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  4.6 L,Xanh,Kem,AWD - 4 bánh toàn thời gian
+2021,Xe đã dùng,"28,000 Km",Nhập khẩu,Bán tải / Pickup,Số tự động,Dầu  2.2 L,Xanh,Đen,RFD - Dẫn động cầu sau
+2018,Xe đã dùng,"42,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  3.0 L,Đen,Đen,RFD - Dẫn động cầu sau
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Xăng  1.5 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2021,Xe đã dùng,"30,000 Km",Lắp ráp trong nước,Van/Minivan,Số tự động,Dầu  2.2 L,Đen,Kem,FWD - Dẫn động cầu trước
+2016,Xe đã dùng,"68,270 Km",Nhập khẩu,Bán tải / Pickup,Số tay,Dầu  2.2 L,Ghi,Đen,RFD - Dẫn động cầu sau
+2023,Xe mới,Xe mới,Nhập khẩu,Crossover,Số tự động,Xăng  1.5 L,Đỏ,Đen,FWD - Dẫn động cầu trước
+2018,Xe đã dùng,"55,000 Km",Nhập khẩu,Bán tải / Pickup,Số tự động,Dầu  2.8 L,Đen,Đen,4WD - Dẫn động 4 bánh
+2019,Xe đã dùng,0 Km,Nhập khẩu,SUV,Số tự động,Xăng  3.0 L,Xanh,Nâu,AWD - 4 bánh toàn thời gian
+2016,Xe đã dùng,"82,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  5.7 L,Trắng,Nâu,AWD - 4 bánh toàn thời gian
+2020,Xe đã dùng,"27,000 Km",Nhập khẩu,Sedan,Số tự động,Xăng  3.0 L,Đen,Đen,AWD - 4 bánh toàn thời gian
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Dầu  2.0 L,Đen,Đen,RFD - Dẫn động cầu sau
+2023,Xe mới,Xe mới,Nhập khẩu,Sedan,Số tự động,Xăng  1.0 L,Bạc,Đen,FWD - Dẫn động cầu trước
+2022,Xe mới,Xe mới,Lắp ráp trong nước,Sedan,Số tự động,Xăng  2.0 L,Đen,Đen,RFD - Dẫn động cầu sau
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Sedan,Số tự động,Xăng,Trắng,Nâu,AWD - 4 bánh toàn thời gian
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Bán tải / Pickup,Số tự động,Dầu  2.0 L,Xám,Đen,RFD - Dẫn động cầu sau
+2016,Xe đã dùng,"70,000 Km",Nhập khẩu,Sedan,Số tự động,Xăng  2.0 L,Xám,Kem,RFD - Dẫn động cầu sau
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Sedan,Số tay,Xăng  1.5 L,Vàng,Đen,FWD - Dẫn động cầu trước
+2021,Xe đã dùng,"29,000 Km",Lắp ráp trong nước,Crossover,Số tự động,Xăng  2.0 L,Đen,Kem,FWD - Dẫn động cầu trước
+2018,Xe đã dùng,"10,000 Km",Lắp ráp trong nước,Hatchback,Số tự động,Xăng  1.5 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2008,Xe đã dùng,"100,000 Km",Lắp ráp trong nước,Crossover,Số tay,Xăng  2.0 L,Đen,Kem,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,SUV,Số tự động,Xăng  2.5 L,Trắng,Nâu,FWD - Dẫn động cầu trước
+2015,Xe đã dùng,"100,752 Km",Lắp ráp trong nước,SUV,Số tự động,Xăng  2.7 L,Đen,Kem,RFD - Dẫn động cầu sau
+2023,Xe mới,Xe mới,Lắp ráp trong nước,SUV,Số tự động,Xăng  2.5 L,Trắng,Nâu,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,SUV,Số tự động,Xăng  2.0 L,Xanh,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,SUV,Số tự động,Xăng  2.0 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,SUV,Số tự động,Xăng  2.0 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2022,Xe đã dùng,"7,000 Km",Nhập khẩu,Crossover,Số tự động,Xăng  1.5 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Nhập khẩu,Crossover,Số tự động,Xăng  2.0 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,SUV,Số tự động,Xăng  2.0 L,Trắng,Nâu,AWD - 4 bánh toàn thời gian
+2023,Xe mới,Xe mới,Nhập khẩu,Crossover,Số tự động,Xăng  2.0 L,Đỏ,Đỏ,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.5 L,Đỏ,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,SUV,Số tự động,Xăng  2.0 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Bán tải / Pickup,Số tự động,Dầu  2.0 L,Trắng,Đen,4WD - Dẫn động 4 bánh
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Bán tải / Pickup,Số tự động,Dầu  2.0 L,Đen,-,4WD - Dẫn động 4 bánh
+2023,Xe mới,Xe mới,Nhập khẩu,Bán tải / Pickup,Số tự động,Dầu  2.0 L,Xám,Đen,4WD - Dẫn động 4 bánh
+2023,Xe mới,Xe mới,Lắp ráp trong nước,SUV,Số tự động,Dầu  2.2 L,Đen,Nâu,AWD - 4 bánh toàn thời gian
+2013,Xe đã dùng,0 Km,Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.6 L,Đen,Ghi,FWD - Dẫn động cầu trước
+2021,Xe đã dùng,"39,000 Km",Nhập khẩu,Crossover,Số tự động,Xăng  1.8 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2020,Xe đã dùng,"54,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  1.5 L,Nâu,Đen,RFD - Dẫn động cầu sau
+2016,Xe đã dùng,"70,000 Km",Nhập khẩu,Sedan,Số tự động,Xăng  1.4 L,Trắng,Kem,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.5 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2022,Xe đã dùng,"20,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  1.8 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Van/Minivan,Số tự động,Xăng  2.0 L,Xám,Đen,FWD - Dẫn động cầu trước
+2016,Xe đã dùng,"86,000 Km",Lắp ráp trong nước,Sedan,Số tay,Xăng  1.5 L,Trắng,-,FWD - Dẫn động cầu trước
+2021,Xe đã dùng,"14,000 Km",Lắp ráp trong nước,Hatchback,Số tự động,Xăng  1.25 L,Đỏ,Nhiều màu,FWD - Dẫn động cầu trước
+2021,Xe đã dùng,"8,300 Km",Lắp ráp trong nước,Crossover,Số tự động,Xăng  2.0 L,Trắng,Kem,FWD - Dẫn động cầu trước
+2013,Xe đã dùng,"80,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  2.7 L,Vàng,Đen,4WD - Dẫn động 4 bánh
+2015,Xe đã dùng,"100,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  3.0 L,Đen,Nâu,RFD - Dẫn động cầu sau
+2022,Xe đã dùng,500 Km,Lắp ráp trong nước,Sedan,Số tự động,Xăng  2.0 L,Đen,Nâu,RFD - Dẫn động cầu sau
+2022,Xe mới,Xe mới,Lắp ráp trong nước,Sedan,Số tự động,Xăng  2.0 L,Đen,Nâu,RFD - Dẫn động cầu sau
+2019,Xe đã dùng,"29,119 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.5 L,Đen,Ghi,FWD - Dẫn động cầu trước
+2016,Xe đã dùng,0 Km,Nhập khẩu,Bán tải / Pickup,Số tự động,Dầu  2.2 L,Vàng,Nâu,RFD - Dẫn động cầu sau
+2023,Xe mới,Xe mới,Lắp ráp trong nước,SUV,Số tự động,Xăng  1.5 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2017,Xe đã dùng,"50,000 Km",Lắp ráp trong nước,Hatchback,Số tự động,Xăng  1.5 L,Xám,Đen,FWD - Dẫn động cầu trước
+2017,Xe đã dùng,"80,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  2.7 L,Đen,Kem,4WD - Dẫn động 4 bánh
+2014,Xe đã dùng,20 Km,Lắp ráp trong nước,Hatchback,Số tay,Xăng  1.25 L,Bạc,-,FWD - Dẫn động cầu trước
+2021,Xe đã dùng,"25,000 Km",Nhập khẩu,Hatchback,Số tự động,Xăng  1.2 L,Đỏ,Đen,FWD - Dẫn động cầu trước
+2021,Xe đã dùng,0 Km,Lắp ráp trong nước,Hatchback,Số tự động,Xăng  1.4 L,Xanh,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,SUV,Số tự động,Xăng  2.0 L,Đỏ,Đen,FWD - Dẫn động cầu trước
+2019,Xe đã dùng,"18,961 Km",Lắp ráp trong nước,Hatchback,Số tự động,Xăng  1.25 L,Đỏ,Nhiều màu,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,SUV,Số tay,Xăng  1.5 L,Trắng,Ghi,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,SUV,Số tự động,Điện,Xanh,Xám,FWD - Dẫn động cầu trước
+2013,Xe đã dùng,"75,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  3.0 L,Xanh,Đen,AWD - 4 bánh toàn thời gian
+2023,Xe mới,Xe mới,Lắp ráp trong nước,SUV,Số tự động,Xăng  2.5 L,Trắng,Nâu,AWD - 4 bánh toàn thời gian
+2008,Xe đã dùng,"90,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  3.5 L,Đen,Đen,AWD - 4 bánh toàn thời gian
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Crossover,Số tự động,Xăng  1.6 L,Đen,Nâu,AWD - 4 bánh toàn thời gian
+2021,Xe đã dùng,"8,999 Km",Nhập khẩu,Sedan,Số tự động,Xăng  2.0 L,Xanh,Ghi,RFD - Dẫn động cầu sau
+2023,Xe mới,Xe mới,Lắp ráp trong nước,SUV,Số tự động,Dầu  2.2 L,Trắng,Nâu,AWD - 4 bánh toàn thời gian
+2021,Xe đã dùng,"10,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  3.0 L,Trắng,Nâu,AWD - 4 bánh toàn thời gian
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Van/Minivan,Số tự động,Dầu  2.2 L,Xanh,Cam,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Crossover,Số tự động,Xăng  1.5 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2015,Xe đã dùng,"80,000 Km",Nhập khẩu,Sedan,Số tay,Xăng  1.25 L,Bạc,Đen,FWD - Dẫn động cầu trước
+2019,Xe đã dùng,"11,000 Km",Lắp ráp trong nước,SUV,Số tự động,Xăng  2.0 L,Xanh,Nâu,RFD - Dẫn động cầu sau
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Xăng  1.5 L,Trắng,Màu khác,FWD - Dẫn động cầu trước
+2023,Xe đã dùng,"9,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.5 L,Đen,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Van/Minivan,Số tay,Dầu  2.2 L,Bạc,Ghi,RFD - Dẫn động cầu sau
+2022,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Xăng  3.0 L,Đen,Nâu,AWD - 4 bánh toàn thời gian
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Xăng  1.5 L,Cam,Đen,FWD - Dẫn động cầu trước
+2021,Xe đã dùng,"8,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  2.0 L,Đen,Nâu,AWD - 4 bánh toàn thời gian
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Dầu  2.0 L,Xanh,-,RFD - Dẫn động cầu sau
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Bán tải / Pickup,Số tự động,Dầu  2.0 L,Bạc,Đen,4WD - Dẫn động 4 bánh
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.4 L,Trắng,Kem,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Crossover,Số tay,Xăng  2.0 L,Bạc,Màu khác,RFD - Dẫn động cầu sau
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Xăng,Cam,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Xăng  1.5 L,Đen,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Xăng  2.0 L,Trắng,Nâu,AWD - 4 bánh toàn thời gian
+2009,Xe đã dùng,"70,000 Km",Nhập khẩu,Hatchback,Số tự động,Xăng  1.4 L,Bạc,Nhiều màu,FWD - Dẫn động cầu trước
+2022,Xe đã dùng,500 Km,Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.5 L,Xanh,Đen,RFD - Dẫn động cầu sau
+2023,Xe mới,Xe mới,Lắp ráp trong nước,SUV,Số tự động,Xăng,Trắng,Nhiều màu,AWD - 4 bánh toàn thời gian
+2022,Xe đã dùng,"27,000 Km",Nhập khẩu,SUV,Số tự động,Dầu  2.0 L,Trắng,Đen,4WD - Dẫn động 4 bánh
+2018,Xe đã dùng,"58,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  4.0 L,Trắng,Nâu,4WD - Dẫn động 4 bánh
+2022,Xe đã dùng,"27,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  1.8 L,Nâu,Ghi,FWD - Dẫn động cầu trước
+2012,Xe đã dùng,"86,000 Km",Lắp ráp trong nước,Crossover,Số tay,Xăng  2.0 L,Bạc,Ghi,RFD - Dẫn động cầu sau
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Xăng  1.5 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2021,Xe đã dùng,"41,000 Km",Lắp ráp trong nước,SUV,Số tự động,Xăng  1.5 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2022,Xe đã dùng,"22,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  1.5 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2021,Xe đã dùng,"73,000 Km",Lắp ráp trong nước,Bán tải / Pickup,Số tự động,Dầu  2.0 L,Đen,Đen,4WD - Dẫn động 4 bánh
+2023,Xe đã dùng,"3,678 Km",Lắp ráp trong nước,Crossover,Số tự động,Xăng  1.4 L,Cam,Nâu,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Xăng  1.8 L,Đỏ,Nâu,FWD - Dẫn động cầu trước
+2008,Xe đã dùng,"8,888,888 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  2.0 L,Đen,Đen,FWD - Dẫn động cầu trước
+2014,Xe đã dùng,"74,000 Km",Lắp ráp trong nước,SUV,Số tự động,Xăng  2.4 L,Trắng,Đen,4WD - Dẫn động 4 bánh
+2021,Xe đã dùng,"26,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.4 L,Đỏ,Nhiều màu,FWD - Dẫn động cầu trước
+2007,Xe đã dùng,"2,345,678 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.8 L,Đen,Đen,RFD - Dẫn động cầu sau
+2015,Xe đã dùng,"120,000 Km",Lắp ráp trong nước,Van/Minivan,Số tay,Dầu  2.4 L,Cát,Ghi,RFD - Dẫn động cầu sau
+2023,Xe mới,Xe mới,Lắp ráp trong nước,SUV,Số tự động,Xăng  2.5 L,Trắng,Nâu,AWD - 4 bánh toàn thời gian
+2021,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Xăng  3.0 L,Đỏ,Đen,AWD - 4 bánh toàn thời gian
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Hybrid  1.5 L,Đỏ,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Sedan,Số tay,Xăng  1.4 L,Trắng,Nhiều màu,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Dầu  2.0 L,Đen,Đen,RFD - Dẫn động cầu sau
+2017,Xe đã dùng,"54,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  2.0 L,Trắng,Kem,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,SUV,Số tự động,Xăng  2.0 L,Đen,Đen,FWD - Dẫn động cầu trước
+2023,Xe đã dùng,"5,000 Km",Lắp ráp trong nước,SUV,Số tự động,Xăng  2.0 L,Trắng,Đen,AWD - 4 bánh toàn thời gian
+2018,Xe đã dùng,"74,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  2.0 L,Nâu,Kem,FWD - Dẫn động cầu trước
+2007,Xe đã dùng,"110,000 Km",Nhập khẩu,SUV,Số tự động,Dầu  3.0 L,Xanh,Kem,AWD - 4 bánh toàn thời gian
+2013,Xe đã dùng,"15,678 Km",Lắp ráp trong nước,Sedan,Số tay,Xăng  1.5 L,Bạc,Kem,FWD - Dẫn động cầu trước
+2011,Xe đã dùng,"222,222 Km",Nhập khẩu,Bán tải / Pickup,Số tay,Dầu  2.5 L,Bạc,Đen,4WD - Dẫn động 4 bánh
+2008,Xe đã dùng,"110,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  4.7 L,Đen,Kem,AWD - 4 bánh toàn thời gian
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Dầu  2.0 L,Đỏ,Đen,RFD - Dẫn động cầu sau
+2007,Xe đã dùng,0 Km,Nhập khẩu,Sedan,Số tự động,Xăng  2.4 L,Bạc,Ghi,FWD - Dẫn động cầu trước
+2022,Xe đã dùng,"18,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.4 L,Đỏ,Nhiều màu,FWD - Dẫn động cầu trước
+2018,Xe đã dùng,"90,000 Km",Lắp ráp trong nước,Crossover,Số tự động,Xăng  1.6 L,Trắng,Kem,FWD - Dẫn động cầu trước
+2018,Xe đã dùng,0 Km,Nhập khẩu,Hatchback,Số tự động,Xăng  2.0 L,Vàng,Đen,FWD - Dẫn động cầu trước
+2019,Xe đã dùng,"158,000 Km",Lắp ráp trong nước,SUV,Số tự động,Dầu  2.4 L,Trắng,Nâu,RFD - Dẫn động cầu sau
+2019,Xe đã dùng,"120,000 Km",Lắp ráp trong nước,SUV,Số tay,Dầu  2.4 L,Đen,Nâu,RFD - Dẫn động cầu sau
+2021,Xe đã dùng,"27,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  1.5 L,Trắng,Nhiều màu,FWD - Dẫn động cầu trước
+2022,Xe đã dùng,"17,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  1.5 L,Bạc,Đen,FWD - Dẫn động cầu trước
+2019,Xe đã dùng,"66,666 Km",Nhập khẩu,Bán tải / Pickup,Số tự động,Dầu  2.5 L,Trắng,Đen,RFD - Dẫn động cầu sau
+2022,Xe đã dùng,"8,500 Km",Lắp ráp trong nước,Bán tải / Pickup,Số tự động,Dầu  2.2 L,Trắng,Đen,RFD - Dẫn động cầu sau
+2022,Xe đã dùng,"14,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.5 L,Đỏ,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Dầu  2.0 L,Xám,Đen,RFD - Dẫn động cầu sau
+2022,Xe đã dùng,"47,000 Km",Lắp ráp trong nước,Bán tải / Pickup,Số tự động,Dầu  2.2 L,Đỏ,Đen,RFD - Dẫn động cầu sau
+2022,Xe đã dùng,"8,200 Km",Lắp ráp trong nước,Hatchback,Số tự động,Xăng  1.25 L,Trắng,-,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Dầu  2.0 L,Ghi,Đen,RFD - Dẫn động cầu sau
+2022,Xe đã dùng,282 Km,Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.5 L,Đen,Đen,RFD - Dẫn động cầu sau
+2014,Xe đã dùng,"49,000 Km",Lắp ráp trong nước,Hatchback,Số tự động,Xăng  1.6 L,Trắng,Kem,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Nhập khẩu,Bán tải / Pickup,Số tay,Dầu  2.4 L,Trắng,-,4WD - Dẫn động 4 bánh
+2022,Xe đã dùng,300 Km,Nhập khẩu,SUV,Số tự động,Xăng  2.0 L,Đen,Đen,AWD - 4 bánh toàn thời gian
+2019,Xe đã dùng,"80,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  2.7 L,Đen,Nâu,RFD - Dẫn động cầu sau
+2015,Xe đã dùng,"58,000 Km",Nhập khẩu,Sedan,Số tự động,Xăng  3.5 L,Vàng,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,SUV,Số tự động,Xăng  2.5 L,Xanh,Nâu,AWD - 4 bánh toàn thời gian
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.5 L,Đỏ,-,FWD - Dẫn động cầu trước
+2013,Xe đã dùng,"11,000 Km",Lắp ráp trong nước,SUV,Số tự động,Xăng  2.7 L,Bạc,Kem,RFD - Dẫn động cầu sau
+2021,Xe đã dùng,"44,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  1.8 L,Đen,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Sedan,Số tự động,Xăng  2.0 L,Đen,Đen,FWD - Dẫn động cầu trước
+2021,Xe đã dùng,"1,800 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  2.0 L,Trắng,Nâu,RFD - Dẫn động cầu sau
+2014,Xe đã dùng,"99,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  5.7 L,Đen,Nâu,AWD - 4 bánh toàn thời gian
+2022,Xe đã dùng,"5,000 Km",Lắp ráp trong nước,Crossover,Số tự động,Xăng  1.5 L,Xanh,Đen,FWD - Dẫn động cầu trước
+2013,Xe đã dùng,"90,000 Km",Lắp ráp trong nước,Hatchback,Số tự động,Xăng  2.0 L,Đỏ,Xám,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Nhập khẩu,Sedan,Số tự động,Xăng,Xanh,Màu khác,FWD - Dẫn động cầu trước
+2022,Xe đã dùng,"31,000 Km",Lắp ráp trong nước,Bán tải / Pickup,Số tự động,Dầu  2.0 L,Đen,Đen,4WD - Dẫn động 4 bánh
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Bán tải / Pickup,Số tự động,Dầu  2.0 L,Xanh,Đen,RFD - Dẫn động cầu sau
+2023,Xe mới,Xe mới,Lắp ráp trong nước,SUV,Số tự động,Xăng  1.5 L,Đen,Trắng,FWD - Dẫn động cầu trước
+2018,Xe đã dùng,"83,000 Km",Lắp ráp trong nước,Van/Minivan,Số tự động,Dầu  2.2 L,Nâu,Kem,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Dầu  2.0 L,Đen,Đen,4WD - Dẫn động 4 bánh
+2023,Xe mới,Xe mới,Nhập khẩu,Bán tải / Pickup,Số tự động,Dầu  2.0 L,Trắng,Đen,4WD - Dẫn động 4 bánh
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Sedan,Số tay,Xăng  1.5 L,Cát,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Xăng  1.8 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,SUV,Số tự động,Xăng  2.5 L,Đen,Nâu,AWD - 4 bánh toàn thời gian
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Crossover,Số tự động,Xăng  1.4 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Sedan,Số tự động,Xăng  2.0 L,Trắng,Đen,RFD - Dẫn động cầu sau
+2023,Xe mới,Xe mới,Lắp ráp trong nước,SUV,Số tự động,Điện,Đỏ,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Dầu  2.0 L,Vàng,Đen,4WD - Dẫn động 4 bánh
+2018,Xe đã dùng,"50,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  2.9 L,Nâu,Kem,AWD - 4 bánh toàn thời gian
+2016,Xe đã dùng,"82,339 Km",Lắp ráp trong nước,Crossover,Số tay,Xăng  2.0 L,Cát,Kem,RFD - Dẫn động cầu sau
+2018,Xe đã dùng,"54,000 Km",Lắp ráp trong nước,SUV,Số tự động,Xăng  2.0 L,Trắng,Kem,AWD - 4 bánh toàn thời gian
+2015,Xe đã dùng,"90,389 Km",Lắp ráp trong nước,SUV,Số tự động,Xăng  2.4 L,Xám,Đen,FWD - Dẫn động cầu trước
+2014,Xe đã dùng,"90,539 Km",Lắp ráp trong nước,SUV,Số tự động,Xăng  2.4 L,Nâu,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,SUV,Số tự động,Xăng  2.0 L,Trắng,Nâu,AWD - 4 bánh toàn thời gian
+2021,Xe đã dùng,"30,000 Km",Lắp ráp trong nước,Crossover,Số tự động,Xăng  1.5 L,Cam,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.5 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2022,Xe đã dùng,"20,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  1.5 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2009,Xe đã dùng,"11,000 Km",Nhập khẩu,Hatchback,Số tự động,Xăng  1.3 L,Xanh,Đen,FWD - Dẫn động cầu trước
+2016,Xe đã dùng,"69,379 Km",Lắp ráp trong nước,Crossover,Số tay,Xăng  2.0 L,Cát,Kem,RFD - Dẫn động cầu sau
+2020,Xe đã dùng,"24,000 Km",Nhập khẩu,Bán tải / Pickup,Số tự động,Dầu  2.0 L,Nhiều màu,Đen,4WD - Dẫn động 4 bánh
+2018,Xe đã dùng,"67,000 Km",Lắp ráp trong nước,SUV,Số tự động,Xăng  2.5 L,Xanh,Đen,FWD - Dẫn động cầu trước
+2008,Xe đã dùng,"82,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  5.7 L,Xanh,Ghi,4WD - Dẫn động 4 bánh
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Xăng  1.8 L,Đen,Đen,FWD - Dẫn động cầu trước
+2017,Xe đã dùng,"49,000 Km",Lắp ráp trong nước,SUV,Số tự động,Xăng  2.0 L,Đen,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Nhập khẩu,Crossover,Số tự động,Xăng  1.5 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2020,Xe đã dùng,"35,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.4 L,Đen,Kem,FWD - Dẫn động cầu trước
+2021,Xe đã dùng,"73,000 Km",Nhập khẩu,Bán tải / Pickup,Số tự động,Dầu  2.0 L,Đen,Đen,4WD - Dẫn động 4 bánh
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.4 L,Đỏ,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,SUV,Số tự động,Xăng  2.0 L,Xanh,-,FWD - Dẫn động cầu trước
+2020,Xe đã dùng,"48,000 Km",Lắp ráp trong nước,Hatchback,Số tự động,Xăng  1.4 L,Xanh,Đen,FWD - Dẫn động cầu trước
+2020,Xe đã dùng,"32,651 Km",Lắp ráp trong nước,Hatchback,Số tự động,Xăng  1.25 L,Đỏ,Đen,FWD - Dẫn động cầu trước
+2022,Xe đã dùng,"25,000 Km",Nhập khẩu,SUV,Số tự động,Dầu  2.0 L,Trắng,Đen,RFD - Dẫn động cầu sau
+2017,Xe đã dùng,"60,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  2.0 L,Xanh,Nâu,AWD - 4 bánh toàn thời gian
+2023,Xe mới,Xe mới,Lắp ráp trong nước,SUV,Số tự động,Xăng  1.5 L,Trắng,Xanh,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.5 L,Vàng,Đen,FWD - Dẫn động cầu trước
+2015,Xe đã dùng,"78,050 Km",Nhập khẩu,SUV,Số tự động,Xăng  2.0 L,Màu khác,Kem,AWD - 4 bánh toàn thời gian
+2022,Xe đã dùng,500 Km,Lắp ráp trong nước,SUV,Số tự động,Xăng  2.0 L,Đen,Đen,AWD - 4 bánh toàn thời gian
+2020,Xe đã dùng,"50,000 Km",Lắp ráp trong nước,SUV,Số tự động,Dầu  2.4 L,Đen,Nâu,RFD - Dẫn động cầu sau
+2017,Xe đã dùng,"60,000 Km",Lắp ráp trong nước,SUV,Số tự động,Xăng  2.4 L,Cát,Đen,FWD - Dẫn động cầu trước
+2022,Xe đã dùng,"1,089 Km",Lắp ráp trong nước,SUV,Số tự động,Xăng  2.0 L,Trắng,Đen,AWD - 4 bánh toàn thời gian
+2018,Xe đã dùng,"50,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  2.0 L,Đỏ,Nâu,AWD - 4 bánh toàn thời gian
+2020,Xe đã dùng,"60,000 Km",Lắp ráp trong nước,SUV,Số tự động,Dầu  2.4 L,Đen,Nâu,RFD - Dẫn động cầu sau
+2020,Xe đã dùng,"39,000 Km",Lắp ráp trong nước,Sedan,Số tay,Xăng  1.4 L,Bạc,Đen,FWD - Dẫn động cầu trước
+2014,Xe đã dùng,"62,000 Km",Lắp ráp trong nước,Hatchback,Số tự động,Xăng  1.4 L,Đỏ,Đen,FWD - Dẫn động cầu trước
+2010,Xe đã dùng,"1,900,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.8 L,Đen,Kem,RFD - Dẫn động cầu sau
+2010,Xe đã dùng,"90,000 Km",Nhập khẩu,Sedan,Số tự động,Xăng  2.4 L,Đen,Đen,FWD - Dẫn động cầu trước
+2018,Xe đã dùng,"35,000 Km",Lắp ráp trong nước,SUV,Số tự động,Xăng  2.0 L,Đen,Nâu,AWD - 4 bánh toàn thời gian
+2018,Xe đã dùng,"28,000 Km",Nhập khẩu,Sedan,Số tự động,Xăng  1.6 L,Trắng,Kem,RFD - Dẫn động cầu sau
+2014,Xe đã dùng,"102,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.6 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2018,Xe đã dùng,"76,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.25 L,Trắng,Ghi,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.5 L,Nâu,Kem,FWD - Dẫn động cầu trước
+2018,Xe đã dùng,"50,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  4.0 L,Trắng,Nâu,AWD - 4 bánh toàn thời gian
+2018,Xe đã dùng,"49,000 Km",Lắp ráp trong nước,SUV,Số tự động,Xăng  2.0 L,Trắng,Kem,AWD - 4 bánh toàn thời gian
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Crossover,Số tự động,Dầu  2.0 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2017,Xe đã dùng,"68,000 Km",Lắp ráp trong nước,Hatchback,Số tự động,Xăng  1.4 L,Cam,Đen,FWD - Dẫn động cầu trước
+2009,Xe đã dùng,"100,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  3.5 L,Đen,Kem,FWD - Dẫn động cầu trước
+2014,Xe đã dùng,"60,000 Km",Lắp ráp trong nước,Hatchback,Số tự động,Xăng  1.0 L,Bạc,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,SUV,Số tự động,Xăng  2.0 L,Trắng,Nâu,FWD - Dẫn động cầu trước
+2016,Xe đã dùng,"80,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  2.0 L,Đen,Kem,FWD - Dẫn động cầu trước
+2016,Xe đã dùng,"59,000 Km",Lắp ráp trong nước,Van/Minivan,Số tự động,Xăng  3.3 L,Cát,Kem,FWD - Dẫn động cầu trước
+2008,Xe đã dùng,"90,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  3.5 L,Đen,Đen,AWD - 4 bánh toàn thời gian
+2001,Xe đã dùng,1 Km,Nhập khẩu,SUV,Số tay,Xăng  4.5 L,Xanh,Nâu,4WD - Dẫn động 4 bánh
+2015,Xe đã dùng,0 Km,Nhập khẩu,Hatchback,Số tự động,Xăng  1.4 L,Đỏ,Kem,FWD - Dẫn động cầu trước
+2020,Xe đã dùng,"70,000 Km",Lắp ráp trong nước,SUV,Số tự động,Dầu  2.2 L,Đen,Nâu,AWD - 4 bánh toàn thời gian
+2012,Xe đã dùng,"65,000 Km",Nhập khẩu,Van/Minivan,Số tự động,Xăng  2.7 L,Vàng,Kem,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,SUV,Số tự động,Xăng  2.0 L,Đỏ,-,FWD - Dẫn động cầu trước
+2018,Xe đã dùng,"62,000 Km",Lắp ráp trong nước,SUV,Số tự động,Xăng  2.5 L,Nâu,Đen,AWD - 4 bánh toàn thời gian
+2022,Xe đã dùng,"3,900 Km",Lắp ráp trong nước,Hatchback,Số tự động,Xăng  1.4 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Xăng  3.4 L,Đen,Đen,AWD - 4 bánh toàn thời gian
+2023,Xe mới,Xe mới,Lắp ráp trong nước,SUV,Số tự động,Xăng  2.5 L,Đen,Nâu,AWD - 4 bánh toàn thời gian
+2023,Xe mới,Xe mới,Lắp ráp trong nước,SUV,Số tự động,Xăng  1.5 L,Bạc,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Dầu  2.0 L,Trắng,Đen,RFD - Dẫn động cầu sau
+2019,Xe đã dùng,"20,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.5 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2015,Xe đã dùng,"98,000 Km",Nhập khẩu,Hatchback,Số tự động,Xăng  1.4 L,Trắng,Kem,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,SUV,Số tự động,Xăng  1.5 L,Nâu,Đen,FWD - Dẫn động cầu trước
+2019,Xe đã dùng,"35,000 Km",Nhập khẩu,SUV,Số tự động,Dầu  2.0 L,Bạc,Đen,4WD - Dẫn động 4 bánh
+2016,Xe đã dùng,"80,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  2.0 L,Đen,Kem,FWD - Dẫn động cầu trước
+2015,Xe đã dùng,"78,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  2.0 L,Xanh,Nâu,AWD - 4 bánh toàn thời gian
+2023,Xe mới,Xe mới,Lắp ráp trong nước,SUV,Số tự động,Xăng  1.5 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Xăng  2.0 L,Trắng,Đen,AWD - 4 bánh toàn thời gian
+2020,Xe đã dùng,"17,000 Km",Nhập khẩu,Coupe,Số tự động,Xăng  2.0 L,Vàng,Đen,RFD - Dẫn động cầu sau
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Xăng  2.0 L,Xanh,Đen,AWD - 4 bánh toàn thời gian
+2018,Xe đã dùng,"30,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.25 L,Đỏ,Nhiều màu,FWD - Dẫn động cầu trước
+2022,Xe đã dùng,"16,000 Km",Lắp ráp trong nước,SUV,Số tự động,Dầu  2.2 L,Trắng,Kem,AWD - 4 bánh toàn thời gian
+2021,Xe đã dùng,"50,000 Km",Lắp ráp trong nước,SUV,Số tự động,Xăng  2.5 L,Trắng,Nâu,FWD - Dẫn động cầu trước
+2016,Xe đã dùng,"72,000 Km",Lắp ráp trong nước,SUV,Số tự động,Xăng  2.5 L,Cát,Đen,FWD - Dẫn động cầu trước
+2022,Xe đã dùng,"15,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  2.0 L,Trắng,Đen,RFD - Dẫn động cầu sau
+2019,Xe đã dùng,"50,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  2.0 L,Đen,Nhiều màu,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Nhập khẩu,Convertible/Cabriolet,Số tự động,Xăng  2.0 L,Trắng,Kem,RFD - Dẫn động cầu sau
+2023,Xe mới,Xe mới,Lắp ráp trong nước,SUV,Số tự động,Xăng  1.5 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,SUV,Số tự động,Xăng  2.5 L,Vàng,Nâu,FWD - Dẫn động cầu trước
+2020,Xe đã dùng,"69,000 Km",Lắp ráp trong nước,Van/Minivan,Số tự động,Dầu  2.2 L,Nâu,Kem,FWD - Dẫn động cầu trước
+2021,Xe đã dùng,"40,000 Km",Nhập khẩu,SUV,Số tự động,Dầu  2.0 L,Trắng,Đen,RFD - Dẫn động cầu sau
+2018,Xe đã dùng,"50,000 Km",Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.5 L,Đỏ,Đen,FWD - Dẫn động cầu trước
+2021,Xe đã dùng,"38,000 Km",Nhập khẩu,SUV,Số tự động,Xăng  1.5 L,Đen,Đen,FWD - Dẫn động cầu trước
+2014,Xe đã dùng,"237,000 Km",Lắp ráp trong nước,Van/Minivan,Số tay,Dầu  2.4 L,Bạc,Kem,RFD - Dẫn động cầu sau
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Bán tải / Pickup,Số tự động,Dầu  2.0 L,Nâu,Đen,RFD - Dẫn động cầu sau
+2015,Xe đã dùng,0 Km,Nhập khẩu,Hatchback,Số tự động,Xăng  1.3 L,Ghi,Kem,FWD - Dẫn động cầu trước
+2005,Xe đã dùng,"21,000 Km",Lắp ráp trong nước,SUV,Số tay,Xăng  1.8 L,Xanh,Ghi,RFD - Dẫn động cầu sau
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Crossover,Số tự động,Dầu  2.0 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,Crossover,Số tự động,Xăng  1.4 L,Đen,Ghi,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Lắp ráp trong nước,SUV,Số tự động,Xăng  2.0 L,Đen,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Xăng  1.5 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Xăng  1.5 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Xăng  1.5 L,Đen,Nâu,FWD - Dẫn động cầu trước
+2004,Xe đã dùng,0 Km,Lắp ráp trong nước,SUV,Số tay,Xăng  1.8 L,Xanh,Ghi,RFD - Dẫn động cầu sau
+2023,Xe mới,Xe mới,Lắp ráp trong nước,SUV,Số tự động,Xăng  2.0 L,Trắng,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Hybrid  1.5 L,Xanh,Đen,FWD - Dẫn động cầu trước
+2023,Xe mới,Xe mới,Nhập khẩu,SUV,Số tự động,Dầu  2.0 L,Đen,Đen,RFD - Dẫn động cầu sau

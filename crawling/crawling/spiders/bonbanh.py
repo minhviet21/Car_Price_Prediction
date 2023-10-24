@@ -8,9 +8,9 @@ class DetailSpider(scrapy.Spider):
         bonbanh_page_links = response.css("li.car-item  a::attr(href)")
         yield from response.follow_all(bonbanh_page_links, self.parse_bonbanh)
 
-        #next_page = response.css("div.navpage span.bbl::attr(url)")[-2].get()
-        #if next_page is not None: 
-         #   yield response.follow(next_page, callback=self.parse)
+        next_page = response.css("div.navpage span.bbl::attr(url)")[-2].get()
+        if next_page is not None and next_page != 'https://bonbanh.com/oto/page,51': 
+            yield response.follow(next_page, callback=self.parse)
 
     def parse_bonbanh(self, response):
         details = response.css("div.txt_input span.inp::text")
