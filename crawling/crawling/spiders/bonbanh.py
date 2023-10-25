@@ -16,7 +16,7 @@ class DetailSpider(scrapy.Spider):
         details = response.css("div.txt_input span.inp::text")
 
         yield {
-            "Tên xe" :  response.css("span b i::text").get(),
+            "Tên xe" :  response.css("span b i::text").get()[:-5],
             "Năm sản xuất" :  details[0].get().strip(),
             "Tình trạng" :    details[1].get().strip(),
             "Số km đã đi" :   details[-8].get().strip(),
