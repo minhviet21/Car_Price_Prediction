@@ -27,5 +27,6 @@ class DetailSpider(scrapy.Spider):
             "Màu ngoại thất": details[-3].get().strip(),
             "Màu nội thất":   details[-2].get().strip(),
             "Dẫn động sau":   details[-1].get().strip(),
+            "Số chỗ ngồi" : response.css("div.inputbox span.inp::text").get().strip(),
             "Giá xe"  :  response.css("div.title h1::text").get().split("-")[-1].strip()
         }
