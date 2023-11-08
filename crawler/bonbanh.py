@@ -15,6 +15,7 @@ def get_data(max_page):
             with open('bonbanh.csv', 'a', newline='', encoding ='utf8') as file:
                 writer = csv.writer(file)
                 get_detail(link,writer)
+        print(page)
         page += 1 
 
 
@@ -34,4 +35,4 @@ def get_detail(url,writer):
     my_list.append(soup.find('h1').text.strip().split('- ')[-1])
     writer.writerow(my_list)
 
-get_data(1839)
+get_data(1000)
