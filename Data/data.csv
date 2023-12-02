@@ -18886,7 +18886,7 @@ Ford,2018,Xe đã dùng,142000.0,,Van/Minivan,Số tay,Dầu,2.2,16.0,575
 Lexus,2013,Xe đã dùng,1.0,Nhập khẩu,Sedan,Số tự động,Xăng,4.6,5.0,1999
 Hyundai,2017,Xe đã dùng,81000.0,,SUV / Cross over,Số tự động,Dầu,,,695
 Mercedes Benz,2020,Xe đã dùng,25000.0,,Sedan,Số tự động,Xăng,,,1150
-Vinfast,2022,Xe đã dùng,29000.0,Trong nước,,Số tự động,Điện,,,505
+Vinfast,2022,Xe đã dùng,29000.0,Trong nước,,Số tự động,Điện,0.0,,505
 Mitsubishi,2002,Xe đã dùng,55000.0,Nhập khẩu,SUV /Crossover,Số tay,Xăng,2.4,7.0,105
 Suzuki,2021,Xe đã dùng,50000.0,Nhập khẩu,,Số tự động,Xăng,,,515
 Mercedes Benz,2016,Xe đã dùng,70000.0,,Sedan,Số tự động,Xăng,,,830
@@ -19174,7 +19174,7 @@ Porsche,2015,Xe đã dùng,84000.0,,Sedan,Số hỗn hợp,Xăng,3.6,4.0,1580
 Kia,2014,Xe đã dùng,100000.0,,SUV /Crossover,Số tự động,Xăng,2.0,7.0,360
 Chevrolet,2014,Xe đã dùng,180000.0,,Hatchback,Số tay,Xăng,0.8,5.0,95
 Kia,2021,Xe đã dùng,36000.0,,SUV /Crossover,Số tự động,Xăng,1.5,5.0,550
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,1090
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,1090
 Mercedes Benz,2017,Xe đã dùng,45000.0,,SUV /Crossover,Số tự động,Xăng,2.0,5.0,1020
 Vinfast,2021,Xe đã dùng,9000.0,Nhập khẩu,,Số tự động,Xăng,,,665
 Mazda,2021,Xe đã dùng,37000.0,,Sedan,Số tự động,Xăng,1.5,5.0,422
@@ -19264,7 +19264,7 @@ Hyundai,2022,Xe đã dùng,18000.0,Trong nước,,Số tay,Xăng,,,368
 Toyota,2018,Xe đã dùng,72000.0,Trong nước,Sedan,Số tự động,Xăng,1.5,5.0,399
 Toyota,2008,Xe đã dùng,80000.0,,SUV /Crossover,Số tự động,Xăng,2.4,7.0,375
 Kia,2015,Xe đã dùng,120000.0,,Hatchback,Số tự động,Xăng,1.2,5.0,248
-Vinfast,2022,Xe đã dùng,50000.0,Nhập khẩu,,Số tự động,Điện,,,445
+Vinfast,2022,Xe đã dùng,50000.0,Nhập khẩu,,Số tự động,Điện,0.0,,445
 Vinfast,2020,Xe đã dùng,51000.0,Trong nước,,Số tự động,Xăng,,,540
 Mazda,2014,Xe đã dùng,59000.0,Nhập khẩu,Hatchback,Số tự động,Xăng,1.5,5.0,330
 Hyundai,2020,Xe đã dùng,62000.0,Trong nước,,Số tay,Xăng,,,260
@@ -19342,7 +19342,7 @@ Hyundai,2021,Xe đã dùng,76000.0,,SUV /Crossover,Số tự động,Xăng,2.0,5
 Mercedes Benz,2015,Xe đã dùng,30000.0,Nhập khẩu,,Số hỗn hợp,Xăng,,,980
 Hyundai,2016,Xe đã dùng,61000.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,2.0,5.0,619
 Honda,2017,Xe đã dùng,50000.0,,Sedan,Số tự động,Xăng,1.5,5.0,390
-Vinfast,2023,Xe đã dùng,6000.0,Trong nước,,Số tự động,Điện,,,1240
+Vinfast,2023,Xe đã dùng,6000.0,Trong nước,,Số tự động,Điện,0.0,,1240
 Lexus,2023,Xe đã dùng,16000.0,Nhập khẩu,Sedan,Số tự động,Xăng,2.5,5.0,2399
 Toyota,2020,Xe đã dùng,45000.0,Nhập khẩu,Sedan,Số tay,Xăng,1.5,5.0,375
 Toyota,2018,Xe đã dùng,68000.0,Trong nước,Sedan,Số tay,Xăng,1.5,5.0,338
@@ -19571,14 +19571,14 @@ Toyota,2003,Xe đã dùng,150000.0,Trong nước,Sedan,Số tự động,Xăng,2
 Suzuki,2022,Xe đã dùng,22000.0,Nhập khẩu,SUV /Crossover,Số tay,Xăng,1.5,7.0,455
 Ford,2023,Xe mới,0.0,Trong nước,Bán tải / Pickup,Số tự động,Dầu,2.0,5.0,677
 Mazda,2023,Xe đã dùng,2700.0,Nhập khẩu,,Số tự động,Xăng,,,865
-Vinfast,2023,Xe mới,0.0,Trong nước,Hatchback,Số tự động,Điện,,,710
+Vinfast,2023,Xe mới,0.0,Trong nước,Hatchback,Số tự động,Điện,0.0,,710
 Ford,2023,Xe đã dùng,14000.0,Trong nước,SUV /Crossover,Số tự động,Xăng,1.5,5.0,860
 Mercedes Benz,2023,Xe đã dùng,1500.0,Trong nước,SUV /Crossover,Số tự động,Xăng,2.0,5.0,2638
 Vinfast,2021,Xe đã dùng,34000.0,Trong nước,,Số tự động,Xăng,,,566
 Mercedes Benz,2023,Xe đã dùng,,Trong nước,SUV / Cross over,Số tự động,Xăng,,,2299
 Toyota,2007,Xe đã dùng,121000.0,,SUV /Crossover,Số tay,Xăng,2.0,8.0,208
 Ford,2023,Xe mới,0.0,Trong nước,Van/Minivan,Số tự động,Dầu,2.2,16.0,809
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,65
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,65
 Lexus,2023,Xe đã dùng,20000.0,Nhập khẩu,Sedan,Số tự động,Xăng,2.5,5.0,2369
 Honda,2019,Xe đã dùng,55000.0,Nhập khẩu,Hatchback,Số tự động,Xăng,1.2,5.0,368
 Ford,2005,Xe đã dùng,100000.0,Trong nước,SUV /Crossover,Số tự động,Xăng,2.3,5.0,135
@@ -19615,7 +19615,7 @@ Ford,2018,Xe đã dùng,76000.0,Nhập khẩu,SUV /Crossover,Số tự động,D
 Mercedes Benz,2020,Xe đã dùng,42000.0,,SUV /Crossover,Số tự động,Xăng,2.0,5.0,1479
 Ford,2023,Xe mới,0.0,Nhập khẩu,SUV /Crossover,Số hỗn hợp,Dầu,2.5,7.0,1099
 Kia,2013,Xe đã dùng,71000.0,Trong nước,Sedan,Số tự động,Xăng,1.6,5.0,310
-Vinfast,2023,Xe mới,0.0,Trong nước,Hatchback,Số tự động,Điện,,,458
+Vinfast,2023,Xe mới,0.0,Trong nước,Hatchback,Số tự động,Điện,0.0,,458
 Hyundai,2021,Xe đã dùng,15000.0,Trong nước,,Số tay,Xăng,,,325
 Kia,2019,Xe đã dùng,8200.0,Trong nước,Hatchback,Số tay,Xăng,1.2,5.0,202
 Hyundai,2017,Xe đã dùng,72000.0,Nhập khẩu,Sedan,Số tự động,Xăng,1.6,5.0,405
@@ -19624,7 +19624,7 @@ Ford,2016,Xe đã dùng,182999.0,Trong nước,Van/Minivan,Số tay,Dầu,2.2,16
 Mercedes Benz,2022,Xe đã dùng,30.0,Trong nước,,Số tự động,Xăng,,,2750
 Toyota,2019,Xe đã dùng,85000.0,,SUV /Crossover,Số tự động,Xăng,2.4,7.0,810
 Mercedes Benz,2023,Xe mới,0.0,Nhập khẩu,SUV / Cross over,Số tự động,Xăng,,,5249
-Vinfast,2023,Xe mới,0.0,Trong nước,Hatchback,Số tự động,Điện,,,458
+Vinfast,2023,Xe mới,0.0,Trong nước,Hatchback,Số tự động,Điện,0.0,,458
 Ford,2014,Xe đã dùng,120000.0,,Bán tải / Pickup,Số tự động,Dầu,2.0,5.0,359
 Hyundai,2017,Xe đã dùng,70000.0,Trong nước,SUV /Crossover,Số tự động,Xăng,2.0,5.0,638
 Ford,2004,Xe đã dùng,100000.0,Trong nước,SUV /Crossover,Số tự động,Xăng,2.3,5.0,160
@@ -19848,7 +19848,7 @@ Mercedes Benz,2020,Xe đã dùng,30000.0,,SUV /Crossover,Số tự động,Xăng
 Hyundai,2016,Xe đã dùng,82000.0,Nhập khẩu,Sedan,Số tự động,Xăng,2.0,5.0,490
 Toyota,2017,Xe đã dùng,90379.0,Nhập khẩu,,Số tự động,Xăng,,,545
 Hyundai,2022,Xe đã dùng,18000.0,,SUV /Crossover,Số tự động,Xăng,1.5,5.0,689
-Vinfast,2023,Xe đã dùng,,Trong nước,SUV / Cross over,Số tự động,Điện,,,89
+Vinfast,2023,Xe đã dùng,,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,89
 Nissan,2023,Xe mới,0.0,Nhập khẩu,Sedan,Số tự động,Xăng,1.0,5.0,495
 Kia,2017,Xe đã dùng,69000.0,Nhập khẩu,Sedan,Số tự động,Xăng,1.6,5.0,420
 Hyundai,2023,Xe mới,0.0,Nhập khẩu,SUV /Crossover,Số tự động,Dầu,2.0,5.0,854
@@ -20078,7 +20078,7 @@ Peugeot,2021,Xe đã dùng,10000.0,Trong nước,SUV /Crossover,Số tự độn
 Toyota,2019,Xe đã dùng,60000.0,,Sedan,Số tự động,Xăng,1.5,5.0,435
 Subaru,2016,Xe đã dùng,96000.0,,SUV /Crossover,Số tự động,Xăng,1.6,5.0,580
 Mazda,2019,Xe đã dùng,52000.0,Nhập khẩu,Sedan,Số tự động,Xăng,1.5,5.0,405
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,1090
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,1090
 Toyota,2019,Xe đã dùng,95000.0,Nhập khẩu,Hatchback,Số tay,Xăng,1.2,5.0,259
 Toyota,2016,Xe đã dùng,112000.0,Nhập khẩu,SUV /Crossover,Số tay,Xăng,2.0,8.0,350
 Hyundai,2021,Xe đã dùng,7000.0,,SUV /Crossover,Số tự động,Xăng,1.6,5.0,610
@@ -20541,7 +20541,7 @@ Mazda,2017,Xe đã dùng,700000.0,,Sedan,Số tự động,Xăng,2.0,5.0,525
 Mazda,2022,Xe đã dùng,40000.0,,Hatchback,Số tự động,Xăng,1.5,5.0,559
 Subaru,2015,Xe đã dùng,62000.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,2.5,5.0,740
 MG,2023,Xe mới,0.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,1.5,5.0,538
-Vinfast,2022,Xe đã dùng,56000.0,Trong nước,,Số tự động,Điện,,,445
+Vinfast,2022,Xe đã dùng,56000.0,Trong nước,,Số tự động,Điện,0.0,,445
 Mazda,2015,Xe đã dùng,90000.0,Trong nước,Sedan,Số tự động,Xăng,2.0,5.0,435
 Isuzu,2005,Xe đã dùng,110001.0,,Hatchback,Số tay,Xăng,,,115
 Kia,2022,Xe đã dùng,20000.0,,Van/Minivan,Số tự động,Động cơ Hybrid,2.2,8.0,1420
@@ -20616,7 +20616,7 @@ Toyota,2009,Xe đã dùng,117121.0,Trong nước,,Số tự động,Xăng,,,325
 Mazda,2022,Xe đã dùng,22000.0,,SUV / Cross over,Số tự động,Xăng,,,715
 MG,2023,Xe mới,0.0,Nhập khẩu,Sedan,Số tự động,Xăng,1.5,5.0,60
 Hyundai,2009,Xe đã dùng,78.0,Nhập khẩu,Hatchback,Số tự động,Xăng,1.6,5.0,289
-Mercedes Benz,2022,Xe đã dùng,5000.0,Nhập khẩu,,Số tự động,Điện,,,3999
+Mercedes Benz,2022,Xe đã dùng,5000.0,Nhập khẩu,,Số tự động,Điện,0.0,,3999
 Kia,2020,Xe đã dùng,40000.0,Trong nước,Sedan,Số tự động,Xăng,1.4,5.0,388
 Toyota,2022,Xe đã dùng,18000.0,Nhập khẩu,Sedan,Số tự động,Xăng,1.5,5.0,475
 Toyota,2014,Xe đã dùng,91.0,,SUV /Crossover,Số tay,Xăng,2.0,8.0,330
@@ -20851,7 +20851,7 @@ Toyota,2011,Xe đã dùng,173000.0,Trong nước,SUV /Crossover,Số tay,Xăng,2
 Vinfast,2022,Xe đã dùng,68000.0,Nhập khẩu,,Số tự động,Xăng,,,400
 Nissan,2019,Xe đã dùng,70000.0,,SUV / Cross over,Số tự động,Xăng,,,650
 Mercedes Benz,2022,Xe đã dùng,2000.0,Trong nước,,Số tự động,Xăng,,,1359
-Vinfast,2023,Xe mới,0.0,Trong nước,,Số tự động,Điện,,4.0,444
+Vinfast,2023,Xe mới,0.0,Trong nước,,Số tự động,Điện,0.0,4.0,444
 LandRover,2013,Xe đã dùng,58000.0,Nhập khẩu,,Số tự động,Xăng,,,785
 Ford,2019,Xe đã dùng,51000.0,Nhập khẩu,Bán tải / Pickup,Số tay,Dầu,2.0,5.0,449
 Honda,2016,Xe đã dùng,76000.0,Nhập khẩu,,Số tự động,Xăng,,,565
@@ -20963,7 +20963,7 @@ Hyundai,2017,Xe đã dùng,83000.0,,Hatchback,Số tự động,Xăng,,,300
 Mazda,2021,Xe đã dùng,38000.0,Nhập khẩu,,Số tự động,Xăng,,,750
 Chevrolet,2013,Xe đã dùng,63000.0,,Sedan,Số tay,Xăng,1.8,5.0,225
 Mazda,2021,Xe đã dùng,28000.0,Trong nước,,Số tự động,Xăng,,,824
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,1090
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,1090
 Nissan,2009,Xe đã dùng,102000.0,Nhập khẩu,Sedan,Số tự động,Xăng,2.0,5.0,305
 Peugeot,2022,Xe đã dùng,15780.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,1.6,5.0,850
 Hyundai,2010,Xe đã dùng,88000.0,Nhập khẩu,,Số tự động,Xăng,,,340
@@ -21498,7 +21498,7 @@ Volkswagen,2013,Xe đã dùng,6789.0,Nhập khẩu,SUV /Crossover,Số tự đ�
 Toyota,2019,Xe đã dùng,60000.0,Nhập khẩu,Sedan,Số tay,Xăng,1.5,5.0,345
 Toyota,2019,Xe đã dùng,78168.0,Trong nước,SUV /Crossover,Số tay,Xăng,2.0,8.0,525
 Ford,2020,Xe đã dùng,45000.0,Nhập khẩu,Bán tải / Pickup,Số tự động,Xăng,2.0,5.0,986
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,458
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,458
 Ford,2017,Xe đã dùng,152000.0,Trong nước,Van/Minivan,Số tay,Dầu,2.2,16.0,490
 Honda,2018,Xe đã dùng,70000.0,Nhập khẩu,,Số tự động,Xăng,,,729
 Mitsubishi,2010,Xe đã dùng,120000.0,Trong nước,SUV /Crossover,Số tự động,Xăng,2.4,7.0,350
@@ -21559,7 +21559,7 @@ Toyota,2023,Xe mới,0.0,Nhập khẩu,Hatchback,Số tự động,Xăng,1.3,5.0
 Suzuki,2020,Xe đã dùng,68000.0,,SUV /Crossover,Số tự động,Xăng,1.5,7.0,428
 Toyota,2022,Xe đã dùng,22000.0,Nhập khẩu,,Số tự động,Xăng,,,728
 Kia,2019,Xe đã dùng,80000.0,Nhập khẩu,Van/Minivan,Số tự động,Dầu,2.2,7.0,799
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,675
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,675
 Kia,2022,Xe đã dùng,32000.0,Trong nước,Van/Minivan,Số tự động,Xăng,2.2,8.0,1480
 Ford,2018,Xe đã dùng,57000.0,,Sedan,Số tự động,Xăng,2.0,5.0,428
 Kia,2021,Xe đã dùng,28000.0,Trong nước,SUV /Crossover,Số tự động,Dầu,2.2,6.0,960
@@ -21581,7 +21581,7 @@ Kia,2014,Xe đã dùng,92000.0,Trong nước,SUV /Crossover,Số tay,Xăng,2.0,7
 Ford,2022,Xe đã dùng,22000.0,Nhập khẩu,Bán tải / Pickup,Số tự động,Dầu,2.0,5.0,624
 Hyundai,2015,Xe đã dùng,12345.0,Nhập khẩu,,Số tay,Xăng,,,188
 Toyota,2012,Xe đã dùng,136500.0,,SUV /Crossover,Số tự động,Xăng,2.4,7.0,410
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,458
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,458
 Chevrolet,2009,Xe đã dùng,23000.0,,Hatchback,Số tay,Xăng,0.8,5.0,57
 Porsche,2016,Xe đã dùng,50000.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,2.0,5.0,1990
 Toyota,2016,Xe đã dùng,60512.0,Trong nước,Sedan,Số tay,Xăng,1.5,5.0,272
@@ -21860,7 +21860,7 @@ Mercedes Benz,2022,Xe đã dùng,6000.0,Nhập khẩu,,Số tự động,Xăng,,
 Hyundai,2018,Xe đã dùng,10000.0,Nhập khẩu,,Số tự động,Xăng,,,100
 Hyundai,2018,Xe đã dùng,62000.0,Nhập khẩu,Sedan,Số tự động,Xăng,1.6,5.0,480
 Kia,2015,Xe đã dùng,9.0,Nhập khẩu,Sedan,Số tự động,Xăng,1.4,5.0,340
-Vinfast,2023,Xe đã dùng,10000.0,Trong nước,,Số tự động,Điện,,,730
+Vinfast,2023,Xe đã dùng,10000.0,Trong nước,,Số tự động,Điện,0.0,,730
 Mazda,2022,Xe đã dùng,17500.0,Trong nước,,Số tự động,Xăng,,,785
 Toyota,2020,Xe đã dùng,40000.0,Nhập khẩu,Sedan,Số tự động,Xăng,2.5,5.0,815
 Suzuki,2022,Xe đã dùng,28000.0,,Van/Minivan,Số tự động,Xăng,,,518
@@ -21960,7 +21960,7 @@ Mitsubishi,2023,Xe mới,0.0,Nhập khẩu,SUV / Cross over,Số tự động,X�
 Mitsubishi,2023,Xe mới,0.0,Nhập khẩu,SUV / Cross over,Số tự động,Dầu,,,1130
 Mitsubishi,2023,Xe đã dùng,,Nhập khẩu,SUV /Crossover,Số tay,Xăng,1.5,7.0,555
 Honda,2021,Xe đã dùng,19000.0,Trong nước,Sedan,Số tay,Xăng,1.5,5.0,489
-Vinfast,2023,Xe đã dùng,8000.0,Trong nước,,Số tự động,Điện,,,530
+Vinfast,2023,Xe đã dùng,8000.0,Trong nước,,Số tự động,Điện,0.0,,530
 Kia,2023,Xe đã dùng,34000.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,2.0,7.0,625
 Hyundai,2022,Xe mới,0.0,Nhập khẩu,Van/Minivan,Số tự động,Xăng,1.5,7.0,485
 Toyota,2012,Xe đã dùng,68.0,Nhập khẩu,SUV /Crossover,Số tự động,Động cơ Hybrid,2.7,7.0,830
@@ -22280,7 +22280,7 @@ Mazda,2021,Xe đã dùng,32000.0,Trong nước,,Số tự động,Xăng,,,790
 Toyota,2016,Xe đã dùng,98000.0,Trong nước,SUV /Crossover,Số tay,Xăng,2.0,8.0,366
 Mercedes Benz,2021,Xe đã dùng,18000.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,2.0,7.0,1500
 Kia,2017,Xe đã dùng,83000.0,Trong nước,SUV /Crossover,Số tự động,Xăng,2.2,6.0,598
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,675
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,675
 Kia,2016,Xe đã dùng,65000.0,Trong nước,Van/Minivan,Số tự động,Xăng,2.2,7.0,577
 Kia,2019,Xe đã dùng,40000.0,Trong nước,Hatchback,Số tự động,Xăng,1.2,5.0,328
 Hyundai,2016,Xe đã dùng,110000.0,Nhập khẩu,,Số tự động,Xăng,,,585
@@ -22339,7 +22339,7 @@ Mercedes Benz,2018,Xe đã dùng,60000.0,,SUV /Crossover,Số tự động,Xăng
 Ford,2021,Xe đã dùng,42700.0,Nhập khẩu,Bán tải / Pickup,Số tự động,Dầu,2.0,5.0,569
 Mercedes Benz,2015,Xe đã dùng,50000.0,Nhập khẩu,,Số tự động,Xăng,,,666
 Audi,2021,Xe đã dùng,18000.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,1.4,5.0,1600
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,957
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,957
 Toyota,2014,Xe đã dùng,95658.0,Trong nước,SUV /Crossover,Số tay,Xăng,2.0,8.0,295
 Mercedes Benz,2019,Xe đã dùng,11999.0,Trong nước,,Số tự động,Xăng,,,1199
 Mercedes Benz,2018,Xe đã dùng,20000.0,,SUV /Crossover,Số tự động,Xăng,2.0,5.0,1030
@@ -22370,7 +22370,7 @@ Toyota,2019,Xe đã dùng,37000.0,Nhập khẩu,Sedan,Số tự động,Xăng,1.
 Toyota,2022,Xe đã dùng,13000.0,,Sedan,Số tự động,Xăng,1.5,5.0,500
 Kia,2011,Xe đã dùng,10000.0,Nhập khẩu,,Số tay,Xăng,,,53
 Kia,2023,Xe mới,0.0,Trong nước,Van/Minivan,Số tự động,Dầu,2.2,8.0,1209
-Vinfast,2023,Xe mới,0.0,Trong nước,Hatchback,Số tự động,Điện,,,458
+Vinfast,2023,Xe mới,0.0,Trong nước,Hatchback,Số tự động,Điện,0.0,,458
 Hyundai,2022,Xe đã dùng,19000.0,,Sedan,Số tự động,Xăng,,,386
 Kia,2016,Xe đã dùng,55000.0,Trong nước,Sedan,Số tự động,Xăng,1.6,5.0,415
 Ford,2023,Xe mới,0.0,Trong nước,SUV /Crossover,Số tự động,Xăng,1.5,5.0,799
@@ -22395,7 +22395,7 @@ Mazda,2022,Xe đã dùng,29000.0,Trong nước,,Số tự động,Xăng,,,805
 Toyota,2018,Xe đã dùng,28000.0,Trong nước,Sedan,Số tay,Xăng,1.5,5.0,350
 Hyundai,2009,Xe đã dùng,30000.0,Nhập khẩu,Hatchback,Số tay,Xăng,1.4,5.0,155
 Chevrolet,2015,Xe đã dùng,130000.0,Nhập khẩu,Hatchback,Số tay,Xăng,0.8,5.0,107
-Vinfast,2023,Xe mới,0.0,Trong nước,Hatchback,Số tự động,Điện,,,458
+Vinfast,2023,Xe mới,0.0,Trong nước,Hatchback,Số tự động,Điện,0.0,,458
 Ford,2023,Xe mới,0.0,Trong nước,SUV /Crossover,Số tự động,Xăng,1.5,5.0,839
 Mercedes Benz,2022,Xe đã dùng,2500.0,Nhập khẩu,,Số tự động,Xăng,,,4150
 Daewoo,2002,Xe đã dùng,123456.0,,Sedan,Số tay,Xăng,1.6,5.0,38
@@ -22422,7 +22422,7 @@ Honda,2017,Xe đã dùng,65000.0,,Sedan,Số tự động,Xăng,1.5,5.0,340
 Mazda,2023,Xe mới,0.0,Nhập khẩu,Sedan,Số tự động,Xăng,1.5,5.0,415
 Toyota,2023,Xe mới,0.0,Trong nước,Sedan,Số tay,Xăng,1.5,5.0,479
 Mazda,2017,Xe đã dùng,90000.0,Trong nước,,Số tự động,Xăng,,,535
-Vinfast,2023,Xe mới,0.0,Trong nước,Hatchback,Số tự động,Điện,,,458
+Vinfast,2023,Xe mới,0.0,Trong nước,Hatchback,Số tự động,Điện,0.0,,458
 Honda,2017,Xe đã dùng,9.0,Trong nước,Sedan,Số tự động,Xăng,1.5,5.0,375
 Kia,2008,Xe đã dùng,180000.0,Nhập khẩu,Hatchback,Số tự động,Xăng,1.2,5.0,145
 Toyota,1995,Xe đã dùng,458888.0,Nhập khẩu,Sedan,Số tay,Xăng,2.5,5.0,89
@@ -22453,10 +22453,10 @@ Mitsubishi,2019,Xe đã dùng,30000.0,Nhập khẩu,Sedan,Số tự động,Xăn
 Ford,2018,Xe đã dùng,110000.0,,Van/Minivan,Số tay,Dầu,2.2,16.0,540
 Suzuki,2022,Xe mới,0.0,Nhập khẩu,SUV /Crossover,Số tự động,Động cơ Hybrid,1.5,7.0,579
 Suzuki,2014,Xe đã dùng,60000.0,,Hatchback,Số tự động,Xăng,1.2,5.0,305
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,1090
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,1090
 Mercedes Benz,2022,Xe đã dùng,90000.0,Trong nước,SUV /Crossover,Số tự động,Xăng,2.0,5.0,2095
 Toyota,2019,Xe đã dùng,80000.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,1.5,7.0,510
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,579
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,579
 BMW,2011,Xe đã dùng,100000.0,Nhập khẩu,,Số tự động,Xăng,,,520
 Kia,2023,Xe mới,0.0,Trong nước,Van/Minivan,Số tự động,Xăng,2.2,8.0,240
 Kia,2018,Xe đã dùng,60000.0,,Hatchback,Số tay,Xăng,1.2,5.0,250
@@ -23503,7 +23503,7 @@ BMW,2017,Xe đã dùng,30000.0,Nhập khẩu,,Số tự động,Xăng,,,1790
 Toyota,2014,Xe đã dùng,101000.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,2.4,7.0,415
 Ford,2015,Xe đã dùng,61000.0,Nhập khẩu,Bán tải / Pickup,Số tự động,Dầu,2.0,5.0,375
 Mazda,2022,Xe đã dùng,39.0,Nhập khẩu,,Số tay,Dầu,,,539
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,418
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,418
 Mazda,2005,Xe đã dùng,11.0,Nhập khẩu,Sedan,Số tay,Xăng,2.0,5.0,115
 Toyota,2022,Xe đã dùng,17000.0,,Sedan,Số tay,Xăng,1.5,5.0,435
 Suzuki,2019,Xe đã dùng,20000.0,Nhập khẩu,Hatchback,Số tay,Xăng,1.0,5.0,250
@@ -24058,7 +24058,7 @@ Suzuki,2023,Xe mới,0.0,Nhập khẩu,Hatchback,Số tự động,Xăng,1.2,5.0
 Kia,2019,Xe đã dùng,40000.0,,Sedan,Số tự động,Xăng,1.4,5.0,305
 Hyundai,2018,Xe đã dùng,75000.0,Trong nước,,Số tự động,Xăng,,,695
 Hyundai,2016,Xe đã dùng,10500.0,Nhập khẩu,,Số tay,Xăng,,,165
-Vinfast,2022,Xe đã dùng,20000.0,,SUV / Cross over,Số tự động,Điện,,,699
+Vinfast,2022,Xe đã dùng,20000.0,,SUV / Cross over,Số tự động,Điện,0.0,,699
 Toyota,2019,Xe đã dùng,60000.0,,Sedan,Số tay,Xăng,1.5,5.0,370
 Hyundai,2018,Xe đã dùng,63000.0,,Hatchback,Số tay,Xăng,,,283
 Vinfast,2019,Xe đã dùng,18000.0,Trong nước,,Số tự động,Xăng,,,540
@@ -24240,7 +24240,7 @@ Toyota,2018,Xe đã dùng,52000.0,Trong nước,Sedan,Số tay,Xăng,1.5,5.0,328
 Toyota,2013,Xe đã dùng,100000.0,Nhập khẩu,SUV /Crossover,Số tay,Xăng,2.0,8.0,315
 Mercedes Benz,2017,Xe đã dùng,43000.0,Trong nước,,Số tự động,Xăng,,,1170
 Jaguar,2016,Xe đã dùng,40000.0,Nhập khẩu,,Số tự động,Xăng,,,1468
-Vinfast,2023,Xe đã dùng,,Trong nước,Hatchback,Số tự động,Điện,,,630
+Vinfast,2023,Xe đã dùng,,Trong nước,Hatchback,Số tự động,Điện,0.0,,630
 Ford,2014,Xe đã dùng,61000.0,,SUV /Crossover,Số tự động,Xăng,1.5,5.0,330
 Hyundai,2016,Xe đã dùng,110000.0,Nhập khẩu,,Số tay,Xăng,,,175
 Lexus,2007,Xe đã dùng,136000.0,,SUV /Crossover,Số tự động,Xăng,3.5,7.0,515
@@ -24521,7 +24521,7 @@ Mercedes Benz,2021,Xe đã dùng,79000.0,,Sedan,Số tự động,Xăng,,,1139
 Toyota,2000,Xe đã dùng,146889.0,,Sedan,Số tay,Xăng,2.5,5.0,135
 Hyundai,2005,Xe đã dùng,15639.0,Trong nước,,Số tự động,Xăng,,,119
 Toyota,2013,Xe đã dùng,10000.0,,Sedan,Số tự động,Xăng,2.5,5.0,409
-Vinfast,2023,Xe mới,0.0,Trong nước,Hatchback,Số tự động,Điện,,,502
+Vinfast,2023,Xe mới,0.0,Trong nước,Hatchback,Số tự động,Điện,0.0,,502
 MG,2022,Xe đã dùng,34800.0,,Sedan,Số tự động,Xăng,1.5,5.0,435
 Toyota,2014,Xe đã dùng,100000.0,Trong nước,SUV /Crossover,Số tay,Xăng,2.0,8.0,248
 Mazda,2017,Xe đã dùng,65000.0,,SUV / Cross over,Số tự động,Xăng,,,545
@@ -24597,7 +24597,7 @@ Hyundai,2007,Xe đã dùng,140095.0,Nhập khẩu,,Số tự động,Dầu,,,305
 Hyundai,2023,Xe mới,0.0,Nhập khẩu,Van/Minivan,Số tự động,Xăng,1.5,7.0,575
 MG,2023,Xe mới,0.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,1.5,5.0,6
 Hyundai,2022,Xe đã dùng,20000.0,,Sedan,Số tự động,Xăng,1.4,5.0,485
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,720
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,720
 Toyota,2014,Xe đã dùng,70000.0,Trong nước,SUV /Crossover,Số tự động,Xăng,2.4,7.0,455
 Toyota,2016,Xe đã dùng,59.0,,Sedan,Số tự động,Xăng,2.5,5.0,785
 Honda,2019,Xe đã dùng,40000.0,,SUV / Cross over,Số tự động,Xăng,,,609
@@ -24729,7 +24729,7 @@ Lexus,2017,Xe đã dùng,50000.0,Nhập khẩu,SUV /Crossover,Số tự động,
 Toyota,2009,Xe đã dùng,170000.0,Nhập khẩu,Sedan,Số tự động,Xăng,2.5,5.0,150
 Ford,2017,Xe đã dùng,85000.0,Nhập khẩu,Bán tải / Pickup,Số tự động,Dầu,2.0,5.0,438
 Toyota,2019,Xe đã dùng,92763.0,Trong nước,SUV /Crossover,Số tay,Xăng,2.0,8.0,505
-Vinfast,2023,Xe đã dùng,2000.0,Trong nước,,Số tự động,Điện,,,1400
+Vinfast,2023,Xe đã dùng,2000.0,Trong nước,,Số tự động,Điện,0.0,,1400
 Ford,2019,Xe đã dùng,65000.0,Nhập khẩu,Bán tải / Pickup,Số tự động,Dầu,2.0,5.0,516
 Porsche,2010,Xe đã dùng,40000.0,,Sedan,Số hỗn hợp,Xăng,3.6,4.0,2800
 LandRover,2012,Xe đã dùng,60000.0,Nhập khẩu,,Số tự động,Xăng,,,880
@@ -25031,7 +25031,7 @@ Ford,2013,Xe đã dùng,100000.0,Trong nước,SUV /Crossover,Số tự động,
 Chevrolet,2008,Xe đã dùng,100.0,Nhập khẩu,Sedan,Số tay,Xăng,1.6,5.0,119
 Mercedes Benz,2008,Xe đã dùng,82000.0,,,Số tự động,Xăng,,5.0,235
 Toyota,2015,Xe đã dùng,60000.0,Trong nước,Sedan,Số tự động,Xăng,2.5,5.0,560
-Vinfast,2023,Xe mới,0.0,Trong nước,Hatchback,Số tự động,Điện,,,675
+Vinfast,2023,Xe mới,0.0,Trong nước,Hatchback,Số tự động,Điện,0.0,,675
 Honda,2019,Xe đã dùng,69000.0,Nhập khẩu,Sedan,Số tự động,Xăng,1.5,5.0,599
 Nissan,2007,Xe đã dùng,120000.0,Nhập khẩu,Sedan,Số tự động,Xăng,1.6,5.0,195
 Kia,2020,Xe đã dùng,33000.0,,Hatchback,Số tự động,Xăng,1.2,5.0,325
@@ -25051,7 +25051,7 @@ Kia,2018,Xe đã dùng,63000.0,Nhập khẩu,Sedan,Số tự động,Xăng,1.6,5
 Mazda,2018,Xe đã dùng,61000.0,,SUV / Cross over,Số tự động,Xăng,,,673
 Toyota,2008,Xe đã dùng,96000.0,Nhập khẩu,Hatchback,Số tự động,Xăng,1.3,5.0,279
 Toyota,2010,Xe đã dùng,110000.0,,Sedan,Số tay,Xăng,1.5,5.0,165
-Vinfast,2023,Xe mới,0.0,Trong nước,Hatchback,Số tự động,Điện,,,458
+Vinfast,2023,Xe mới,0.0,Trong nước,Hatchback,Số tự động,Điện,0.0,,458
 Ford,2018,Xe đã dùng,65000.0,Nhập khẩu,Van/Minivan,Số tay,Dầu,2.2,16.0,570
 Daewoo,2010,Xe đã dùng,88000.0,,Sedan,Số tay,Xăng,1.5,5.0,139
 Toyota,2023,Xe mới,0.0,Trong nước,,Số tự động,Xăng,,7.0,633
@@ -25064,7 +25064,7 @@ Daewoo,2000,Xe đã dùng,50000.0,Nhập khẩu,,Số tay,Xăng,,,38
 Mitsubishi,2005,Xe đã dùng,145236.0,,SUV /Crossover,Số tay,Xăng,2.0,8.0,132
 Infiniti,2014,Xe đã dùng,46000.0,Nhập khẩu,,Số tự động,Xăng,,,2680
 Daewoo,2002,Xe đã dùng,12345.0,Nhập khẩu,Sedan,Số tay,Xăng,1.5,5.0,33
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,1491
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,1491
 Hyundai,2020,Xe đã dùng,20000.0,Trong nước,Sedan,Số tự động,Xăng,1.6,5.0,535
 Hyundai,2014,Xe đã dùng,76000.0,Nhập khẩu,Sedan,Số tự động,Xăng,1.4,5.0,312
 Isuzu,2014,Xe đã dùng,80000.0,Nhập khẩu,Bán tải / Pickup,Số tự động,Dầu,2.5,5.0,475
@@ -25275,7 +25275,7 @@ Mercedes Benz,2023,Xe mới,0.0,Trong nước,SUV /Crossover,Số tự động,X
 Kia,2014,Xe đã dùng,30000.0,Trong nước,Hatchback,Số tự động,Xăng,1.2,5.0,235
 Ford,2010,Xe đã dùng,14000.0,,SUV /Crossover,Số tự động,Xăng,2.3,5.0,240
 MG,2022,Xe đã dùng,4000.0,Nhập khẩu,Sedan,Số tự động,Xăng,1.5,5.0,490
-Vinfast,2022,Xe đã dùng,30000.0,Trong nước,,Số tự động,Điện,,,450
+Vinfast,2022,Xe đã dùng,30000.0,Trong nước,,Số tự động,Điện,0.0,,450
 Kia,2022,Xe đã dùng,16000.0,Trong nước,SUV /Crossover,Số tự động,Xăng,2.0,7.0,550
 Volvo,2022,Xe đã dùng,37000.0,Nhập khẩu,SUV /Crossover,Số tự động,Động cơ Hybrid,2.0,5.0,2499
 Suzuki,2022,Xe mới,0.0,Nhập khẩu,SUV / Cross over,Số tự động,Xăng,,,599
@@ -25309,7 +25309,7 @@ Honda,2013,Xe đã dùng,120000.0,Nhập khẩu,Sedan,Số tự động,Xăng,1.
 Ford,2017,Xe đã dùng,78000.0,,Van/Minivan,Số tay,Dầu,2.2,16.0,565
 Honda,2019,Xe đã dùng,40000.0,Nhập khẩu,Sedan,Số tự động,Xăng,1.5,5.0,590
 Peugeot,2022,Xe đã dùng,10000.0,Trong nước,SUV /Crossover,Số tự động,Xăng,1.6,5.0,965
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,458
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,458
 Kia,2023,Xe mới,0.0,Trong nước,SUV /Crossover,Số tự động,Xăng,1.5,5.0,100
 Vinfast,2021,Xe đã dùng,44000.0,Nhập khẩu,,Số tự động,Xăng,,,310
 Ford,2014,Xe đã dùng,120.0,,Bán tải / Pickup,Số tay,Dầu,2.0,5.0,125
@@ -25461,7 +25461,7 @@ Toyota,2019,Xe đã dùng,50000.0,Trong nước,SUV /Crossover,Số tự động
 Toyota,2022,Xe đã dùng,39000.0,Nhập khẩu,Sedan,Số tự động,Xăng,1.5,5.0,449
 Toyota,2015,Xe đã dùng,97000.0,,SUV /Crossover,Số tự động,Xăng,2.4,7.0,486
 Ford,2022,Xe đã dùng,16700.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,3.0,7.0,2100
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,940
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,940
 Suzuki,2020,Xe đã dùng,47500.0,,SUV /Crossover,Số tự động,Xăng,1.5,7.0,425
 Mercedes Benz,2017,Xe đã dùng,53000.0,,Sedan,Số tự động,Xăng,,,949
 Chevrolet,2011,Xe đã dùng,13.0,Nhập khẩu,Sedan,Số tự động,Xăng,1.8,5.0,195
@@ -25494,7 +25494,7 @@ Mazda,2017,Xe đã dùng,100000.0,Trong nước,Hatchback,Số tay,Xăng,1.5,5.0
 BMW,2009,Xe đã dùng,,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,3.0,5.0,560
 Ford,2022,Xe đã dùng,18000.0,Trong nước,Bán tải / Pickup,Số tự động,Dầu,2.0,5.0,609
 Ford,2023,Xe mới,0.0,Nhập khẩu,Van/Minivan,Số tay,Dầu,2.2,16.0,819
-Vinfast,2023,Xe mới,0.0,Nhập khẩu,,Số tự động,Điện,,,458
+Vinfast,2023,Xe mới,0.0,Nhập khẩu,,Số tự động,Điện,0.0,,458
 Mitsubishi,2001,Xe đã dùng,32000.0,Nhập khẩu,Sedan,Số tay,Xăng,1.6,5.0,68
 Vinfast,2023,Xe mới,0.0,Nhập khẩu,,Số tự động,Xăng,,,100
 Vinfast,2023,Xe mới,0.0,Nhập khẩu,,Số tự động,Xăng,,,110
@@ -25848,7 +25848,7 @@ Honda,2023,Xe mới,0.0,Nhập khẩu,Van/Minivan,Số tự động,Xăng,,,661
 Kia,2011,Xe đã dùng,120000.0,Trong nước,Sedan,Số tự động,Xăng,1.6,5.0,295
 Ford,2022,Xe đã dùng,3000.0,Nhập khẩu,Bán tải / Pickup,Số tự động,Dầu,2.0,5.0,668
 Mazda,2019,Xe đã dùng,46000.0,Nhập khẩu,,Số tự động,Xăng,,,535
-Hãng khác,2023,Xe mới,0.0,Trong nước,Kiểu dáng khác,Số tự động,Điện,,,236
+Hãng khác,2023,Xe mới,0.0,Trong nước,Kiểu dáng khác,Số tự động,Điện,0.0,,236
 Honda,2023,Xe mới,0.0,Trong nước,Sedan,Số tự động,Xăng,1.5,5.0,609
 Ford,2020,Xe đã dùng,32500.0,Nhập khẩu,Bán tải / Pickup,Số tự động,Dầu,2.0,5.0,715
 Daewoo,2007,Xe đã dùng,160000.0,Trong nước,Hatchback,Số tay,Xăng,0.8,5.0,48
@@ -26099,13 +26099,13 @@ MG,2023,Xe đã dùng,,Nhập khẩu,Sedan,Số tự động,Xăng,1.5,5.0,523
 Honda,2013,Xe đã dùng,100000.0,,Sedan,Số tự động,Xăng,1.5,5.0,320
 Chevrolet,2009,Xe đã dùng,180000.0,Nhập khẩu,Hatchback,Số tay,Xăng,0.8,5.0,83
 Ford,2017,Xe đã dùng,190000.0,,Van/Minivan,Số tay,Dầu,2.2,16.0,475
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,458
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,458
 Vinfast,2022,Xe đã dùng,28888.0,Trong nước,,Số tự động,Xăng,,,596
 Chevrolet,2009,Xe đã dùng,180000.0,,Hatchback,Số tay,Xăng,0.8,5.0,83
 Chevrolet,2008,Xe đã dùng,96.0,,SUV /Crossover,Số tự động,Xăng,2.4,7.0,185
 Toyota,2022,Xe đã dùng,31000.0,Trong nước,Sedan,Số tay,Xăng,1.5,5.0,418
 Ford,2023,Xe đã dùng,10000.0,Trong nước,SUV /Crossover,Số tự động,Xăng,1.5,5.0,860
-Vinfast,2023,Xe đã dùng,11000.0,Trong nước,,Số tự động,Điện,,,465
+Vinfast,2023,Xe đã dùng,11000.0,Trong nước,,Số tự động,Điện,0.0,,465
 Toyota,2006,Xe đã dùng,150000.0,,SUV /Crossover,Số tay,Xăng,2.0,8.0,198
 Toyota,2007,Xe đã dùng,140000.0,Nhập khẩu,Van/Minivan,Số tay,Dầu,2.7,16.0,195
 Ford,2020,Xe đã dùng,40000.0,Nhập khẩu,Bán tải / Pickup,Số tự động,Dầu,2.0,5.0,550
@@ -26368,7 +26368,7 @@ Toyota,2018,Xe đã dùng,55677.0,Trong nước,Sedan,Số tự động,Xăng,2.
 Hyundai,2022,Xe đã dùng,5000.0,Trong nước,Sedan,Số tự động,Xăng,1.4,5.0,466
 Hyundai,2010,Xe đã dùng,140.0,Nhập khẩu,,Số tay,Dầu,,,123
 Toyota,2014,Xe đã dùng,89888.0,,Bán tải / Pickup,Số tay,Xăng,2.4,5.0,385
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,458
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,458
 Ford,2018,Xe đã dùng,68000.0,,SUV /Crossover,Số tự động,Xăng,1.5,5.0,410
 Ford,2012,Xe đã dùng,86000.0,Nhập khẩu,Hatchback,Số tự động,Xăng,1.0,5.0,220
 Toyota,2013,Xe đã dùng,206589.0,Trong nước,Sedan,Số tự động,Xăng,1.5,5.0,295
@@ -26516,7 +26516,7 @@ Hyundai,2022,Xe mới,0.0,Nhập khẩu,Van/Minivan,Số tự động,Xăng,1.5,
 Toyota,2010,Xe đã dùng,14.0,Trong nước,SUV /Crossover,Số tự động,Xăng,2.0,8.0,285
 Kia,2023,Xe mới,0.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,2.0,7.0,589
 Mazda,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Xăng,,,749
-Hãng khác,2016,Xe đã dùng,21114.0,Nhập khẩu,,Số tự động,Điện,,,65
+Hãng khác,2016,Xe đã dùng,21114.0,Nhập khẩu,,Số tự động,Điện,0.0,,65
 Hyundai,2016,Xe đã dùng,150000.0,,Hatchback,Số tay,Xăng,,,168
 Mitsubishi,2022,Xe đã dùng,17000.0,Nhập khẩu,Bán tải / Pickup,Số tự động,Xăng,2.4,5.0,615
 Toyota,2023,Xe mới,0.0,Nhập khẩu,Sedan,Số tự động,Xăng,2.5,5.0,1173
@@ -26882,7 +26882,7 @@ Jeep,2012,Xe đã dùng,49999.0,Nhập khẩu,,Số tay,Xăng,,,440
 Vinfast,2021,Xe đã dùng,50000.0,Trong nước,,Số tự động,Xăng,,,665
 Kia,2013,Xe đã dùng,87000.0,Trong nước,Hatchback,Số tự động,Xăng,1.2,5.0,235
 Toyota,2022,Xe đã dùng,5000.0,,Van/Minivan,Số tự động,Xăng,,,639
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,675
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,675
 Kia,2019,Xe đã dùng,55000.0,Trong nước,Van/Minivan,Số tự động,Dầu,2.2,7.0,725
 Hãng khác,2022,Xe đã dùng,13000.0,Trong nước,,Số tay,Xăng,,,190
 Mazda,2020,Xe đã dùng,37000.0,,SUV / Cross over,Số tự động,Xăng,,,730
@@ -26927,7 +26927,7 @@ Hyundai,2021,Xe đã dùng,7600.0,Trong nước,Sedan,Số tự động,Xăng,1.
 Toyota,2023,Xe mới,0.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,1.0,5.0,540
 Ford,2015,Xe đã dùng,71000.0,Trong nước,Sedan,Số tự động,Xăng,2.0,5.0,350
 Ford,2020,Xe đã dùng,40000.0,Trong nước,Bán tải / Pickup,Số tự động,Dầu,2.0,5.0,738
-Vinfast,2023,Xe đã dùng,6000.0,Trong nước,,Số tự động,Điện,,,1230
+Vinfast,2023,Xe đã dùng,6000.0,Trong nước,,Số tự động,Điện,0.0,,1230
 Toyota,2012,Xe đã dùng,120000.0,Trong nước,Sedan,Số tay,Xăng,1.5,5.0,215
 Chevrolet,2016,Xe đã dùng,999.0,Nhập khẩu,Sedan,Số tự động,Xăng,1.8,5.0,345
 Hyundai,2021,Xe đã dùng,12000.0,Trong nước,Sedan,Số tự động,Xăng,1.6,5.0,565
@@ -26955,7 +26955,7 @@ Toyota,2019,Xe đã dùng,57000.0,Nhập khẩu,SUV /Crossover,Số tự động
 Toyota,2022,Xe đã dùng,47100.0,Nhập khẩu,,Số tự động,Xăng,,,650
 Toyota,2023,Xe mới,0.0,Nhập khẩu,SUV / Cross over,Số tự động,Xăng,,,818
 Mitsubishi,2022,Xe đã dùng,33000.0,,SUV /Crossover,Số tự động,Xăng,1.5,7.0,598
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,1491
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,1491
 Toyota,2023,Xe mới,0.0,Nhập khẩu,Sedan,Số tự động,Xăng,2.5,5.0,1165
 Toyota,2016,Xe đã dùng,83400.0,Trong nước,SUV /Crossover,Số tự động,Xăng,2.0,8.0,530
 Ford,2023,Xe mới,0.0,Trong nước,Bán tải / Pickup,Số tự động,Dầu,2.0,5.0,189
@@ -27327,7 +27327,7 @@ Toyota,2007,Xe đã dùng,182345.0,Trong nước,SUV /Crossover,Số tay,Xăng,2
 Mazda,2021,Xe đã dùng,39000.0,Nhập khẩu,,Số tự động,Xăng,,,490
 Honda,2023,Xe mới,0.0,Trong nước,Van/Minivan,Số tự động,Xăng,,,660
 Hyundai,2022,Xe đã dùng,11000.0,Trong nước,Sedan,Số tự động,Xăng,1.6,5.0,559
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,458
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,458
 Ford,2009,Xe đã dùng,178910.0,Nhập khẩu,Bán tải / Pickup,Số tay,Dầu,2.0,5.0,215
 Vinfast,2022,Xe đã dùng,24000.0,Trong nước,,Số tự động,Xăng,,,316
 Daewoo,2010,Xe đã dùng,88.0,Trong nước,Sedan,Số tay,Xăng,1.5,5.0,98
@@ -27375,7 +27375,7 @@ Chevrolet,2011,Xe đã dùng,120000.0,Trong nước,Sedan,Số tự động,Xăn
 Hyundai,2023,Xe mới,0.0,Trong nước,,Số tự động,Xăng,,5.0,68
 Mazda,2023,Xe mới,0.0,Trong nước,Hatchback,Số tự động,Xăng,1.5,5.0,671
 Isuzu,2019,Xe đã dùng,150000.0,Nhập khẩu,,Số tự động,Dầu,,,620
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,675
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,675
 RAM,2021,Xe đã dùng,15000.0,Nhập khẩu,Bán tải / Pickup,Số tự động,Xăng,5.7,5.0,4199
 Hyundai,2014,Xe đã dùng,120000.0,Nhập khẩu,,Số tay,Xăng,,,176
 Hyundai,2021,Xe đã dùng,6700.0,Trong nước,Sedan,Số tự động,Xăng,1.6,5.0,595
@@ -27671,7 +27671,7 @@ Kia,2020,Xe đã dùng,30000.0,Trong nước,Van/Minivan,Số tự động,Dầu
 Mazda,2022,Xe đã dùng,15000.0,Nhập khẩu,,Số tự động,Xăng,,,710
 Mercedes Benz,2016,Xe đã dùng,29000.0,Nhập khẩu,Sedan,Số tự động,Xăng,3.0,5.0,3150
 Mitsubishi,2021,Xe đã dùng,46000.0,,SUV /Crossover,Số tự động,Xăng,1.5,7.0,533
-Mini,2023,Xe mới,0.0,Trong nước,Kiểu dáng khác,Số tự động,Điện,,,239
+Mini,2023,Xe mới,0.0,Trong nước,Kiểu dáng khác,Số tự động,Điện,0.0,,239
 Chevrolet,2007,Xe đã dùng,100000.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,2.4,7.0,178
 Toyota,2020,Xe đã dùng,45000.0,Trong nước,Sedan,Số tự động,Xăng,1.5,5.0,450
 Hyundai,2019,Xe đã dùng,56868.0,Trong nước,,Số tự động,Xăng,,,335
@@ -27859,7 +27859,7 @@ Mitsubishi,2007,Xe đã dùng,106000.0,Nhập khẩu,Hatchback,Số tự động
 Hyundai,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Dầu,,,190
 Mitsubishi,2021,Xe đã dùng,57000.0,,SUV /Crossover,Số tự động,Xăng,1.5,7.0,535
 Peugeot,2021,Xe đã dùng,50000.0,Trong nước,SUV /Crossover,Số tự động,Xăng,1.2,5.0,655
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,100
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,100
 Fiat,2003,Xe đã dùng,23567.0,Trong nước,Sedan,Số tay,Xăng,1.2,5.0,42
 Kia,2023,Xe mới,0.0,Trong nước,SUV /Crossover,Số tự động,Xăng,1.4,5.0,714
 Ford,2022,Xe đã dùng,15000.0,Trong nước,Bán tải / Pickup,Số tự động,Dầu,2.0,5.0,606
@@ -27874,7 +27874,7 @@ Mitsubishi,2023,Xe mới,0.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăn
 Chevrolet,2017,Xe đã dùng,42000.0,Trong nước,Sedan,Số tự động,Xăng,1.8,5.0,350
 Chevrolet,2014,Xe đã dùng,129886.0,,Sedan,Số tay,Xăng,1.5,5.0,164
 Kia,2018,Xe đã dùng,48000.0,Trong nước,Hatchback,Số tự động,Xăng,1.2,5.0,305
-Hãng khác,2023,Xe mới,0.0,Trong nước,,Số tự động,Điện,,7.0,889
+Hãng khác,2023,Xe mới,0.0,Trong nước,,Số tự động,Điện,0.0,7.0,889
 Toyota,2017,Xe đã dùng,83000.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,2.4,7.0,670
 Toyota,2013,Xe đã dùng,19732.0,,Sedan,Số tự động,Xăng,1.5,5.0,299
 Toyota,2021,Xe đã dùng,36000.0,Trong nước,SUV /Crossover,Số tay,Xăng,2.0,8.0,619
@@ -28019,7 +28019,7 @@ Ford,2019,Xe đã dùng,63000.0,Nhập khẩu,SUV /Crossover,Số tự động,D
 Audi,2022,Xe đã dùng,1400.0,Nhập khẩu,Sedan,Số tự động,Xăng,2.0,5.0,2080
 Toyota,2018,Xe đã dùng,78353.0,Nhập khẩu,Hatchback,Số tự động,Xăng,1.3,5.0,425
 Kia,2017,Xe đã dùng,225000.0,Nhập khẩu,SUV /Crossover,Số tay,Xăng,2.0,7.0,330
-Mercedes Benz,2023,Xe mới,0.0,Nhập khẩu,SUV / Cross over,Số tự động,Điện,,,2289
+Mercedes Benz,2023,Xe mới,0.0,Nhập khẩu,SUV / Cross over,Số tự động,Điện,0.0,,2289
 Nissan,2021,Xe đã dùng,35000.0,,Sedan,Số tay,Xăng,1.0,5.0,339
 Mercedes Benz,2011,Xe đã dùng,87600.0,Nhập khẩu,,Số tự động,Xăng,,,690
 Kia,2021,Xe đã dùng,40000.0,Trong nước,Sedan,Số tự động,Xăng,1.6,5.0,495
@@ -28029,7 +28029,7 @@ Mercedes Benz,2021,Xe đã dùng,11000.0,Trong nước,,Số tự động,Xăng,
 Kia,2015,Xe đã dùng,83580.0,Nhập khẩu,Sedan,Số tự động,Xăng,1.4,5.0,320
 Mazda,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Xăng,,,749
 Kia,2021,Xe đã dùng,17000.0,Trong nước,Hatchback,Số tự động,Xăng,1.2,5.0,320
-Mercedes Benz,2023,Xe mới,0.0,Nhập khẩu,SUV / Cross over,Số tự động,Điện,,,2289
+Mercedes Benz,2023,Xe mới,0.0,Nhập khẩu,SUV / Cross over,Số tự động,Điện,0.0,,2289
 Audi,2008,Xe đã dùng,88700.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,3.6,7.0,380
 Chevrolet,2009,Xe đã dùng,92000.0,Nhập khẩu,SUV /Crossover,Số tự động,Dầu,2.4,7.0,275
 Toyota,2021,Xe đã dùng,13000.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,1.0,5.0,518
@@ -28205,7 +28205,7 @@ Ford,2018,Xe đã dùng,50000.0,,SUV /Crossover,Số tự động,Xăng,1.5,5.0,
 Suzuki,2022,Xe mới,0.0,Nhập khẩu,Van/Minivan,Số tự động,Xăng,,,569
 Chevrolet,2016,Xe đã dùng,88000.0,,SUV /Crossover,Số tự động,Xăng,2.4,7.0,405
 Toyota,2015,Xe đã dùng,80000.0,Nhập khẩu,,Số tự động,Xăng,,,435
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,957
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,957
 Ford,2022,Xe đã dùng,3.0,,Bán tải / Pickup,Số tự động,Dầu,2.0,5.0,770
 Mercedes Benz,2022,Xe đã dùng,15000.0,Nhập khẩu,,Số tự động,Xăng,,,1599
 Mercedes Benz,2017,Xe đã dùng,21000.0,,SUV /Crossover,Số tự động,Xăng,2.0,5.0,1119
@@ -28264,7 +28264,7 @@ Mazda,2018,Xe đã dùng,78000.0,,Hatchback,Số tự động,Xăng,1.5,5.0,440
 Peugeot,2022,Xe mới,0.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,1.6,5.0,969
 Toyota,2020,Xe đã dùng,150000.0,Trong nước,SUV /Crossover,Số tay,Xăng,2.0,8.0,590
 Mitsubishi,2023,Xe mới,0.0,Trong nước,SUV /Crossover,Số tự động,Xăng,2.0,7.0,950
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,458
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,458
 Kia,2013,Xe đã dùng,87000.0,Trong nước,Hatchback,Số tự động,Xăng,1.2,5.0,235
 Mitsubishi,2019,Xe đã dùng,90000.0,,SUV /Crossover,Số tự động,Xăng,2.0,7.0,709
 Hyundai,2019,Xe đã dùng,83000.0,,SUV /Crossover,Số tự động,Dầu,2.0,5.0,640
@@ -28278,7 +28278,7 @@ Ford,2014,Xe đã dùng,280000.0,,Van/Minivan,Số tay,Dầu,2.2,16.0,330
 Toyota,2016,Xe đã dùng,70000.0,Trong nước,Sedan,Số tự động,Xăng,2.5,5.0,650
 Mitsubishi,2022,Xe đã dùng,8400.0,Trong nước,SUV /Crossover,Số tự động,Xăng,1.5,7.0,625
 Kia,2014,Xe đã dùng,69000.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,1.6,5.0,440
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,1090
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,1090
 Chevrolet,2017,Xe đã dùng,80000.0,Nhập khẩu,Bán tải / Pickup,Số tay,Dầu,2.5,5.0,355
 Ford,2019,Xe đã dùng,,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,1.5,5.0,485
 Chevrolet,2017,Xe đã dùng,80000.0,Nhập khẩu,Bán tải / Pickup,Số tay,Dầu,2.5,5.0,355
@@ -28287,7 +28287,7 @@ Suzuki,2001,Xe đã dùng,333.0,Nhập khẩu,,Số tay,Xăng,,,62
 Honda,2007,Xe đã dùng,1200.0,Nhập khẩu,Sedan,Số tự động,Xăng,1.5,5.0,208
 Ford,2007,Xe đã dùng,300000.0,Trong nước,SUV /Crossover,Số tay,Dầu,2.5,7.0,220
 Toyota,2016,Xe đã dùng,82000.0,Trong nước,SUV /Crossover,Số tự động,Xăng,2.0,8.0,415
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,1090
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,1090
 Kia,2009,Xe đã dùng,8.0,Nhập khẩu,Sedan,Số tự động,Xăng,1.6,5.0,229
 Kia,2021,Xe đã dùng,15000.0,Trong nước,Hatchback,Số tự động,Xăng,1.2,5.0,369
 Mazda,2015,Xe đã dùng,97000.0,,Hatchback,Số tự động,Xăng,1.5,5.0,400
@@ -28397,22 +28397,22 @@ Daewoo,2022,Xe đã dùng,77999.0,Nhập khẩu,Sedan,Số tự động,Xăng,1.
 Mazda,2018,Xe đã dùng,62.0,,Pickup,Số tự động,Dầu,,,390
 Toyota,1992,Xe đã dùng,56789.0,Nhập khẩu,Van/Minivan,Số tay,Xăng,2.7,16.0,130
 Kia,2010,Xe đã dùng,100000.0,,Hatchback,Số tự động,Xăng,1.2,5.0,190
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,907
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,907
 Honda,2019,Xe đã dùng,60000.0,Nhập khẩu,,Số tự động,Xăng,,,550
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,907
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,907
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,907
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,907
 Honda,2023,Xe đã dùng,4000.0,Trong nước,,Số tự động,Xăng,,,954
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,907
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,907
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,907
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,907
 Toyota,2017,Xe đã dùng,110000.0,Trong nước,SUV /Crossover,Số tự động,Xăng,2.0,8.0,575
 Nissan,2013,Xe đã dùng,345000.0,Nhập khẩu,Sedan,Số tay,Xăng,1.5,5.0,180
 Mazda,2022,Xe đã dùng,30000.0,,Hatchback,Số tự động,Xăng,1.5,5.0,569
 Vinfast,2022,Xe mới,0.0,Trong nước,Sedan,Số tự động,Xăng,,,748
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,907
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,907
 Toyota,2017,Xe đã dùng,111000.0,Trong nước,Sedan,Số tự động,Xăng,1.5,5.0,375
 Toyota,2021,Xe đã dùng,21000.0,Nhập khẩu,Van/Minivan,Số tự động,Xăng,3.5,7.0,3750
 Mitsubishi,2021,Xe đã dùng,35000.0,Nhập khẩu,,Số tự động,Dầu,,,850
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,907
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,907
 Audi,2017,Xe đã dùng,52000.0,Nhập khẩu,Sedan,Số tự động,Xăng,2.0,5.0,1499
 Kia,2014,Xe đã dùng,98000.0,Nhập khẩu,Hatchback,Số tự động,Xăng,1.2,5.0,203
 Vinfast,2022,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Xăng,,,748
@@ -28429,11 +28429,11 @@ Suzuki,2017,Xe đã dùng,42000.0,Nhập khẩu,,Số tay,Xăng,,,165
 Ford,2004,Xe đã dùng,10000.0,Trong nước,Sedan,Số tự động,Xăng,1.6,5.0,138
 Hyundai,2016,Xe đã dùng,70000.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,2.0,5.0,596
 Chevrolet,2016,Xe đã dùng,90000.0,,SUV /Crossover,Số tự động,Xăng,1.8,7.0,328
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,907
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,907
 BMW,2016,Xe đã dùng,60000.0,Nhập khẩu,,Số tự động,Xăng,,,830
 Vinfast,2020,Xe đã dùng,39000.0,Trong nước,,Số tự động,Xăng,,,535
 Ford,2022,Xe đã dùng,50000.0,Nhập khẩu,Bán tải / Pickup,Số tự động,Dầu,2.0,5.0,719
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,940
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,940
 BMW,2011,Xe đã dùng,150000.0,Nhập khẩu,,Số tự động,Xăng,,,330
 Suzuki,2002,Xe đã dùng,269000.0,Nhập khẩu,,Số tay,Xăng,,,90
 Kia,2017,Xe đã dùng,65000.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,2.0,7.0,415
@@ -28446,7 +28446,7 @@ Mitsubishi,2020,Xe đã dùng,9000.0,Nhập khẩu,SUV /Crossover,Số tự đ�
 Toyota,2022,Xe đã dùng,31000.0,Nhập khẩu,Sedan,Số tay,Xăng,1.5,5.0,418
 Ford,2022,Xe đã dùng,26000.0,Trong nước,Van/Minivan,Số tay,Dầu,2.2,16.0,738
 Hyundai,2022,Xe đã dùng,18000.0,,,Số tay,Xăng,,4.0,355
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,907
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,907
 Kia,2014,Xe đã dùng,50000.0,Nhập khẩu,Hatchback,Số tự động,Xăng,1.2,5.0,181
 Mitsubishi,2020,Xe đã dùng,16000.0,Nhập khẩu,SUV /Crossover,Số tay,Xăng,1.5,7.0,448
 Toyota,2011,Xe đã dùng,70000.0,Trong nước,SUV /Crossover,Số tay,Xăng,2.0,8.0,200
@@ -28467,14 +28467,14 @@ Kia,2022,Xe đã dùng,440000.0,Trong nước,SUV /Crossover,Số tự động,X
 Mercedes Benz,2010,Xe đã dùng,140000.0,,Sedan,Số tự động,Xăng,,,360
 Mitsubishi,2021,Xe đã dùng,25000.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,1.5,7.0,528
 Mazda,2018,Xe đã dùng,61000.0,Nhập khẩu,,Số tự động,Xăng,,,598
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,907
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,907
 Mitsubishi,2005,Xe đã dùng,100000.0,Nhập khẩu,SUV /Crossover,Số tay,Xăng,2.0,8.0,105
 Mazda,2014,Xe đã dùng,45000.0,Nhập khẩu,Hatchback,Số tự động,Xăng,1.5,5.0,346
 Daewoo,2004,Xe đã dùng,123000.0,Trong nước,Hatchback,Số tay,Xăng,0.8,5.0,65
 Mitsubishi,2006,Xe đã dùng,8888.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,2.0,7.0,235
 Kia,2009,Xe đã dùng,123456.0,,Hatchback,Số tự động,Xăng,1.2,5.0,155
 Honda,2019,Xe đã dùng,,Nhập khẩu,SUV / Cross over,Số tự động,Xăng,,,550
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,907
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,907
 Toyota,2021,Xe đã dùng,55000.0,Nhập khẩu,SUV /Crossover,Số tay,Xăng,2.0,8.0,638
 Ford,2017,Xe đã dùng,65000.0,Nhập khẩu,Bán tải / Pickup,Số tự động,Dầu,2.0,5.0,450
 Chevrolet,2018,Xe đã dùng,33000.0,,Sedan,Số tự động,Xăng,1.5,5.0,270
@@ -28505,7 +28505,7 @@ Daewoo,2002,Xe đã dùng,78453.0,Nhập khẩu,Sedan,Số tay,Xăng,1.5,5.0,30
 Suzuki,2022,Xe mới,0.0,Nhập khẩu,Van/Minivan,Số tự động,Xăng,,,569
 Jeep,2021,Xe đã dùng,11900.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,2.0,5.0,2699
 Toyota,2017,Xe đã dùng,60000.0,Nhập khẩu,SUV /Crossover,Số tay,Dầu,2.4,7.0,750
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,907
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,907
 Hyundai,2017,Xe đã dùng,96000.0,Trong nước,,Số tay,Xăng,,,243
 Toyota,2019,Xe đã dùng,91000.0,Trong nước,Sedan,Số tay,Xăng,1.5,5.0,348
 MG,2023,Xe mới,0.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,1.5,5.0,538
@@ -28534,7 +28534,7 @@ Toyota,2014,Xe đã dùng,123000.0,Nhập khẩu,SUV /Crossover,Số tay,Xăng,2
 Mitsubishi,2013,Xe đã dùng,79000.0,Nhập khẩu,Bán tải / Pickup,Số tự động,Dầu,2.4,5.0,310
 Toyota,2015,Xe đã dùng,72.0,Trong nước,SUV /Crossover,Số tay,Xăng,2.0,8.0,365
 Chevrolet,2018,Xe đã dùng,33000.0,,Sedan,Số tự động,Xăng,1.5,5.0,270
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,907
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,907
 Vinfast,2021,Xe đã dùng,20000.0,Trong nước,,Số tự động,Xăng,,,839
 Chevrolet,2007,Xe đã dùng,80000.0,Trong nước,SUV /Crossover,Số tay,Xăng,2.4,7.0,180
 Hyundai,2020,Xe đã dùng,40000.0,Trong nước,SUV /Crossover,Số tự động,Xăng,2.0,5.0,690
@@ -28569,7 +28569,7 @@ Kia,2022,Xe đã dùng,5000.0,,Sedan,Số tự động,Xăng,1.6,5.0,588
 Audi,2015,Xe đã dùng,47000.0,Nhập khẩu,Coupe,Số tự động,Xăng,2.0,4.0,1139
 Mercedes Benz,2004,Xe đã dùng,120000.0,Nhập khẩu,,Số tự động,Xăng,,,230
 Toyota,2019,Xe đã dùng,56300.0,Nhập khẩu,Sedan,Số tự động,Xăng,2.5,5.0,898
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,907
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,907
 Kia,2021,Xe đã dùng,15000.0,Nhập khẩu,Van/Minivan,Số tự động,Dầu,2.2,8.0,1368
 Kia,2021,Xe đã dùng,33000.0,Trong nước,Van/Minivan,Số tự động,Dầu,2.2,8.0,1230
 Toyota,2006,Xe đã dùng,135000.0,Nhập khẩu,SUV /Crossover,Số tay,Xăng,2.0,8.0,210
@@ -28604,7 +28604,7 @@ Mercedes Benz,2021,Xe đã dùng,40.0,Trong nước,,Số tự động,Xăng,,,1
 Mercedes Benz,2022,Xe mới,0.0,Nhập khẩu,Sedan,Số tự động,Xăng,,,2429
 Mercedes Benz,2022,Xe mới,0.0,Nhập khẩu,Sedan,Số tự động,Xăng,3.0,5.0,8199
 Mercedes Benz,2022,Xe mới,0.0,Nhập khẩu,Sedan,Số tự động,Xăng,,,5559
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,907
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,907
 Mercedes Benz,2021,Xe đã dùng,4000.0,Trong nước,,Số tự động,Xăng,,,1739
 MG,2023,Xe mới,0.0,Nhập khẩu,Sedan,Số tự động,Xăng,,,515
 Toyota,2010,Xe đã dùng,62000.0,Trong nước,,Số tự động,Xăng,,,380
@@ -28715,7 +28715,7 @@ Ford,2004,Xe đã dùng,234500.0,,SUV /Crossover,Số tự động,Xăng,2.3,5.0
 Mercedes Benz,2021,Xe đã dùng,8888.0,Trong nước,SUV /Crossover,Số tự động,Xăng,2.0,5.0,1638
 Ford,2017,Xe đã dùng,55000.0,Nhập khẩu,Bán tải / Pickup,Số tay,Dầu,2.0,5.0,425
 Kia,2009,Xe đã dùng,181000.0,,SUV /Crossover,Số tự động,Xăng,2.0,7.0,195
-Mercedes Benz,2022,Xe mới,0.0,Nhập khẩu,Sedan,Số tự động,Điện,,,5959
+Mercedes Benz,2022,Xe mới,0.0,Nhập khẩu,Sedan,Số tự động,Điện,0.0,,5959
 Suzuki,2022,Xe mới,0.0,Nhập khẩu,SUV /Crossover,Số tay,Xăng,1.5,7.0,514
 Mitsubishi,2019,Xe đã dùng,60000.0,Nhập khẩu,Sedan,Số tự động,Xăng,1.2,5.0,295
 Ford,2020,Xe đã dùng,31000.0,Nhập khẩu,Bán tải / Pickup,Số tự động,Dầu,2.0,5.0,738
@@ -28815,7 +28815,7 @@ Honda,2022,Xe đã dùng,10000.0,Nhập khẩu,,Số tự động,Xăng,,,818
 Audi,2013,Xe đã dùng,90000.0,Nhập khẩu,Sedan,Số tự động,Xăng,3.0,5.0,933
 Mercedes Benz,2013,Xe đã dùng,12345.0,Nhập khẩu,,Số tự động,Xăng,,,550
 Toyota,2019,Xe đã dùng,60936.0,Trong nước,Sedan,Số tay,Xăng,1.5,5.0,325
-Vinfast,2023,Xe mới,0.0,Trong nước,Hatchback,Số tự động,Điện,,,675
+Vinfast,2023,Xe mới,0.0,Trong nước,Hatchback,Số tự động,Điện,0.0,,675
 Ford,2016,Xe đã dùng,45000.0,Trong nước,SUV /Crossover,Số tay,Xăng,1.5,5.0,310
 Vinfast,2022,Xe đã dùng,4500.0,,Hatchback,Số tự động,Xăng,,,345
 Kia,2019,Xe đã dùng,60000.0,,SUV /Crossover,Số tự động,Xăng,2.2,6.0,579
@@ -29001,7 +29001,7 @@ Mazda,2018,Xe đã dùng,61000.0,Trong nước,,Số tự động,Xăng,,,598
 Toyota,2020,Xe đã dùng,39000.0,Trong nước,Sedan,Số tự động,Xăng,1.5,5.0,410
 Toyota,2022,Xe đã dùng,25000.0,Nhập khẩu,,Số tự động,Xăng,,,785
 Toyota,2020,Xe đã dùng,80000.0,Trong nước,Sedan,Số tự động,Xăng,1.5,5.0,430
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,675
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,675
 Isuzu,2016,Xe đã dùng,890000.0,,SUV / Cross over,Số tự động,Dầu,,,525
 Kia,2020,Xe đã dùng,60000.0,,Van/Minivan,Số tự động,Dầu,2.2,7.0,959
 Lexus,2018,Xe đã dùng,50100.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,3.5,7.0,1989
@@ -29037,7 +29037,7 @@ Ford,2021,Xe đã dùng,27000.0,,Van/Minivan,Số tay,Dầu,2.2,16.0,755
 Kia,2022,Xe mới,0.0,Trong nước,Sedan,Số tự động,Xăng,1.6,5.0,619
 Suzuki,2009,Xe đã dùng,113459.0,Nhập khẩu,Hatchback,Số tự động,Xăng,1.0,5.0,175
 Ford,2018,Xe đã dùng,42000.0,Nhập khẩu,Bán tải / Pickup,Số tự động,Dầu,2.0,5.0,648
-Vinfast,2023,Xe đã dùng,,Trong nước,,Số tự động,Điện,,5.0,630
+Vinfast,2023,Xe đã dùng,,Trong nước,,Số tự động,Điện,0.0,5.0,630
 Ford,2019,Xe đã dùng,50000.0,,Sedan,Số tự động,Xăng,2.0,5.0,410
 Mercedes Benz,2020,Xe đã dùng,43000.0,Trong nước,,Số tự động,Xăng,,,1488
 Ford,2019,Xe đã dùng,67500.0,Nhập khẩu,Bán tải / Pickup,Số tự động,Dầu,2.0,5.0,660
@@ -29297,7 +29297,7 @@ Ford,2022,Xe đã dùng,12000.0,Nhập khẩu,SUV /Crossover,Số tự động,D
 Lexus,2023,Xe đã dùng,6.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,2.0,5.0,3130
 Toyota,2014,Xe đã dùng,100000.0,,SUV /Crossover,Số tay,Xăng,2.0,8.0,338
 Toyota,2017,Xe đã dùng,100000.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,2.0,8.0,455
-Vinfast,2023,Xe mới,0.0,Trong nước,Hatchback,Số tự động,Điện,,,458
+Vinfast,2023,Xe mới,0.0,Trong nước,Hatchback,Số tự động,Điện,0.0,,458
 Kia,2006,Xe đã dùng,215863.0,Nhập khẩu,Hatchback,Số tay,Xăng,1.2,5.0,95
 Mazda,2019,Xe đã dùng,23000.0,,Sedan,Số tự động,Xăng,2.0,5.0,598
 Ford,2002,Xe đã dùng,180.0,Trong nước,SUV /Crossover,Số tự động,Xăng,2.3,5.0,85
@@ -29320,7 +29320,7 @@ Mitsubishi,2018,Xe đã dùng,70000.0,Nhập khẩu,SUV /Crossover,Số tự đ�
 Vinfast,2019,Xe đã dùng,13000.0,Trong nước,,Số tự động,Xăng,,,595
 Hyundai,2017,Xe đã dùng,87000.0,Trong nước,,Số tự động,Dầu,,,725
 Hyundai,2016,Xe đã dùng,98648.0,Nhập khẩu,,Số tự động,Xăng,,,302
-Vinfast,2023,Xe mới,0.0,Trong nước,Hatchback,Số tự động,Điện,,,458
+Vinfast,2023,Xe mới,0.0,Trong nước,Hatchback,Số tự động,Điện,0.0,,458
 Mitsubishi,2021,Xe đã dùng,69000.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,1.5,7.0,548
 Suzuki,2017,Xe đã dùng,81000.0,Nhập khẩu,Sedan,Số tự động,Xăng,1.4,5.0,279
 Toyota,2020,Xe đã dùng,76000.0,Nhập khẩu,SUV /Crossover,Số tay,Dầu,2.4,7.0,800
@@ -29486,7 +29486,7 @@ Toyota,2015,Xe đã dùng,60000.0,Nhập khẩu,SUV /Crossover,Số tự động
 Daewoo,2002,Xe đã dùng,18562.0,Nhập khẩu,Hatchback,Số tay,Xăng,0.8,5.0,47
 Isuzu,2017,Xe đã dùng,200.0,Nhập khẩu,Kiểu dáng khác,Số tay,Dầu,3.0,3.0,320
 Toyota,2003,Xe đã dùng,111111.0,Trong nước,Sedan,Số tự động,Xăng,2.5,5.0,295
-Vinfast,2023,Xe mới,0.0,Trong nước,,Số tự động,Điện,,5.0,458
+Vinfast,2023,Xe mới,0.0,Trong nước,,Số tự động,Điện,0.0,5.0,458
 Vinfast,2021,Xe đã dùng,34000.0,Trong nước,,Số tự động,Xăng,,,580
 Mitsubishi,2023,Xe đã dùng,7500.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,1.5,7.0,630
 Suzuki,2015,Xe đã dùng,65000.0,Trong nước,Hatchback,Số tự động,Xăng,1.2,5.0,286
@@ -29513,10 +29513,10 @@ Chevrolet,2005,Xe đã dùng,12222.0,Nhập khẩu,Sedan,Số tay,Xăng,1.6,5.0,
 Toyota,1997,Xe đã dùng,130000.0,Nhập khẩu,,Số tay,Xăng,,,82
 Mitsubishi,2023,Xe mới,0.0,Trong nước,SUV /Crossover,Số tự động,Xăng,2.0,7.0,825
 Toyota,2016,Xe đã dùng,69000.0,Trong nước,Sedan,Số tự động,Xăng,1.5,5.0,268
-Vinfast,2023,Xe mới,0.0,Trong nước,,Số tự động,Điện,,5.0,150
-Vinfast,2023,Xe mới,0.0,Trong nước,,Số tự động,Điện,,5.0,160
+Vinfast,2023,Xe mới,0.0,Trong nước,,Số tự động,Điện,0.0,5.0,150
+Vinfast,2023,Xe mới,0.0,Trong nước,,Số tự động,Điện,0.0,5.0,160
 Hyundai,2023,Xe mới,0.0,Nhập khẩu,SUV / Cross over,Số tự động,Xăng,,,1150
-Vinfast,2023,Xe mới,0.0,Trong nước,,Số tự động,Điện,,5.0,160
+Vinfast,2023,Xe mới,0.0,Trong nước,,Số tự động,Điện,0.0,5.0,160
 Mazda,2014,Xe đã dùng,8000.0,Nhập khẩu,,Số tự động,Dầu,,,320
 Ford,2023,Xe đã dùng,,Trong nước,Van/Minivan,Số tay,Dầu,2.2,16.0,849
 Kia,2009,Xe đã dùng,7000.0,Nhập khẩu,Hatchback,Số tự động,Xăng,1.2,5.0,159
@@ -29524,10 +29524,10 @@ Ford,2020,Xe đã dùng,38000.0,Nhập khẩu,Bán tải / Pickup,Số tự đ�
 Hãng khác,2023,Xe đã dùng,100.0,Trong nước,,Số tay,Xăng,,,335
 Mercedes Benz,2019,Xe đã dùng,28000.0,Trong nước,,Số tự động,Xăng,,,1199
 Suzuki,2015,Xe đã dùng,30000.0,,Hatchback,Số tự động,Xăng,1.2,5.0,328
-Vinfast,2023,Xe mới,0.0,Trong nước,,Số tự động,Điện,,5.0,675
+Vinfast,2023,Xe mới,0.0,Trong nước,,Số tự động,Điện,0.0,5.0,675
 Mitsubishi,2005,Xe đã dùng,130000.0,Trong nước,SUV /Crossover,Số tay,Xăng,2.0,8.0,175
 Vinfast,2023,Xe mới,0.0,Nhập khẩu,,Số tự động,Xăng,,,100
-Vinfast,2023,Xe mới,0.0,Nhập khẩu,,Số tự động,Điện,,,100
+Vinfast,2023,Xe mới,0.0,Nhập khẩu,,Số tự động,Điện,0.0,,100
 Honda,2021,Xe đã dùng,40000.0,,Sedan,Số tự động,Xăng,1.5,5.0,468
 Mercedes Benz,2016,Xe đã dùng,61000.0,Nhập khẩu,,Số tự động,Xăng,,,838
 Audi,2018,Xe đã dùng,50000.0,,Sedan,Số tự động,Xăng,2.0,5.0,950
@@ -29638,7 +29638,7 @@ Hyundai,2021,Xe đã dùng,24000.0,Trong nước,Sedan,Số tay,Xăng,1.4,5.0,40
 Vinfast,2019,Xe đã dùng,6000.0,,Hatchback,Số tự động,Xăng,,,305
 Vinfast,2019,Xe đã dùng,6000.0,,Hatchback,Số tự động,Xăng,,,305
 Toyota,2004,Xe đã dùng,200000.0,,SUV /Crossover,Số tay,Xăng,1.8,8.0,158
-Vinfast,2023,Xe mới,0.0,Trong nước,Hatchback,Số tự động,Điện,,,458
+Vinfast,2023,Xe mới,0.0,Trong nước,Hatchback,Số tự động,Điện,0.0,,458
 Volkswagen,2022,Xe mới,0.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,2.0,5.0,3099
 Toyota,2008,Xe đã dùng,350000.0,,SUV /Crossover,Số tay,Xăng,2.0,8.0,115
 Honda,2017,Xe đã dùng,81000.0,Trong nước,,Số tự động,Xăng,,,630
@@ -29665,7 +29665,7 @@ Peugeot,2021,Xe đã dùng,50000.0,Nhập khẩu,SUV /Crossover,Số tự độn
 Suzuki,2022,Xe mới,0.0,Trong nước,,Số tay,Xăng,,2.0,294
 Toyota,2014,Xe đã dùng,83000.0,Nhập khẩu,Hatchback,Số tự động,Xăng,1.3,5.0,355
 Hyundai,2023,Xe mới,0.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,2.0,5.0,829
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,1090
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,1090
 Toyota,2014,Xe đã dùng,140000.0,Nhập khẩu,SUV /Crossover,Số tay,Xăng,2.0,8.0,329
 Suzuki,2023,Xe mới,0.0,Nhập khẩu,Hatchback,Số tự động,Xăng,1.2,5.0,559
 Toyota,2018,Xe đã dùng,90000.0,Nhập khẩu,Sedan,Số tay,Xăng,1.5,5.0,310
@@ -29703,7 +29703,7 @@ Mercedes Benz,2006,Xe đã dùng,100000.0,Nhập khẩu,,Số tự động,Xăng
 Vinfast,2022,Xe đã dùng,25000.0,Nhập khẩu,,Số tự động,Xăng,,,875
 Hyundai,2015,Xe đã dùng,100000.0,Trong nước,,Số tự động,Xăng,,,580
 Ford,2023,Xe đã dùng,9500.0,Nhập khẩu,Van/Minivan,Số tay,Dầu,2.2,16.0,775
-Vinfast,2023,Xe mới,0.0,Trong nước,Sedan,Số tự động,Điện,,,458
+Vinfast,2023,Xe mới,0.0,Trong nước,Sedan,Số tự động,Điện,0.0,,458
 Ford,2020,Xe đã dùng,36000.0,Nhập khẩu,Bán tải / Pickup,Số tự động,Dầu,2.0,5.0,738
 Ssangyong,2007,Xe đã dùng,234765.0,,,Số tay,Dầu,,5.0,165
 Honda,2023,Xe mới,0.0,Trong nước,Sedan,Số tự động,Xăng,1.5,5.0,559
@@ -29875,7 +29875,7 @@ Ford,2000,Xe đã dùng,200000.0,,Sedan,Số tay,Xăng,1.6,5.0,68
 Mercedes Benz,2011,Xe đã dùng,90000.0,Trong nước,,Số tự động,Xăng,,,353
 Mercedes Benz,2003,Xe đã dùng,252.0,Trong nước,,Số tự động,Xăng,,,90
 Changan,2016,Xe đã dùng,100000.0,Nhập khẩu,,Số tự động,Xăng,,,88
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,1090
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,1090
 Mercedes Benz,2011,Xe đã dùng,90000.0,Trong nước,,Số tự động,Xăng,,,360
 Hyundai,2008,Xe đã dùng,21.0,Nhập khẩu,Hatchback,Số tự động,Xăng,1.6,5.0,210
 Hyundai,2017,Xe đã dùng,68789.0,Nhập khẩu,,Số tự động,Xăng,,,285
@@ -30062,13 +30062,13 @@ Ford,2020,Xe đã dùng,51000.0,Nhập khẩu,SUV /Crossover,Số tự động,D
 Hyundai,2014,Xe đã dùng,108000.0,Nhập khẩu,Sedan,Số tự động,Xăng,1.4,5.0,308
 Mazda,2018,Xe đã dùng,50000.0,Nhập khẩu,Sedan,Số tự động,Xăng,2.0,5.0,575
 Ford,2021,Xe đã dùng,60000.0,Nhập khẩu,Bán tải / Pickup,Số tự động,Dầu,2.0,5.0,560
-Vinfast,2022,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,458
+Vinfast,2022,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,458
 Mitsubishi,2019,Xe đã dùng,45000.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,1.5,7.0,480
 Ford,2015,Xe đã dùng,76000.0,Trong nước,Hatchback,Số tự động,Xăng,1.0,5.0,290
 Ford,2019,Xe đã dùng,45000.0,Nhập khẩu,SUV /Crossover,Số tự động,Dầu,2.5,7.0,838
 Toyota,1994,Xe đã dùng,290000.0,Nhập khẩu,Sedan,Số tay,Xăng,2.4,5.0,55
 Mitsubishi,2019,Xe đã dùng,43000.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,1.5,7.0,490
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,458
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,458
 Ford,2021,Xe đã dùng,35000.0,Nhập khẩu,Bán tải / Pickup,Số tay,Dầu,2.0,5.0,530
 Hyundai,2022,Xe đã dùng,16000.0,Trong nước,SUV /Crossover,Số tự động,Xăng,2.0,5.0,868
 Chevrolet,2015,Xe đã dùng,84000.0,Trong nước,Sedan,Số tự động,Xăng,1.8,5.0,270
@@ -30076,7 +30076,7 @@ Hyundai,2023,Xe mới,0.0,Trong nước,Sedan,Số tự động,Xăng,1.4,5.0,42
 Hyundai,2022,Xe đã dùng,38700.0,Trong nước,,Số tự động,Xăng,,,390
 Ford,2015,Xe đã dùng,90000.0,Nhập khẩu,Bán tải / Pickup,Số tự động,Dầu,2.0,5.0,550
 Daewoo,2003,Xe đã dùng,10.0,Nhập khẩu,Sedan,Số tay,Xăng,1.6,5.0,29
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,675
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,675
 Ford,2023,Xe mới,0.0,Trong nước,Van/Minivan,Số tay,Dầu,2.2,16.0,849
 Mazda,2018,Xe đã dùng,17000.0,,Hatchback,Số tự động,Xăng,1.5,5.0,475
 Hyundai,2016,Xe đã dùng,,Nhập khẩu,Hatchback,Số tay,Xăng,,,170
@@ -30112,12 +30112,12 @@ Toyota,2021,Xe đã dùng,52000.0,Nhập khẩu,Bán tải / Pickup,Số tự �
 Ford,2008,Xe đã dùng,80000.0,Trong nước,SUV /Crossover,Số tay,Dầu,2.5,7.0,225
 Vinfast,2022,Xe đã dùng,30000.0,Nhập khẩu,,Số tự động,Xăng,,,315
 Toyota,2014,Xe đã dùng,800000.0,Trong nước,SUV /Crossover,Số tự động,Xăng,2.4,7.0,445
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,458
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,458
 Ford,2014,Xe đã dùng,60000.0,,SUV /Crossover,Số tự động,Dầu,2.5,7.0,480
 Kia,2016,Xe đã dùng,73000.0,,Hatchback,Số tay,Xăng,1.2,5.0,170
 Honda,2021,Xe đã dùng,53000.0,Nhập khẩu,,Số tự động,Xăng,,,635
 Kia,2021,Xe đã dùng,80000.0,Nhập khẩu,Sedan,Số tay,Dầu,1.6,5.0,365
-Vinfast,2023,Xe mới,0.0,Nhập khẩu,,Số tự động,Điện,,,100
+Vinfast,2023,Xe mới,0.0,Nhập khẩu,,Số tự động,Điện,0.0,,100
 Honda,2013,Xe đã dùng,51000.0,Trong nước,,Số tự động,Xăng,,,482
 Vinfast,2020,Xe đã dùng,25000.0,Nhập khẩu,,Số tự động,Xăng,,,795
 Ssangyong,2007,Xe đã dùng,10.0,Nhập khẩu,,Số tự động,Xăng,,,130
@@ -30157,7 +30157,7 @@ Mitsubishi,2023,Xe mới,0.0,Nhập khẩu,Bán tải / Pickup,Số tự độn
 Mitsubishi,2008,Xe đã dùng,200.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,2.4,7.0,175
 Ford,2007,Xe đã dùng,120.0,Trong nước,Van/Minivan,Số tay,Dầu,2.2,16.0,175
 Toyota,2019,Xe đã dùng,56300.0,Nhập khẩu,Sedan,Số tự động,Xăng,2.5,5.0,898
-Vinfast,2023,Xe đã dùng,2.0,Trong nước,,Số tự động,Điện,,,675
+Vinfast,2023,Xe đã dùng,2.0,Trong nước,,Số tự động,Điện,0.0,,675
 Chevrolet,2018,Xe đã dùng,82000.0,Nhập khẩu,SUV /Crossover,Số tự động,Dầu,2.5,7.0,599
 Hyundai,2012,Xe đã dùng,100000.0,Trong nước,Sedan,Số tự động,Xăng,1.6,5.0,270
 Mitsubishi,2022,Xe đã dùng,9000.0,Trong nước,SUV /Crossover,Số tự động,Xăng,2.0,7.0,705
@@ -30184,14 +30184,14 @@ Ford,2009,Xe đã dùng,110000.0,,SUV /Crossover,Số tự động,Xăng,2.3,5.0
 Honda,2019,Xe đã dùng,45000.0,,Sedan,Số tự động,Xăng,1.5,5.0,420
 Ford,2012,Xe đã dùng,340000.0,,Van/Minivan,Số tay,Dầu,2.2,16.0,555
 Hyundai,2023,Xe mới,0.0,Trong nước,SUV /Crossover,Số tự động,Xăng,2.0,5.0,769
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,675
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,675
 Vinfast,2021,Xe đã dùng,18000.0,Nhập khẩu,,Số tự động,Xăng,,,599
 BMW,2023,Xe mới,0.0,Nhập khẩu,Sedan,Số tự động,Xăng,,,1435
 Toyota,2017,Xe đã dùng,76800.0,,Sedan,Số tự động,Xăng,,,508
 Vinfast,2019,Xe đã dùng,10600.0,Trong nước,,Số tự động,Xăng,,,515
 Suzuki,2022,Xe mới,0.0,Nhập khẩu,Sedan,Số tự động,Xăng,1.4,5.0,534
 Toyota,2019,Xe đã dùng,58000.0,Trong nước,Sedan,Số tự động,Xăng,1.5,5.0,370
-Vinfast,2023,Xe đã dùng,8000.0,Trong nước,,Số tự động,Điện,,,1205
+Vinfast,2023,Xe đã dùng,8000.0,Trong nước,,Số tự động,Điện,0.0,,1205
 Mitsubishi,2023,Xe mới,0.0,Nhập khẩu,Sedan,Số tự động,Xăng,1.2,5.0,333
 Chevrolet,2017,Xe đã dùng,114000.0,Trong nước,SUV /Crossover,Số tự động,Xăng,2.4,7.0,450
 Kia,2020,Xe đã dùng,27000.0,,SUV /Crossover,Số tự động,Xăng,2.0,7.0,524
@@ -30327,7 +30327,7 @@ Toyota,2015,Xe đã dùng,80000.0,,SUV /Crossover,Số tự động,Xăng,2.4,7.
 Ford,2017,Xe đã dùng,100000.0,,Bán tải / Pickup,Số tự động,Dầu,2.0,5.0,465
 Toyota,2017,Xe đã dùng,88000.0,,SUV /Crossover,Số tự động,Xăng,2.0,8.0,610
 Kia,2010,Xe đã dùng,140000.0,Nhập khẩu,Sedan,Số tay,Xăng,1.6,5.0,185
-Vinfast,2023,Xe đã dùng,3000.0,,SUV / Cross over,Số tự động,Điện,,,870
+Vinfast,2023,Xe đã dùng,3000.0,,SUV / Cross over,Số tự động,Điện,0.0,,870
 Honda,2010,Xe đã dùng,1010.0,Trong nước,,Số tự động,Xăng,,,298
 Hyundai,2011,Xe đã dùng,180000.0,Nhập khẩu,Sedan,Số tự động,Xăng,2.0,5.0,310
 Mazda,2021,Xe đã dùng,25000.0,Nhập khẩu,Sedan,Số tự động,Xăng,1.5,5.0,469
@@ -30381,7 +30381,7 @@ Hyundai,2022,Xe đã dùng,29000.0,Nhập khẩu,SUV /Crossover,Số tự độn
 Toyota,2015,Xe đã dùng,600000.0,Nhập khẩu,Sedan,Số tự động,Xăng,2.5,5.0,520
 Lexus,2014,Xe đã dùng,100000.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,3.5,7.0,1369
 Toyota,2008,Xe đã dùng,100000.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,2.4,7.0,305
-Vinfast,2023,Xe mới,0.0,Nhập khẩu,,Số tự động,Điện,,,870
+Vinfast,2023,Xe mới,0.0,Nhập khẩu,,Số tự động,Điện,0.0,,870
 Mazda,2021,Xe đã dùng,22000.0,Nhập khẩu,Sedan,Số tự động,Xăng,1.5,5.0,385
 Hyundai,2021,Xe đã dùng,15268.0,,SUV /Crossover,Số tự động,Xăng,1.6,5.0,565
 Kia,2020,Xe đã dùng,19570.0,Trong nước,SUV /Crossover,Số tự động,Xăng,2.2,6.0,790
@@ -30430,7 +30430,7 @@ Volvo,2019,Xe đã dùng,24000.0,Nhập khẩu,SUV /Crossover,Số tự động,
 Ford,2023,Xe mới,0.0,Nhập khẩu,SUV /Crossover,Số tự động,Dầu,2.5,7.0,1229
 Kia,2019,Xe đã dùng,60000.0,,SUV /Crossover,Số tự động,Xăng,2.2,6.0,579
 MG,2023,Xe mới,0.0,Nhập khẩu,Sedan,Số tự động,Xăng,1.5,5.0,450
-Vinfast,2023,Xe đã dùng,8000.0,Nhập khẩu,,Số tự động,Điện,,,1250
+Vinfast,2023,Xe đã dùng,8000.0,Nhập khẩu,,Số tự động,Điện,0.0,,1250
 Toyota,2015,Xe đã dùng,80000.0,Trong nước,Sedan,Số tay,Xăng,1.5,5.0,226
 Kia,2023,Xe đã dùng,3000.0,Nhập khẩu,Van/Minivan,Số tự động,Dầu,2.2,8.0,1430
 Ford,2023,Xe đã dùng,10000.0,,Bán tải / Pickup,Số tự động,Dầu,2.0,5.0,620
@@ -30504,7 +30504,6 @@ Toyota,2019,Xe đã dùng,28000.0,Trong nước,Hatchback,Số tay,Xăng,1.2,5.0
 Toyota,2021,Xe đã dùng,22000.0,Trong nước,SUV /Crossover,Số tự động,Dầu,2.4,7.0,898
 Nissan,2020,Xe đã dùng,58000.0,Trong nước,,Số tự động,Xăng,,,709
 Toyota,2017,Xe đã dùng,88369.0,Trong nước,SUV /Crossover,Số tự động,Xăng,2.0,8.0,600
-Toyota,2023,Xe mới,0.0,Trong nước,Sedan,Số tay,Xăng,1.5,5.0,459
 Daewoo,2010,Xe đã dùng,90000.0,Nhập khẩu,Sedan,Số tay,Xăng,1.6,5.0,165
 Mitsubishi,2023,Xe mới,0.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,1.5,7.0,500
 Kia,2020,Xe đã dùng,64000.0,Trong nước,Sedan,Số tự động,Xăng,1.6,5.0,489
@@ -30779,7 +30778,7 @@ Ford,2020,Xe đã dùng,49000.0,Nhập khẩu,Bán tải / Pickup,Số tay,Dầ
 Toyota,2009,Xe đã dùng,159000.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,2.0,8.0,285
 Toyota,2021,Xe đã dùng,17000.0,,Sedan,Số tự động,Xăng,1.5,5.0,445
 Ford,2022,Xe đã dùng,31000.0,Trong nước,Bán tải / Pickup,Số tự động,Dầu,2.0,5.0,675
-Vinfast,2023,Xe mới,0.0,Trong nước,,Số tự động,Điện,,5.0,675
+Vinfast,2023,Xe mới,0.0,Trong nước,,Số tự động,Điện,0.0,5.0,675
 Suzuki,2022,Xe đã dùng,55000.0,Nhập khẩu,,Số tự động,Xăng,,,520
 Vinfast,2019,Xe đã dùng,48000.0,Trong nước,,Số tự động,Xăng,,,599
 Ford,2020,Xe đã dùng,39000.0,Nhập khẩu,SUV /Crossover,Số tự động,Dầu,2.5,7.0,898
@@ -30788,7 +30787,7 @@ Mitsubishi,2021,Xe đã dùng,33000.0,Nhập khẩu,SUV /Crossover,Số tự đ�
 Suzuki,2020,Xe đã dùng,40000.0,Nhập khẩu,Hatchback,Số tự động,Xăng,1.2,5.0,435
 Ford,2018,Xe đã dùng,21000.0,,Hatchback,Số tự động,Xăng,1.0,5.0,385
 Toyota,2019,Xe đã dùng,110000.0,,SUV /Crossover,Số tay,Dầu,2.4,7.0,789
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,1090
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,1090
 Toyota,2012,Xe đã dùng,84000.0,Trong nước,SUV /Crossover,Số tự động,Xăng,2.0,8.0,335
 Kia,2022,Xe đã dùng,15000.0,Trong nước,Hatchback,Số tự động,Xăng,1.2,5.0,385
 Daewoo,2009,Xe đã dùng,90000.0,Nhập khẩu,Sedan,Số tự động,Xăng,1.6,5.0,185
@@ -30797,7 +30796,7 @@ Ford,2019,Xe đã dùng,58000.0,Nhập khẩu,SUV /Crossover,Số tự động,D
 Toyota,2023,Xe mới,0.0,Nhập khẩu,SUV / Cross over,Số tự động,Xăng,,,2889
 Kia,2017,Xe đã dùng,78000.0,Trong nước,SUV /Crossover,Số tự động,Xăng,2.2,6.0,558
 Lexus,2020,Xe đã dùng,30000.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,3.4,7.0,6900
-Vinfast,2023,Xe mới,0.0,Trong nước,Hatchback,Số tự động,Điện,,,458
+Vinfast,2023,Xe mới,0.0,Trong nước,Hatchback,Số tự động,Điện,0.0,,458
 Ford,2021,Xe đã dùng,48000.0,Nhập khẩu,SUV /Crossover,Số tự động,Dầu,2.5,7.0,955
 Toyota,2007,Xe đã dùng,81790.0,Nhập khẩu,Van/Minivan,Số tự động,Xăng,2.5,7.0,380
 Ford,2004,Xe đã dùng,150000.0,Trong nước,SUV /Crossover,Số tự động,Xăng,2.3,5.0,175
@@ -30812,7 +30811,7 @@ Toyota,2020,Xe đã dùng,96000.0,Nhập khẩu,SUV /Crossover,Số tự động
 Hyundai,2019,Xe đã dùng,51000.0,Trong nước,SUV /Crossover,Số tự động,Dầu,2.0,5.0,699
 Honda,2014,Xe đã dùng,86000.0,Trong nước,Sedan,Số tự động,Xăng,1.5,5.0,312
 Ford,2021,Xe đã dùng,60000.0,Nhập khẩu,Bán tải / Pickup,Số tự động,Dầu,2.0,5.0,555
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,1050
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,1050
 Lexus,2015,Xe đã dùng,76000.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,3.5,7.0,1670
 Kia,2020,Xe đã dùng,67000.0,Nhập khẩu,Van/Minivan,Số tự động,Dầu,2.2,7.0,828
 Toyota,2019,Xe đã dùng,63000.0,,Sedan,Số tự động,Xăng,2.5,5.0,889
@@ -30906,7 +30905,7 @@ Ford,2014,Xe đã dùng,68000.0,Trong nước,Sedan,Số tự động,Xăng,2.0,
 Mitsubishi,2019,Xe đã dùng,6100.0,Nhập khẩu,Bán tải / Pickup,Số tự động,Dầu,2.4,5.0,445
 Hyundai,2022,Xe đã dùng,42000.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,1.5,5.0,656
 Toyota,2019,Xe đã dùng,69000.0,,SUV /Crossover,Số tay,Xăng,2.0,8.0,550
-Vinfast,2023,Xe đã dùng,8.0,Trong nước,,Số tự động,Điện,,,1090
+Vinfast,2023,Xe đã dùng,8.0,Trong nước,,Số tự động,Điện,0.0,,1090
 Kia,2022,Xe đã dùng,21000.0,Trong nước,Van/Minivan,Số tự động,Xăng,2.2,8.0,1520
 Hyundai,2014,Xe đã dùng,115000.0,Nhập khẩu,,Số tay,Xăng,,,143
 Mazda,2022,Xe đã dùng,10000.0,Nhập khẩu,,Số tự động,Xăng,,,590
@@ -31043,7 +31042,7 @@ Mercedes Benz,2019,Xe đã dùng,42000.0,Nhập khẩu,Sedan,Số tự động,X
 Toyota,2011,Xe đã dùng,123000.0,Nhập khẩu,SUV /Crossover,Số tay,Xăng,2.0,8.0,205
 Suzuki,2019,Xe đã dùng,30000.0,,Hatchback,Số tự động,Xăng,1.2,5.0,440
 Toyota,2013,Xe đã dùng,80000.0,Trong nước,,Số tự động,Xăng,,,368
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,635
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,635
 Ford,2009,Xe đã dùng,200000.0,,Bán tải / Pickup,Số tay,Dầu,2.0,5.0,225
 Ford,2018,Xe đã dùng,12.0,Nhập khẩu,Van/Minivan,Số tay,Dầu,2.2,16.0,399
 Toyota,2017,Xe đã dùng,132000.0,Nhập khẩu,Sedan,Số tay,Xăng,1.5,5.0,330
@@ -31265,14 +31264,14 @@ Hyundai,2010,Xe đã dùng,800000.0,Nhập khẩu,Coupe,Số tự động,Xăng,
 Kia,2015,Xe đã dùng,80000.0,,Sedan,Số tự động,Xăng,1.6,5.0,379
 Ford,2019,Xe đã dùng,51000.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,1.5,5.0,475
 Mazda,2023,Xe mới,0.0,Nhập khẩu,Sedan,Số tự động,Xăng,1.5,5.0,415
-Vinfast,2022,Xe đã dùng,7000.0,Trong nước,,Số tự động,Điện,,,739
+Vinfast,2022,Xe đã dùng,7000.0,Trong nước,,Số tự động,Điện,0.0,,739
 Vinfast,2019,Xe đã dùng,98000.0,Trong nước,,Số tự động,Xăng,,,520
 Hyundai,2020,Xe đã dùng,24000.0,,Sedan,Số tự động,Xăng,1.4,5.0,413
 Mazda,2021,Xe đã dùng,35000.0,,Hatchback,Số tự động,Xăng,1.5,5.0,545
 Ford,2022,Xe đã dùng,5700.0,,Bán tải / Pickup,Số tự động,Dầu,2.0,5.0,795
 Mercedes Benz,2015,Xe đã dùng,20000.0,,Sedan,Số tự động,Xăng,,,900
 Hyundai,2017,Xe đã dùng,81000.0,Trong nước,,Số tự động,Dầu,,,695
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,675
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,675
 Mercedes Benz,2015,Xe đã dùng,80000.0,Trong nước,,Số tự động,Xăng,,,668
 Ford,2017,Xe đã dùng,37000.0,Nhập khẩu,Bán tải / Pickup,Số tự động,Dầu,2.0,5.0,455
 Hyundai,2011,Xe đã dùng,110000.0,Trong nước,Hatchback,Số tự động,Xăng,1.4,5.0,233
@@ -31485,7 +31484,7 @@ Hyundai,2017,Xe đã dùng,100000.0,,Sedan,Số tay,Xăng,,,190
 Audi,2013,Xe đã dùng,90000.0,,Sedan,Số tự động,Xăng,2.0,5.0,629
 Mazda,2004,Xe đã dùng,79.0,,Hatchback,Số tay,Xăng,1.5,5.0,155
 Mercedes Benz,2008,Xe đã dùng,140000.0,Trong nước,,Số tự động,Xăng,,,285
-Vinfast,2023,Xe mới,0.0,Trong nước,,Số tự động,Điện,,5.0,99
+Vinfast,2023,Xe mới,0.0,Trong nước,,Số tự động,Điện,0.0,5.0,99
 Chevrolet,2016,Xe đã dùng,76767.0,Trong nước,SUV /Crossover,Số tự động,Xăng,2.4,7.0,425
 Hyundai,2015,Xe đã dùng,95123.0,Nhập khẩu,,Số tay,Xăng,,,185
 Hyundai,2019,Xe đã dùng,76000.0,Nhập khẩu,Sedan,Số tay,Xăng,1.4,5.0,345
@@ -31512,7 +31511,7 @@ Ford,2009,Xe đã dùng,110000.0,Trong nước,SUV /Crossover,Số tay,Dầu,2.5
 Vinfast,2022,Xe đã dùng,12136.0,Trong nước,,Số tự động,Xăng,,,660
 Ford,2018,Xe đã dùng,38000.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,0.0,4.0,1990
 Toyota,2009,Xe đã dùng,140000.0,,Sedan,Số tự động,Xăng,,,320
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,5
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,5
 Mitsubishi,2017,Xe đã dùng,75000.0,Trong nước,,Số tay,Dầu,,,499
 Nissan,2020,Xe đã dùng,55000.0,,Sedan,Số tự động,Xăng,1.5,5.0,375
 Mazda,2018,Xe đã dùng,44000.0,,Hatchback,Số tự động,Xăng,1.5,5.0,465
@@ -31665,7 +31664,7 @@ Honda,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Xăng,,
 Mitsubishi,2022,Xe đã dùng,48000.0,,SUV /Crossover,Số tự động,Xăng,1.5,7.0,529
 Kia,2019,Xe đã dùng,60000.0,,Van/Minivan,Số tự động,Dầu,2.2,7.0,879
 Toyota,2013,Xe đã dùng,132000.0,Nhập khẩu,SUV /Crossover,Số tay,Dầu,2.4,7.0,475
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,458
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,458
 Ford,2005,Xe đã dùng,99.0,Nhập khẩu,SUV /Crossover,Số tay,Dầu,2.5,7.0,135
 Kia,2021,Xe đã dùng,40000.0,Trong nước,Sedan,Số tự động,Xăng,1.4,5.0,369
 Hyundai,2009,Xe đã dùng,130000.0,Nhập khẩu,Coupe,Số tự động,Xăng,2.0,4.0,360
@@ -31734,7 +31733,7 @@ Toyota,2020,Xe đã dùng,51350.0,Nhập khẩu,,Số tự động,Xăng,,,590
 Mazda,2021,Xe đã dùng,22000.0,Trong nước,Sedan,Số tự động,Xăng,2.0,5.0,739
 Cadillac,2008,Xe đã dùng,100000.0,Nhập khẩu,Sedan,Số tự động,Xăng,3.0,5.0,555
 Toyota,2021,Xe đã dùng,46900.0,,SUV /Crossover,Số tay,Xăng,2.0,8.0,655
-Vinfast,2023,Xe mới,0.0,Trong nước,,Số tự động,Điện,,7.0,1090
+Vinfast,2023,Xe mới,0.0,Trong nước,,Số tự động,Điện,0.0,7.0,1090
 Toyota,2022,Xe đã dùng,3000.0,Nhập khẩu,,Số tự động,Xăng,,,800
 Chevrolet,2016,Xe đã dùng,100000.0,,Sedan,Số tay,Xăng,1.8,5.0,245
 Suzuki,2019,Xe đã dùng,400000.0,Trong nước,SUV /Crossover,Số tự động,Xăng,1.5,7.0,409
@@ -31744,7 +31743,7 @@ Kia,2023,Xe mới,0.0,Nhập khẩu,SUV /Crossover,Số hỗn hợp,Xăng,1.5,5.
 Ford,2007,Xe đã dùng,180852.0,Trong nước,SUV /Crossover,Số tay,Dầu,2.5,7.0,199
 Mazda,2014,Xe đã dùng,123000.0,Trong nước,Hatchback,Số tự động,Xăng,1.5,5.0,325
 Kia,2018,Xe đã dùng,54000.0,,Sedan,Số tự động,Xăng,1.6,5.0,465
-Vinfast,2023,Xe mới,0.0,Trong nước,,Số tự động,Điện,,4.0,675
+Vinfast,2023,Xe mới,0.0,Trong nước,,Số tự động,Điện,0.0,4.0,675
 Audi,2008,Xe đã dùng,70000.0,,Coupe,Số tự động,Xăng,2.0,4.0,780
 Toyota,2015,Xe đã dùng,100800.0,Trong nước,SUV /Crossover,Số tự động,Xăng,2.4,7.0,520
 Toyota,2002,Xe đã dùng,150000.0,Nhập khẩu,Van/Minivan,Số tay,Xăng,2.7,16.0,28
@@ -31758,7 +31757,7 @@ Ford,2019,Xe đã dùng,40000.0,Nhập khẩu,Bán tải / Pickup,Số tự đ�
 Toyota,2021,Xe đã dùng,22000.0,,Sedan,Số tay,Xăng,1.5,5.0,485
 Chevrolet,2011,Xe đã dùng,67000.0,Nhập khẩu,Convertible,Số tự động,Xăng,2.0,4.0,1200
 Hyundai,2022,Xe đã dùng,21000.0,Trong nước,,Số tự động,Xăng,,,1050
-Vinfast,2023,Xe mới,0.0,Trong nước,,Số tự động,Điện,,4.0,745
+Vinfast,2023,Xe mới,0.0,Trong nước,,Số tự động,Điện,0.0,4.0,745
 Mercedes Benz,2009,Xe đã dùng,250.0,Nhập khẩu,Van/Minivan,Số tay,Dầu,,6.0,200
 Mazda,2009,Xe đã dùng,129999.0,Nhập khẩu,Hatchback,Số tự động,Xăng,1.5,5.0,220
 Kia,2013,Xe đã dùng,95000.0,Nhập khẩu,Sedan,Số tự động,Xăng,2.0,5.0,395
@@ -31809,7 +31808,7 @@ Ford,2016,Xe đã dùng,75000.0,Trong nước,Hatchback,Số tự động,Xăng,
 Mercedes Benz,2022,Xe mới,0.0,Trong nước,Sedan,Số tự động,Xăng,,,1350
 Ford,2021,Xe đã dùng,50000.0,,Bán tải / Pickup,Số tay,Dầu,2.0,5.0,505
 Hyundai,2022,Xe đã dùng,19000.0,,SUV / Cross over,Số tự động,Xăng,,,1091
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,1090
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,1090
 Ford,2005,Xe đã dùng,90000.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,2.3,5.0,153
 Toyota,2018,Xe đã dùng,80000.0,,Sedan,Số tự động,Xăng,2.5,5.0,690
 Ford,2023,Xe mới,0.0,Nhập khẩu,SUV /Crossover,Số tự động,Dầu,2.5,7.0,1200
@@ -31907,7 +31906,7 @@ Kia,2021,Xe đã dùng,53000.0,Trong nước,SUV /Crossover,Số tự động,X�
 Honda,2021,Xe đã dùng,25000.0,,SUV / Cross over,Số tự động,Xăng,,,860
 Toyota,2010,Xe đã dùng,9.0,Nhập khẩu,Sedan,Số tự động,Xăng,2.5,5.0,399
 Daewoo,1999,Xe đã dùng,120000.0,Nhập khẩu,,Số tay,Xăng,,,45
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,675
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,675
 Hyundai,2014,Xe đã dùng,81000.0,Nhập khẩu,,Số tay,Xăng,,,170
 Hyundai,2019,Xe đã dùng,56000.0,Trong nước,,Số tự động,Xăng,,,335
 Kia,2016,Xe đã dùng,90000.0,Trong nước,SUV /Crossover,Số tự động,Xăng,2.2,6.0,520
@@ -31917,10 +31916,10 @@ Suzuki,2023,Xe mới,0.0,Nhập khẩu,Hatchback,Số tự động,Xăng,1.2,5.0
 Toyota,2023,Xe mới,0.0,Trong nước,SUV /Crossover,Số tự động,Xăng,1.3,7.0,568
 Ford,2023,Xe mới,0.0,Nhập khẩu,Van/Minivan,Số tay,Dầu,2.2,16.0,849
 Toyota,2023,Xe mới,0.0,Nhập khẩu,Hatchback,Số tự động,Xăng,1.3,5.0,643
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,458
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,458
 Kia,2013,Xe đã dùng,90000.0,Trong nước,Hatchback,Số tay,Xăng,1.2,5.0,148
 Mercedes Benz,2023,Xe mới,0.0,Trong nước,Sedan,Số tự động,Xăng,,,2960
-Mitsubishi,1995,Xe đã dùng,256879.0,Nhập khẩu,,Số hỗn hợp,Điện,,,58
+Mitsubishi,1995,Xe đã dùng,256879.0,Nhập khẩu,,Số hỗn hợp,Điện,0.0,,58
 Mercedes Benz,2010,Xe đã dùng,20.0,,Sedan,Số tự động,Xăng,,,330
 BMW,2014,Xe đã dùng,80000.0,Nhập khẩu,,Số tự động,Xăng,,,960
 Hyundai,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Dầu,,,1199
@@ -31967,7 +31966,7 @@ Toyota,2016,Xe đã dùng,55555.0,,SUV /Crossover,Số tự động,Xăng,2.4,7.
 Toyota,2023,Xe mới,0.0,Trong nước,Sedan,Số tự động,Xăng,1.5,5.0,60
 Toyota,2021,Xe đã dùng,69500.0,Trong nước,SUV /Crossover,Số tự động,Dầu,2.4,7.0,940
 Toyota,2023,Xe mới,0.0,Nhập khẩu,SUV /Crossover,Số tay,Xăng,1.3,7.0,530
-Vinfast,2023,Xe mới,0.0,Trong nước,Hatchback,Số tự động,Điện,,,675
+Vinfast,2023,Xe mới,0.0,Trong nước,Hatchback,Số tự động,Điện,0.0,,675
 Toyota,2022,Xe đã dùng,14900.0,Nhập khẩu,,Số tự động,Xăng,,,780
 Kia,2017,Xe đã dùng,52000.0,Trong nước,Hatchback,Số tự động,Xăng,1.2,5.0,195
 Honda,2008,Xe đã dùng,300000.0,,Sedan,Số tay,Xăng,1.5,5.0,220
@@ -31982,7 +31981,7 @@ Mercedes Benz,2018,Xe đã dùng,58000.0,Trong nước,,Số tự động,Xăng,
 Kia,2022,Xe đã dùng,15000.0,Trong nước,Van/Minivan,Số tự động,Dầu,2.2,8.0,1366
 Honda,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Xăng,,,1159
 Honda,2019,Xe đã dùng,3300.0,Nhập khẩu,Hatchback,Số tự động,Xăng,1.2,5.0,375
-Hãng khác,2023,Xe mới,0.0,Trong nước,,Số tự động,Điện,,5.0,265
+Hãng khác,2023,Xe mới,0.0,Trong nước,,Số tự động,Điện,0.0,5.0,265
 Ford,2016,Xe đã dùng,90000.0,Nhập khẩu,Bán tải / Pickup,Số tay,Dầu,2.0,5.0,385
 Hyundai,2004,Xe đã dùng,140000.0,Nhập khẩu,,Số tự động,Dầu,,,180
 Suzuki,2020,Xe đã dùng,47268.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,1.5,7.0,442
@@ -32092,7 +32091,7 @@ MG,2023,Xe mới,0.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,1.5,5.
 Honda,2023,Xe mới,0.0,Nhập khẩu,SUV / Cross over,Số tự động,Động cơ Hybrid,,,1259
 Hyundai,2011,Xe đã dùng,181216.0,Nhập khẩu,Sedan,Số tay,Xăng,1.4,5.0,215
 Honda,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Xăng,,,1164
-Vinfast,2023,Xe mới,0.0,Nhập khẩu,,Số tự động,Điện,,,99
+Vinfast,2023,Xe mới,0.0,Nhập khẩu,,Số tự động,Điện,0.0,,99
 Honda,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Xăng,,,1159
 Mazda,2020,Xe đã dùng,10000.0,Trong nước,Hatchback,Số tự động,Xăng,1.5,5.0,650
 Honda,2017,Xe đã dùng,57000.0,Nhập khẩu,Sedan,Số tự động,Xăng,1.5,5.0,548
@@ -32147,7 +32146,7 @@ Honda,2019,Xe đã dùng,30000.0,Trong nước,Sedan,Số tự động,Xăng,1.5
 Hyundai,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Dầu,,,969
 Suzuki,2014,Xe đã dùng,62000.0,Trong nước,Hatchback,Số tự động,Xăng,1.2,5.0,275
 Hyundai,2021,Xe đã dùng,24000.0,Trong nước,,Số tay,Xăng,,,319
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,458
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,458
 Hyundai,2023,Xe mới,0.0,Nhập khẩu,SUV / Cross over,Số tự động,Động cơ Hybrid,,,1279
 Toyota,2023,Xe mới,0.0,Trong nước,Van/Minivan,Số tự động,Xăng,,,698
 Toyota,2007,Xe đã dùng,231000.0,Trong nước,SUV /Crossover,Số tay,Xăng,2.0,8.0,140
@@ -32261,7 +32260,7 @@ Lexus,2012,Xe đã dùng,100000.0,Nhập khẩu,SUV /Crossover,Số tự động
 Toyota,2014,Xe đã dùng,219000.0,Trong nước,SUV /Crossover,Số tay,Xăng,2.0,8.0,330
 Toyota,2019,Xe đã dùng,73000.0,Trong nước,SUV /Crossover,Số tay,Xăng,2.0,8.0,505
 Kia,2022,Xe mới,0.0,Nhập khẩu,Sedan,Số tự động,Xăng,1.6,5.0,619
-HongQi,2022,Xe đã dùng,13000.0,Nhập khẩu,,Số tự động,Điện,,,2100
+HongQi,2022,Xe đã dùng,13000.0,Nhập khẩu,,Số tự động,Điện,0.0,,2100
 Nissan,2011,Xe đã dùng,120475.0,Trong nước,,Số tay,Xăng,,,190
 Kia,2022,Xe đã dùng,44000.0,,SUV /Crossover,Số tự động,Dầu,2.2,6.0,1000
 Mercedes Benz,2023,Xe đã dùng,1000.0,Trong nước,,Số tự động,Xăng,,,2730
@@ -32355,7 +32354,7 @@ Toyota,2017,Xe đã dùng,89000.0,Trong nước,SUV /Crossover,Số tay,Xăng,2.
 Kia,2019,Xe đã dùng,36000.0,Trong nước,Sedan,Số tự động,Xăng,1.6,5.0,475
 Hãng khác,2023,Xe mới,0.0,Nhập khẩu,Kiểu dáng khác,Số tay,Xăng,,,239
 Toyota,2016,Xe đã dùng,38000.0,,Van/Minivan,Số tự động,Xăng,2.5,7.0,1970
-Vinfast,2023,Xe đã dùng,6000.0,Nhập khẩu,,Số tự động,Điện,,,930
+Vinfast,2023,Xe đã dùng,6000.0,Nhập khẩu,,Số tự động,Điện,0.0,,930
 Toyota,2018,Xe đã dùng,30123.0,Trong nước,,Số tự động,Xăng,,,575
 Hyundai,2021,Xe đã dùng,16700.0,,Sedan,Số tự động,Xăng,1.4,5.0,470
 Toyota,2020,Xe đã dùng,46000.0,Nhập khẩu,,Số tự động,Xăng,,,3850
@@ -32851,7 +32850,7 @@ Toyota,2009,Xe đã dùng,15000.0,Trong nước,,Số tự động,Xăng,,,310
 Toyota,2019,Xe đã dùng,110000.0,Nhập khẩu,SUV /Crossover,Số tay,Xăng,2.0,8.0,550
 Peugeot,2022,Xe mới,0.0,Trong nước,SUV /Crossover,Số tự động,Xăng,1.6,5.0,969
 Honda,2022,Xe đã dùng,18000.0,Trong nước,Sedan,Số tự động,Xăng,1.5,5.0,479
-Vinfast,2023,Xe đã dùng,6.0,Trong nước,,Số tự động,Điện,,,1000
+Vinfast,2023,Xe đã dùng,6.0,Trong nước,,Số tự động,Điện,0.0,,1000
 Toyota,2012,Xe đã dùng,23000.0,Trong nước,Sedan,Số tự động,Xăng,2.5,5.0,525
 Ford,2016,Xe đã dùng,999999.0,Nhập khẩu,,Số tự động,Xăng,,,670
 Honda,2019,Xe đã dùng,69000.0,,Sedan,Số tự động,Xăng,1.5,5.0,610
@@ -32915,7 +32914,7 @@ Hyundai,2022,Xe đã dùng,15000.0,Trong nước,Sedan,Số tự động,Xăng,1
 Ford,2021,Xe đã dùng,31000.0,Nhập khẩu,SUV /Crossover,Số tự động,Dầu,2.5,7.0,950
 Mercedes Benz,trước năm 1980,Xe đã dùng,256789.0,Nhập khẩu,,Số tự động,Xăng,,,165
 Kia,2014,Xe đã dùng,70000.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,1.6,5.0,456
-Mercedes Benz,2023,Xe mới,0.0,Nhập khẩu,SUV / Cross over,Số tự động,Điện,,,3999
+Mercedes Benz,2023,Xe mới,0.0,Nhập khẩu,SUV / Cross over,Số tự động,Điện,0.0,,3999
 Toyota,2010,Xe đã dùng,114000.0,Trong nước,SUV /Crossover,Số tự động,Xăng,2.4,7.0,365
 Porsche,2009,Xe đã dùng,80000.0,,Sedan,Số tự động,Xăng,3.6,4.0,799
 Mitsubishi,2017,Xe đã dùng,137000.0,Nhập khẩu,,Số tay,Dầu,,,455
@@ -32944,7 +32943,7 @@ Mazda,2018,Xe đã dùng,70000.0,Trong nước,Hatchback,Số tự động,Xăng
 Toyota,2023,Xe mới,0.0,Nhập khẩu,SUV / Cross over,Số tự động,Xăng,,,838
 Mazda,2018,Xe đã dùng,55000.0,Trong nước,Hatchback,Số tự động,Xăng,1.5,5.0,460
 Mazda,2021,Xe đã dùng,20000.0,Nhập khẩu,Sedan,Số tự động,Xăng,1.5,5.0,395
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,458
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,458
 Volkswagen,2022,Xe mới,0.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,2.0,7.0,2099
 Toyota,2018,Xe đã dùng,40000.0,Trong nước,Sedan,Số tự động,Xăng,1.5,5.0,420
 Honda,2019,Xe đã dùng,500000.0,,Sedan,Số tự động,Xăng,1.5,5.0,570
@@ -32981,12 +32980,12 @@ Kia,2018,Xe đã dùng,50000.0,,Sedan,Số tự động,Xăng,1.6,5.0,455
 Nissan,2019,Xe đã dùng,49000.0,,SUV / Cross over,Số tay,Dầu,,,599
 Mitsubishi,2017,Xe đã dùng,140000.0,Nhập khẩu,Hatchback,Số tay,Xăng,1.2,5.0,230
 Suzuki,2023,Xe đã dùng,1.0,Nhập khẩu,,Số tự động,Xăng,,,20
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,50
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,300
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,100
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,250
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,50
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,300
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,100
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,250
 Honda,2016,Xe đã dùng,74000.0,Nhập khẩu,Sedan,Số tự động,Xăng,1.5,5.0,368
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,458
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,458
 Honda,2007,Xe đã dùng,115000.0,Trong nước,Sedan,Số tự động,Xăng,1.5,5.0,235
 Toyota,1998,Xe đã dùng,9999.0,Nhập khẩu,,Số tay,Xăng,,,65
 Daewoo,2008,Xe đã dùng,100000.0,Trong nước,Hatchback,Số tay,Xăng,0.8,5.0,35
@@ -33346,7 +33345,7 @@ Kia,2018,Xe đã dùng,46000.0,Trong nước,Hatchback,Số tự động,Xăng,1
 Toyota,2018,Xe đã dùng,47000.0,Nhập khẩu,SUV /Crossover,Số tay,Dầu,2.4,7.0,789
 Ford,2020,Xe đã dùng,58000.0,Trong nước,Van/Minivan,Số tay,Dầu,2.2,16.0,669
 Mitsubishi,2022,Xe mới,0.0,Trong nước,SUV /Crossover,Số tự động,Xăng,2.0,7.0,880
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,930
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,930
 Toyota,2023,Xe mới,0.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,1.0,5.0,540
 Toyota,2018,Xe đã dùng,66500.0,,SUV /Crossover,Số tự động,Xăng,2.0,8.0,595
 Toyota,2023,Xe mới,0.0,Trong nước,Sedan,Số tự động,Xăng,1.5,5.0,486
@@ -33475,7 +33474,7 @@ Ford,2006,Xe đã dùng,135880.0,Nhập khẩu,SUV /Crossover,Số tay,Dầu,2.5
 BMW,2023,Xe mới,0.0,Nhập khẩu,Sedan,Số tự động,Xăng,,,1809
 Mercedes Benz,2019,Xe đã dùng,50000.0,,SUV /Crossover,Số tự động,Xăng,2.0,5.0,1168
 Honda,2018,Xe đã dùng,100000.0,,Sedan,Số tự động,Xăng,1.5,5.0,395
-Vinfast,2023,Xe mới,0.0,Trong nước,,Số tự động,Điện,,5.0,91
+Vinfast,2023,Xe mới,0.0,Trong nước,,Số tự động,Điện,0.0,5.0,91
 Daewoo,1997,Xe đã dùng,11111.0,Nhập khẩu,,Số tay,Xăng,,,9
 Hyundai,2011,Xe đã dùng,78000.0,Nhập khẩu,Coupe,Số hỗn hợp,Xăng,2.0,4.0,298
 Mitsubishi,2022,Xe đã dùng,37000.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,1.5,7.0,610
@@ -33485,7 +33484,7 @@ Suzuki,2014,Xe đã dùng,49000.0,Nhập khẩu,,Số tự động,Xăng,,,450
 Kia,2013,Xe đã dùng,10000.0,Nhập khẩu,Hatchback,Số tự động,Xăng,1.2,5.0,168
 Toyota,2021,Xe đã dùng,40000.0,Nhập khẩu,,Số tự động,Xăng,,,815
 Kia,2023,Xe đã dùng,,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,2.0,7.0,629
-Vinfast,2023,Xe mới,0.0,Trong nước,,Số tự động,Điện,,5.0,1090
+Vinfast,2023,Xe mới,0.0,Trong nước,,Số tự động,Điện,0.0,5.0,1090
 Mitsubishi,2021,Xe đã dùng,23000.0,,Sedan,Số tự động,Xăng,1.2,5.0,380
 Mitsubishi,2022,Xe đã dùng,22000.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,1.5,7.0,609
 Toyota,2013,Xe đã dùng,180000.0,Nhập khẩu,Bán tải / Pickup,Số tay,Dầu,2.4,5.0,385
@@ -33566,7 +33565,7 @@ Mazda,2023,Xe mới,0.0,Trong nước,Hatchback,Số tự động,Xăng,1.5,5.0,
 Ford,2023,Xe mới,0.0,Nhập khẩu,Bán tải / Pickup,Số tay,Dầu,2.0,5.0,669
 Mazda,2023,Xe mới,0.0,Nhập khẩu,Sedan,Số tự động,Xăng,1.5,5.0,415
 Mazda,2013,Xe đã dùng,60000.0,Trong nước,,Số tự động,Xăng,,,425
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,458
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,458
 Ford,2011,Xe đã dùng,11.0,,Hatchback,Số tự động,Xăng,1.0,5.0,20
 Ford,2016,Xe đã dùng,12000.0,Trong nước,Bán tải / Pickup,Số tay,Dầu,2.0,5.0,550
 Mitsubishi,2023,Xe mới,0.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,1.5,7.0,555
@@ -33694,7 +33693,7 @@ Toyota,2017,Xe đã dùng,76000.0,Trong nước,SUV /Crossover,Số tay,Xăng,2.
 Mazda,2018,Xe đã dùng,59000.0,,Hatchback,Số tự động,Xăng,1.5,5.0,480
 Hyundai,2022,Xe đã dùng,42000.0,,SUV /Crossover,Số tự động,Xăng,1.5,5.0,656
 Vinfast,2019,Xe đã dùng,30000.0,Nhập khẩu,,Số tự động,Xăng,,,690
-Vinfast,2023,Xe đã dùng,,Trong nước,SUV / Cross over,Số tự động,Điện,,,135
+Vinfast,2023,Xe đã dùng,,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,135
 MG,2023,Xe mới,0.0,Nhập khẩu,Sedan,Số tự động,Xăng,1.5,5.0,523
 Honda,2012,Xe đã dùng,97000.0,Trong nước,,Số tự động,Xăng,,,376
 Mercedes Benz,2010,Xe đã dùng,80000.0,Nhập khẩu,,Số tự động,Xăng,,,525
@@ -33769,7 +33768,7 @@ Mazda,2013,Xe đã dùng,89000.0,Trong nước,Sedan,Số tự động,Xăng,1.5
 Mazda,2013,Xe đã dùng,862.0,Trong nước,Hatchback,Số tự động,Xăng,1.5,5.0,305
 Mercedes Benz,2016,Xe đã dùng,80000.0,,Sedan,Số tự động,Xăng,,,755
 Vinfast,2020,Xe đã dùng,38000.0,Trong nước,,Số tự động,Xăng,,,570
-Vinfast,2023,Xe mới,0.0,Trong nước,,Số tự động,Điện,,5.0,458
+Vinfast,2023,Xe mới,0.0,Trong nước,,Số tự động,Điện,0.0,5.0,458
 Hãng khác,2023,Xe đã dùng,,Nhập khẩu,,Số tự động,Xăng,,,14
 Mitsubishi,2023,Xe đã dùng,9000.0,Trong nước,SUV /Crossover,Số tự động,Xăng,2.0,7.0,770
 Lexus,2007,Xe đã dùng,98000.0,Nhập khẩu,Sedan,Số tự động,Xăng,3.5,5.0,479
@@ -34358,7 +34357,7 @@ Ford,2014,Xe đã dùng,123456.0,,Bán tải / Pickup,Số tay,Dầu,2.0,5.0,30
 Mitsubishi,2021,Xe đã dùng,40000.0,,SUV /Crossover,Số tự động,Xăng,1.5,7.0,519
 Kia,2023,Xe đã dùng,6000.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,2.0,7.0,600
 Vinfast,2020,Xe đã dùng,12000.0,Trong nước,,Số tự động,Xăng,,,570
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,675
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,675
 Toyota,2020,Xe đã dùng,21400.0,,SUV /Crossover,Số tự động,Xăng,1.5,7.0,550
 BMW,2023,Xe mới,0.0,Trong nước,Sedan,Số tự động,Xăng,,,1435
 Chevrolet,2016,Xe đã dùng,60000.0,,Bán tải / Pickup,Số tay,Dầu,2.5,5.0,319
@@ -34501,7 +34500,7 @@ Hyundai,2020,Xe đã dùng,19500.0,,Hatchback,Số tay,Xăng,,,325
 Nissan,2013,Xe đã dùng,149000.0,Nhập khẩu,Bán tải / Pickup,Số tay,Dầu,2.5,5.0,310
 Hyundai,2015,Xe đã dùng,105000.0,Nhập khẩu,,Số tự động,Dầu,,,650
 Kia,2016,Xe đã dùng,80000.0,,Hatchback,Số tay,Xăng,1.2,5.0,228
-Vinfast,2023,Xe đã dùng,23000.0,Trong nước,,Số tự động,Điện,,,540
+Vinfast,2023,Xe đã dùng,23000.0,Trong nước,,Số tự động,Điện,0.0,,540
 Kia,2018,Xe đã dùng,86000.0,,Van/Minivan,Số tự động,Dầu,2.2,7.0,795
 Hãng khác,1996,Xe đã dùng,466446.0,Nhập khẩu,,Số tay,Dầu,,,45
 Kia,1995,Xe đã dùng,11111.0,Nhập khẩu,Sedan,Số tay,Xăng,1.4,5.0,15
@@ -34622,7 +34621,7 @@ Kia,2023,Xe mới,0.0,Trong nước,SUV /Crossover,Số tự động,Xăng,1.5,5
 Kia,2016,Xe đã dùng,200000.0,Trong nước,,Số tay,Dầu,,,200
 Mercedes Benz,2020,Xe đã dùng,30000.0,Trong nước,,Số tự động,Xăng,,,1299
 Kia,2021,Xe đã dùng,21000.0,Trong nước,Hatchback,Số tự động,Xăng,1.2,5.0,375
-Vinfast,2023,Xe mới,0.0,Nhập khẩu,,Số tự động,Điện,,,450
+Vinfast,2023,Xe mới,0.0,Nhập khẩu,,Số tự động,Điện,0.0,,450
 Kia,2023,Xe mới,0.0,Trong nước,SUV /Crossover,Số tự động,Xăng,1.4,5.0,594
 Hyundai,2022,Xe đã dùng,36000.0,Trong nước,Sedan,Số tự động,Xăng,1.4,5.0,479
 Toyota,2022,Xe đã dùng,20900.0,Nhập khẩu,,Số tự động,Xăng,,,599
@@ -34632,7 +34631,7 @@ Dodge,2021,Xe đã dùng,21000.0,Nhập khẩu,,Số tay,Dầu,,,130
 Mercedes Benz,2022,Xe đã dùng,38000.0,Trong nước,,Số tự động,Xăng,,,1440
 Kia,2019,Xe đã dùng,10201.0,Trong nước,Hatchback,Số tay,Xăng,1.2,5.0,9
 Peugeot,2019,Xe đã dùng,34000.0,Trong nước,SUV /Crossover,Số tự động,Xăng,1.6,5.0,688
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,1090
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,1090
 Kia,2012,Xe đã dùng,105000.0,Nhập khẩu,Hatchback,Số tự động,Xăng,1.2,5.0,185
 Toyota,2010,Xe đã dùng,72000.0,Nhập khẩu,Van/Minivan,Số tự động,Xăng,2.5,7.0,1250
 Toyota,2015,Xe đã dùng,100000.0,,SUV /Crossover,Số tay,Dầu,2.4,7.0,510
@@ -34660,7 +34659,7 @@ Chevrolet,2008,Xe đã dùng,200000.0,,SUV /Crossover,Số tay,Xăng,2.4,7.0,179
 Honda,2010,Xe đã dùng,88000.0,Trong nước,Sedan,Số tự động,Xăng,1.5,5.0,288
 Mercedes Benz,2021,Xe đã dùng,46500.0,Trong nước,SUV /Crossover,Số tự động,Xăng,2.0,5.0,1639
 Volkswagen,2010,Xe đã dùng,80002.0,Nhập khẩu,Coupe,Số tự động,Xăng,1.4,4.0,355
-Vinfast,2022,Xe đã dùng,9000.0,Nhập khẩu,,Số tự động,Điện,,,830
+Vinfast,2022,Xe đã dùng,9000.0,Nhập khẩu,,Số tự động,Điện,0.0,,830
 Toyota,2019,Xe đã dùng,129000.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,1.3,7.0,395
 Audi,2011,Xe đã dùng,150000.0,,Sedan,Số tự động,Xăng,2.0,5.0,399
 Honda,2020,Xe đã dùng,16000.0,,SUV / Cross over,Số tay,Xăng,,,845
@@ -34735,7 +34734,7 @@ Toyota,2022,Xe đã dùng,20000.0,,Sedan,Số tự động,Xăng,1.5,5.0,479
 Hyundai,2019,Xe đã dùng,75000.0,Nhập khẩu,,Số tay,Xăng,,,275
 Toyota,2022,Xe đã dùng,68000.0,Trong nước,SUV /Crossover,Số tự động,Dầu,2.4,7.0,1000
 Kia,2014,Xe đã dùng,90000.0,Nhập khẩu,Hatchback,Số tự động,Xăng,1.2,5.0,186
-Vinfast,2022,Xe đã dùng,10000.0,,SUV / Cross over,Số tự động,Điện,,,735
+Vinfast,2022,Xe đã dùng,10000.0,,SUV / Cross over,Số tự động,Điện,0.0,,735
 Mitsubishi,2005,Xe đã dùng,80510.0,Trong nước,SUV /Crossover,Số tay,Xăng,2.0,8.0,130
 Ford,2019,Xe đã dùng,180000.0,Trong nước,Van/Minivan,Số tay,Dầu,2.2,16.0,530
 Chevrolet,2016,Xe đã dùng,100000.0,Nhập khẩu,Hatchback,Số tay,Xăng,0.8,5.0,147
@@ -34759,7 +34758,7 @@ Toyota,2018,Xe đã dùng,67000.0,,SUV /Crossover,Số tự động,Xăng,2.4,7.
 Hyundai,2023,Xe mới,0.0,Trong nước,SUV /Crossover,Số tự động,Xăng,2.0,5.0,189
 Mitsubishi,2005,Xe đã dùng,200000.0,Trong nước,SUV /Crossover,Số tay,Xăng,2.4,7.0,135
 Mitsubishi,2018,Xe đã dùng,68000.0,Nhập khẩu,,Số tự động,Xăng,,,750
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,458
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,458
 Honda,2016,Xe đã dùng,76000.0,Trong nước,Sedan,Số tự động,Xăng,1.5,5.0,348
 Honda,2022,Xe đã dùng,35000.0,Nhập khẩu,,Số tự động,Xăng,,,898
 Ford,2023,Xe mới,0.0,Trong nước,Bán tải / Pickup,Số tự động,Dầu,2.0,5.0,707
@@ -34897,7 +34896,7 @@ Kia,2018,Xe đã dùng,80000.0,,SUV /Crossover,Số tay,Xăng,2.0,7.0,375
 Toyota,2023,Xe đã dùng,10000.0,Nhập khẩu,SUV /Crossover,Số tự động,Dầu,2.4,7.0,1050
 Mitsubishi,2021,Xe đã dùng,10000.0,Nhập khẩu,SUV /Crossover,Số tay,Xăng,1.5,7.0,488
 Hyundai,2019,Xe đã dùng,52000.0,,Sedan,Số tự động,Xăng,1.4,5.0,415
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,675
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,675
 Mazda,2017,Xe đã dùng,92000.0,Nhập khẩu,,Số tự động,Dầu,,,368
 BMW,2015,Xe đã dùng,70000.0,,SUV /Crossover,Số tự động,Xăng,3.0,5.0,1200
 Ford,2021,Xe đã dùng,20536.0,Nhập khẩu,Bán tải / Pickup,Số tay,Dầu,2.0,5.0,485
@@ -34961,7 +34960,7 @@ Vinfast,2020,Xe đã dùng,32000.0,Trong nước,,Số tự động,Xăng,,,570
 Mercedes Benz,2001,Xe đã dùng,1.0,Nhập khẩu,,Số tự động,Xăng,,,125
 Honda,2022,Xe đã dùng,22800.0,Trong nước,Sedan,Số tự động,Xăng,1.5,5.0,525
 Toyota,2006,Xe đã dùng,155567.0,Nhập khẩu,SUV /Crossover,Số tay,Xăng,2.0,8.0,235
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,655
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,655
 Toyota,2019,Xe đã dùng,48000.0,Trong nước,Sedan,Số tự động,Xăng,1.5,5.0,452
 Hyundai,2009,Xe đã dùng,268000.0,Nhập khẩu,,Số tay,Dầu,,,280
 Hyundai,2018,Xe đã dùng,73000.0,Trong nước,,Số tay,Xăng,,,225
@@ -35001,7 +35000,7 @@ Ford,2013,Xe đã dùng,63000.0,Nhập khẩu,Sedan,Số tự động,Xăng,2.0,
 Toyota,2019,Xe đã dùng,26000.0,Trong nước,Sedan,Số tay,Xăng,1.5,5.0,375
 Hyundai,2019,Xe đã dùng,29500.0,Trong nước,,Số tự động,Xăng,,,320
 Kia,2017,Xe đã dùng,50000.0,Trong nước,Sedan,Số tự động,Xăng,1.6,5.0,399
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,655
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,655
 Toyota,2012,Xe đã dùng,86000.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,2.4,7.0,358
 Toyota,2019,Xe đã dùng,120000.0,,SUV /Crossover,Số tay,Xăng,2.0,8.0,550
 Mercedes Benz,2022,Xe đã dùng,208.0,Nhập khẩu,,Số hỗn hợp,Xăng,,,1539
@@ -35041,7 +35040,7 @@ Kia,2017,Xe đã dùng,100.0,Trong nước,SUV /Crossover,Số tự động,Dầ
 Mazda,2015,Xe đã dùng,6.0,Trong nước,Hatchback,Số tự động,Xăng,1.5,5.0,379
 Toyota,2018,Xe đã dùng,87000.0,Trong nước,SUV /Crossover,Số tự động,Xăng,2.0,8.0,566
 Mazda,2023,Xe mới,0.0,Trong nước,,Số tự động,Xăng,,5.0,664
-Mercedes Benz,2023,Xe mới,0.0,Nhập khẩu,,Số hỗn hợp,Điện,,7.0,4999
+Mercedes Benz,2023,Xe mới,0.0,Nhập khẩu,,Số hỗn hợp,Điện,0.0,7.0,4999
 Toyota,2020,Xe đã dùng,17800.0,Trong nước,Sedan,Số tự động,Xăng,1.5,5.0,470
 Chevrolet,2013,Xe đã dùng,220000.0,Nhập khẩu,Hatchback,Số tay,Xăng,0.8,5.0,75
 Kia,2016,Xe đã dùng,80000.0,,Sedan,Số tay,Xăng,1.6,5.0,340
@@ -35091,7 +35090,7 @@ Toyota,2017,Xe đã dùng,40000.0,,Sedan,Số tự động,Xăng,2.5,5.0,650
 Toyota,2020,Xe đã dùng,7000.0,Trong nước,SUV /Crossover,Số tay,Xăng,2.0,8.0,640
 Toyota,2005,Xe đã dùng,5.0,Nhập khẩu,,Số tay,Xăng,,,175
 Ford,2009,Xe đã dùng,180000.0,Nhập khẩu,Bán tải / Pickup,Số tay,Xăng,2.0,5.0,225
-Vinfast,2022,Xe đã dùng,40000.0,Trong nước,,Số tự động,Điện,,,696
+Vinfast,2022,Xe đã dùng,40000.0,Trong nước,,Số tự động,Điện,0.0,,696
 Daewoo,1995,Xe đã dùng,41235.0,Nhập khẩu,,Số tay,Xăng,,,40
 Daewoo,2003,Xe đã dùng,999999.0,Trong nước,Hatchback,Số tay,Xăng,0.8,5.0,46
 Volvo,2023,Xe đã dùng,5000.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,2.0,5.0,2190
@@ -35269,7 +35268,7 @@ Ford,2023,Xe mới,0.0,Trong nước,Bán tải / Pickup,Số tự động,Dầ
 Ford,2014,Xe đã dùng,70000.0,,Hatchback,Số tự động,Xăng,1.0,5.0,280
 Nissan,2018,Xe đã dùng,7.0,Nhập khẩu,Bán tải / Pickup,Số tự động,Dầu,2.5,5.0,400
 Hyundai,2022,Xe đã dùng,9500.0,Trong nước,Sedan,Số tự động,Xăng,1.4,5.0,485
-Vinfast,2023,Xe đã dùng,,Trong nước,SUV / Cross over,Số hỗn hợp,Điện,,,1090
+Vinfast,2023,Xe đã dùng,,Trong nước,SUV / Cross over,Số hỗn hợp,Điện,0.0,,1090
 BMW,2015,Xe đã dùng,48000.0,Nhập khẩu,,Số tự động,Xăng,,,899
 Chevrolet,2015,Xe đã dùng,1284.0,Trong nước,Hatchback,Số tay,Xăng,0.8,5.0,159
 Daewoo,2004,Xe đã dùng,14.0,Trong nước,Sedan,Số tay,Xăng,1.6,5.0,72
@@ -35482,7 +35481,7 @@ MG,2020,Xe đã dùng,45000.0,Nhập khẩu,SUV /Crossover,Số tự động,Xă
 Toyota,2022,Xe đã dùng,60000.0,,Van/Minivan,Số tự động,Xăng,,,660
 Hãng khác,2008,Xe đã dùng,100000.0,Trong nước,,Số tay,Dầu,,,100
 Ford,2019,Xe đã dùng,70000.0,Trong nước,Bán tải / Pickup,Số tự động,Dầu,2.0,5.0,513
-Vinfast,2022,Xe đã dùng,5000.0,Trong nước,,Số tự động,Điện,,,480
+Vinfast,2022,Xe đã dùng,5000.0,Trong nước,,Số tự động,Điện,0.0,,480
 Mitsubishi,2003,Xe đã dùng,100000.0,Nhập khẩu,Sedan,Số tay,Xăng,1.6,5.0,89
 Mazda,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Xăng,,,749
 Toyota,2017,Xe đã dùng,90000.0,Nhập khẩu,SUV /Crossover,Số tay,Xăng,2.0,8.0,459
@@ -35519,7 +35518,7 @@ Mazda,2016,Xe đã dùng,70000.0,,Sedan,Số tự động,Xăng,2.0,5.0,490
 Toyota,2017,Xe đã dùng,86000.0,Trong nước,SUV /Crossover,Số tự động,Xăng,2.0,8.0,540
 Toyota,2019,Xe đã dùng,80000.0,Trong nước,Sedan,Số tay,Xăng,1.5,5.0,355
 Mercedes Benz,2009,Xe đã dùng,999.0,Nhập khẩu,,Số tay,Dầu,,,180
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,675
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,675
 Lexus,2005,Xe đã dùng,12.0,Nhập khẩu,,Số tự động,Xăng,,,350
 Hyundai,2020,Xe đã dùng,32000.0,Trong nước,Sedan,Số tự động,Xăng,1.6,5.0,505
 Mitsubishi,2018,Xe đã dùng,48000.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,2.0,7.0,580
@@ -35592,7 +35591,7 @@ Mercedes Benz,2015,Xe đã dùng,120000.0,Nhập khẩu,,Số tự động,Xăng
 Ford,2019,Xe đã dùng,70000.0,Trong nước,Bán tải / Pickup,Số tự động,Dầu,2.0,5.0,515
 Ford,2022,Xe đã dùng,18000.0,Nhập khẩu,SUV /Crossover,Số tự động,Dầu,2.5,7.0,1419
 Vinfast,2022,Xe đã dùng,39999.0,Nhập khẩu,,Số tự động,Xăng,,,315
-Vinfast,2022,Xe đã dùng,4500.0,Trong nước,,Số tự động,Điện,,,839
+Vinfast,2022,Xe đã dùng,4500.0,Trong nước,,Số tự động,Điện,0.0,,839
 Toyota,2019,Xe đã dùng,22000.0,Trong nước,SUV /Crossover,Số tự động,Dầu,2.4,7.0,860
 Suzuki,2023,Xe mới,0.0,Nhập khẩu,SUV / Cross over,Số tự động,Xăng,,,599
 Daewoo,2009,Xe đã dùng,44000.0,Nhập khẩu,Hatchback,Số tự động,Xăng,1.2,5.0,215
@@ -35604,7 +35603,7 @@ Toyota,2022,Xe đã dùng,30700.0,Trong nước,Sedan,Số tự động,Xăng,1.
 Honda,2023,Xe mới,0.0,Trong nước,Sedan,Số tự động,Xăng,1.5,5.0,559
 Kia,2019,Xe đã dùng,15000.0,,Van/Minivan,Số tự động,Dầu,2.2,7.0,760
 Mazda,2021,Xe đã dùng,49000.0,Nhập khẩu,Hatchback,Số tự động,Xăng,1.5,5.0,570
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,458
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,458
 Ford,2023,Xe mới,0.0,Trong nước,Bán tải / Pickup,Số tự động,Dầu,2.0,5.0,707
 Ford,2015,Xe đã dùng,,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,1.5,5.0,348
 Hyundai,2023,Xe mới,0.0,Trong nước,SUV /Crossover,Số tự động,Xăng,2.0,5.0,899
@@ -35681,7 +35680,6 @@ Hyundai,2023,Xe mới,0.0,Nhập khẩu,Sedan,Số tự động,Xăng,,,360
 Kia,2008,Xe đã dùng,158000.0,Nhập khẩu,Hatchback,Số tự động,Xăng,1.2,5.0,155
 Chevrolet,2011,Xe đã dùng,100000.0,Trong nước,Sedan,Số tay,Xăng,1.6,5.0,118
 Kia,2022,Xe đã dùng,2000.0,Trong nước,SUV /Crossover,Số tự động,Xăng,1.5,5.0,582
-Kia,2023,Xe mới,0.0,Nhập khẩu,Sedan,Số tay,Xăng,1.6,5.0,390
 Chevrolet,2007,Xe đã dùng,120000.0,,SUV /Crossover,Số tự động,Xăng,2.4,7.0,189
 Mercedes Benz,2021,Xe đã dùng,46000.0,Nhập khẩu,,Số tự động,Xăng,,,1639
 Mitsubishi,2022,Xe đã dùng,1500.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,1.5,7.0,610
@@ -35711,7 +35709,7 @@ Suzuki,2022,Xe mới,0.0,Nhập khẩu,Van/Minivan,Số tự động,Xăng,,,599
 Honda,2010,Xe đã dùng,100.0,,SUV / Cross over,Số tự động,Xăng,,,310
 Toyota,2023,Xe đã dùng,4500.0,Nhập khẩu,SUV /Crossover,Số tay,Xăng,2.0,8.0,710
 Honda,2019,Xe đã dùng,27000.0,Nhập khẩu,,Số tự động,Xăng,,,22
-Vinfast,2023,Xe mới,0.0,Trong nước,Hatchback,Số tự động,Điện,,,458
+Vinfast,2023,Xe mới,0.0,Trong nước,Hatchback,Số tự động,Điện,0.0,,458
 Mazda,2013,Xe đã dùng,200000.0,Nhập khẩu,,Số tự động,Dầu,,,315
 Honda,2022,Xe đã dùng,14000.0,Trong nước,Sedan,Số tự động,Xăng,1.5,5.0,526
 Hyundai,2015,Xe đã dùng,150000.0,Trong nước,,Số tay,Dầu,,,850
@@ -36116,7 +36114,7 @@ Mazda,2021,Xe đã dùng,45000.0,Trong nước,Hatchback,Số tự động,Xăng
 Vinfast,2023,Xe đã dùng,8000.0,Nhập khẩu,,Số tự động,Xăng,,,410
 Hyundai,2015,Xe đã dùng,125000.0,Nhập khẩu,Sedan,Số tự động,Xăng,2.0,5.0,465
 Hyundai,2011,Xe đã dùng,70000.0,Nhập khẩu,Sedan,Số tự động,Xăng,2.0,5.0,330
-Vinfast,2022,Xe đã dùng,20000.0,Nhập khẩu,,Số tự động,Điện,,,470
+Vinfast,2022,Xe đã dùng,20000.0,Nhập khẩu,,Số tự động,Điện,0.0,,470
 Ford,2023,Xe mới,0.0,Trong nước,Van/Minivan,Số tay,Dầu,2.2,16.0,849
 SYM,2008,Xe đã dùng,88888.0,Nhập khẩu,,Số tự động,Xăng,,,25
 Honda,2022,Xe đã dùng,7600.0,Nhập khẩu,Sedan,Số tự động,Xăng,1.5,5.0,690
@@ -36548,7 +36546,7 @@ Mercedes Benz,2019,Xe đã dùng,36000.0,Trong nước,,Số tự động,Xăng,
 Kia,2015,Xe đã dùng,73000.0,,Sedan,Số tự động,Xăng,1.6,5.0,395
 Kia,2003,Xe đã dùng,150000.0,Trong nước,,Số tay,Xăng,,,45
 Mercedes Benz,2016,Xe đã dùng,69000.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,2.0,5.0,860
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,1070
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,1070
 Toyota,2019,Xe đã dùng,95000.0,Trong nước,Sedan,Số tay,Xăng,1.5,5.0,355
 Toyota,2020,Xe đã dùng,60000.0,Trong nước,Sedan,Số tay,Xăng,1.5,5.0,338
 Chevrolet,2017,Xe đã dùng,92000.0,,Sedan,Số tay,Xăng,1.8,5.0,258
@@ -36598,7 +36596,7 @@ Toyota,2019,Xe đã dùng,39000.0,Nhập khẩu,Hatchback,Số tự động,Xăn
 MG,2022,Xe đã dùng,16000.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,1.5,5.0,495
 Hyundai,2021,Xe đã dùng,12000.0,Trong nước,,Số tay,Xăng,,,318
 Chevrolet,2011,Xe đã dùng,245000.0,Trong nước,Hatchback,Số tay,Xăng,0.8,5.0,65
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,1090
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,1090
 Honda,1992,Xe đã dùng,99999.0,Nhập khẩu,Sedan,Số tay,Xăng,2.4,5.0,42
 Toyota,2012,Xe đã dùng,90000.0,Trong nước,,Số tự động,Xăng,,,375
 Chevrolet,2011,Xe đã dùng,136.0,Nhập khẩu,Hatchback,Số tự động,Xăng,0.8,5.0,143
@@ -36908,7 +36906,6 @@ Ford,2018,Xe đã dùng,82000.0,Nhập khẩu,Bán tải / Pickup,Số tay,Dầ
 Ford,2010,Xe đã dùng,100000.0,Nhập khẩu,Bán tải / Pickup,Số tay,Dầu,2.0,5.0,255
 Toyota,2022,Xe đã dùng,63000.0,Trong nước,SUV /Crossover,Số tay,Xăng,2.4,7.0,886
 Honda,2017,Xe đã dùng,68000.0,,SUV / Cross over,Số tự động,Xăng,,,610
-Hyundai,2023,Xe mới,0.0,Nhập khẩu,Van/Minivan,Số tay,Dầu,3.9,29.0,1430
 Ford,2017,Xe đã dùng,45000.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,1.5,5.0,399
 Ford,2018,Xe đã dùng,,Nhập khẩu,SUV /Crossover,Số tự động,Dầu,2.5,7.0,898
 Kia,2022,Xe đã dùng,,Trong nước,Sedan,Số tự động,Xăng,2.0,5.0,869
@@ -36963,7 +36960,7 @@ Volvo,2022,Xe đã dùng,13000.0,,Sedan,Số tự động,Xăng,2.0,5.0,1628
 Mazda,2019,Xe đã dùng,58000.0,Nhập khẩu,Hatchback,Số tự động,Xăng,1.5,5.0,474
 Honda,2013,Xe đã dùng,120000.0,Nhập khẩu,Sedan,Số tay,Xăng,1.5,5.0,300
 Vinfast,2021,Xe đã dùng,8999.0,Nhập khẩu,,Số tự động,Xăng,,,1695
-Vinfast,2023,Xe mới,0.0,Nhập khẩu,,Số tự động,Điện,,,458
+Vinfast,2023,Xe mới,0.0,Nhập khẩu,,Số tự động,Điện,0.0,,458
 Toyota,2018,Xe đã dùng,55000.0,,Sedan,Số tay,Xăng,1.5,5.0,330
 Suzuki,2022,Xe mới,0.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,1.5,7.0,608
 Mitsubishi,2001,Xe đã dùng,150000.0,Nhập khẩu,Sedan,Số tay,Xăng,1.6,5.0,70
@@ -37402,7 +37399,7 @@ Toyota,2019,Xe đã dùng,20000.0,,Sedan,Số tự động,Xăng,1.5,5.0,500
 Toyota,2019,Xe đã dùng,50000.0,,Sedan,Số tự động,Xăng,1.5,5.0,420
 Toyota,2019,Xe đã dùng,51000.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,1.5,7.0,535
 Hyundai,2022,Xe đã dùng,23000.0,Trong nước,,Số tự động,Dầu,,,1110
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,675
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,675
 Chevrolet,2010,Xe đã dùng,83000.0,Trong nước,Sedan,Số tay,Xăng,1.8,5.0,195
 Ford,2023,Xe đã dùng,100.0,Nhập khẩu,SUV /Crossover,Số tự động,Dầu,2.5,7.0,1560
 Toyota,2019,Xe đã dùng,6000.0,,SUV /Crossover,Số tự động,Dầu,2.4,7.0,835
@@ -37665,8 +37662,8 @@ Mitsubishi,2005,Xe đã dùng,190000.0,,SUV /Crossover,Số tự động,Xăng,2
 Daewoo,2003,Xe đã dùng,,Nhập khẩu,Sedan,Số tay,Xăng,1.6,5.0,49
 Hyundai,2023,Xe mới,0.0,Trong nước,Van/Minivan,Số tự động,Xăng,2.0,7.0,945
 Lexus,2009,Xe đã dùng,77000.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,4.7,7.0,1400
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,458
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,458
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,458
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,458
 Honda,2020,Xe đã dùng,22000.0,Nhập khẩu,Sedan,Số tự động,Xăng,1.5,5.0,650
 Toyota,2006,Xe đã dùng,200000.0,,SUV /Crossover,Số tay,Xăng,2.0,8.0,160
 Chevrolet,2011,Xe đã dùng,102000.0,Trong nước,Sedan,Số tay,Xăng,1.6,5.0,129
@@ -37751,7 +37748,7 @@ Hyundai,2022,Xe đã dùng,22222.0,Trong nước,,Số tự động,Xăng,,,393
 Mazda,2001,Xe đã dùng,10000.0,Nhập khẩu,Sedan,Số tay,Xăng,1.6,5.0,55
 Mercedes Benz,2017,Xe đã dùng,50000.0,,Sedan,Số tự động,Xăng,,,895
 Mitsubishi,2021,Xe đã dùng,14686.0,Trong nước,,Số tự động,Xăng,,,585
-Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,,,458
+Vinfast,2023,Xe mới,0.0,Trong nước,SUV / Cross over,Số tự động,Điện,0.0,,458
 Toyota,2022,Xe đã dùng,42000.0,,SUV /Crossover,Số tay,Xăng,1.3,7.0,498
 Mercedes Benz,2016,Xe đã dùng,50000.0,,Sedan,Số tự động,Xăng,,,1499
 Mercedes Benz,2020,Xe đã dùng,39000.0,Nhập khẩu,,Số tự động,Xăng,,,1199
@@ -37772,7 +37769,7 @@ Kia,2010,Xe đã dùng,100000.0,Nhập khẩu,Sedan,Số tự động,Xăng,1.6,
 Toyota,2017,Xe đã dùng,95000.0,Trong nước,SUV /Crossover,Số tự động,Xăng,2.0,8.0,525
 Mercedes Benz,2018,Xe đã dùng,40000.0,,SUV /Crossover,Số tự động,Xăng,2.0,5.0,1179
 Ford,2019,Xe đã dùng,48000.0,Nhập khẩu,Bán tải / Pickup,Số tay,Dầu,2.0,5.0,485
-Vinfast,2022,Xe đã dùng,35000.0,Trong nước,,Số tự động,Điện,,,870
+Vinfast,2022,Xe đã dùng,35000.0,Trong nước,,Số tự động,Điện,0.0,,870
 Chevrolet,2012,Xe đã dùng,123.0,,Hatchback,Số tự động,Xăng,0.8,5.0,110
 Kia,2016,Xe đã dùng,82000.0,,SUV /Crossover,Số tự động,Dầu,2.2,6.0,580
 Daewoo,2005,Xe đã dùng,120000.0,Nhập khẩu,Hatchback,Số tự động,Xăng,0.8,5.0,85
@@ -37885,12 +37882,12 @@ Toyota,2013,Xe đã dùng,103000.0,,SUV /Crossover,Số tự động,Xăng,2.4,7
 Mercedes Benz,2022,Xe đã dùng,16000.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,2.0,7.0,1560
 Mercedes Benz,2022,Xe đã dùng,6000.0,Nhập khẩu,,Số tự động,Xăng,,,1399
 Mazda,2018,Xe đã dùng,60000.0,Nhập khẩu,Sedan,Số tự động,Xăng,1.5,5.0,360
-Vinfast,2022,Xe đã dùng,10000.0,Nhập khẩu,,Số tự động,Điện,,,434
+Vinfast,2022,Xe đã dùng,10000.0,Nhập khẩu,,Số tự động,Điện,0.0,,434
 Mercedes Benz,2017,Xe đã dùng,42000.0,Nhập khẩu,,Số tự động,Xăng,,,899
 Toyota,2017,Xe đã dùng,48000.0,Trong nước,,Số tự động,Xăng,,,530
 Honda,2007,Xe đã dùng,100000.0,Nhập khẩu,,Số tay,Dầu,,,50
 Hyundai,2019,Xe đã dùng,39000.0,,Sedan,Số tự động,Xăng,1.4,5.0,393
-Vinfast,2022,Xe đã dùng,10000.0,Nhập khẩu,,Số tự động,Điện,,,430
+Vinfast,2022,Xe đã dùng,10000.0,Nhập khẩu,,Số tự động,Điện,0.0,,430
 Mercedes Benz,2021,Xe đã dùng,22000.0,Trong nước,SUV /Crossover,Số tự động,Xăng,2.0,5.0,1450
 Daewoo,2003,Xe đã dùng,1234.0,Trong nước,Sedan,Số tay,Xăng,1.6,5.0,47
 Audi,2013,Xe đã dùng,100000.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,2.0,5.0,585
@@ -38027,7 +38024,7 @@ Ford,2014,Xe đã dùng,180000.0,Nhập khẩu,Van/Minivan,Số tay,Dầu,2.2,16
 Kia,2017,Xe đã dùng,67000.0,,Hatchback,Số tay,Xăng,1.2,5.0,193
 Mitsubishi,2001,Xe đã dùng,100000.0,Nhập khẩu,SUV /Crossover,Số tay,Xăng,2.4,7.0,95
 Chevrolet,2017,Xe đã dùng,36000.0,Trong nước,SUV /Crossover,Số tự động,Xăng,2.4,7.0,470
-Vinfast,2022,Xe đã dùng,123.0,Trong nước,,Số tự động,Điện,,,5
+Vinfast,2022,Xe đã dùng,123.0,Trong nước,,Số tự động,Điện,0.0,,5
 Ford,2020,Xe đã dùng,35000.0,Trong nước,Van/Minivan,Số tay,Dầu,2.2,16.0,669
 Mitsubishi,2023,Xe mới,0.0,Nhập khẩu,SUV /Crossover,Số tự động,Xăng,1.5,7.0,500
 Mitsubishi,2003,Xe đã dùng,111.0,,SUV /Crossover,Số tay,Xăng,2.0,8.0,85
