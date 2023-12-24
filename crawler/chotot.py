@@ -21,7 +21,7 @@ def trade_spider(max_page):
 
 with open('chotot.csv', 'w', newline='', encoding ='utf8') as file:
     writer = csv.writer(file)
-    writer.writerow(['Tiêu đề','Hãng', 'Dòng xe', 'Năm sản xuất', 'Số Km đã đi', 'Tình trạng', 'Hộp số', 'Nhiên liệu', 'Xuất xứ', 'Kiểu dáng', 'Số chỗ', 'Giá'])
+    writer.writerow(['Tiêu đề','Hãng', 'Dòng xe', 'Năm sản xuất', 'Số km đã đi', 'Tình trạng', 'Hộp số', 'Nhiên liệu', 'Xuất xứ', 'Kiểu dáng', 'Số chỗ', 'Giá xe'])
 
 def get_item(item_url):
     source = requests.get(item_url)
@@ -29,7 +29,7 @@ def get_item(item_url):
     info = soup.findAll('div', {'class', 'media-body media-middle'})
     temp = {}
     temp["Tiêu đề"] = title_process(str(soup.find('h1' , {'class' : 'AdDecriptionVeh_adTitle__vEuKD'})))
-    temp["Giá"] = cost_process(str(soup.find('span', {'itemprop' : 'price'})))
+    temp["Giá xe"] = cost_process(str(soup.find('span', {'itemprop' : 'price'})))
 
     for i in info:
         data_array = data_process(str(i))
@@ -75,6 +75,6 @@ def data_process(data):
 def write_car_to_csv(car):
     with open('chotot.csv', 'a', newline='', encoding='utf-8') as f:
         writer = csv.writer(f)
-        writer.writerow([car.get('Tiêu đề', ''),car.get('Hãng', ''), car.get('Dòng xe', ''), car.get('Năm sản xuất', ''), car.get('Số Km đã đi', ''), car.get('Tình trạng', ''), car.get('Hộp số', ''), car.get('Nhiên liệu', ''), car.get('Xuất xứ', ''), car.get('Kiểu dáng', ''), car.get('Số chỗ', ''), car.get('Giá', '')])
+        writer.writerow([car.get('Tiêu đề', ''),car.get('Hãng', ''), car.get('Dòng xe', ''), car.get('Năm sản xuất', ''), car.get('Số km đã đi', ''), car.get('Tình trạng', ''), car.get('Hộp số', ''), car.get('Nhiên liệu', ''), car.get('Xuất xứ', ''), car.get('Kiểu dáng', ''), car.get('Số chỗ', ''), car.get('Giá xe', '')])
 
 trade_spider(1000)
