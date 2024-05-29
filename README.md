@@ -1,4 +1,4 @@
-## This is the source code of Car Price Prediction Project of the course IT4142E at HUST.
+## This is the source code of Car Price Prediction Project
 
 ## Contributions
 
